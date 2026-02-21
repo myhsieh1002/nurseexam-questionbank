@@ -1,37 +1,37 @@
 {
-  "version": "2025.02.1",
-  "lastUpdated": "2025-02-21T00:00:00Z",
-  "totalQuestions": 30,
+  "version": "2.0",
+  "lastUpdated": "2026-02-21",
+  "totalQuestions": 2989,
   "files": [
     {
       "name": "basic_nursing.json",
-      "checksum": "3ffd0aae65f2d14fd8e9132699bab5ff41746422bb5bc8799b0b798e87fec143",
-      "count": 5
-    },
-    {
-      "name": "community.json",
-      "checksum": "80b215aff33061a20bd8064ed4d0300589ff213ae4464f2462879c3ec49c7d59",
-      "count": 5
+      "checksum": "f7de2dc43070eff2",
+      "count": 244
     },
     {
       "name": "med_surg.json",
-      "checksum": "8d18098d0f922d395f78e92bbc83c47a2326c0ddee1257075c59cfe585d17885",
-      "count": 5
+      "checksum": "60759026944bec34",
+      "count": 2154
     },
     {
       "name": "ob_peds.json",
-      "checksum": "72129096b25e658064fed8b2a5e8dccb532046e160c9a707f648ad5a388c7d87",
-      "count": 5
-    },
-    {
-      "name": "professional.json",
-      "checksum": "7c753c1d7f45e1a540f31cf7a15e86c8ed63f0ae1a2a6786002c47fc5ca3756b",
-      "count": 5
+      "checksum": "765f1a19e2ad2060",
+      "count": 190
     },
     {
       "name": "psychiatric.json",
-      "checksum": "d32b442d7b4415d60f4a208bfa051a8da74a434979cfc7010b8660ef30538399",
-      "count": 5
+      "checksum": "3b947309d89b4491",
+      "count": 125
+    },
+    {
+      "name": "community.json",
+      "checksum": "7a13751852fc0fb5",
+      "count": 100
+    },
+    {
+      "name": "basic_medicine.json",
+      "checksum": "1ab231227a8693a4",
+      "count": 176
     }
   ],
   "minAppVersion": "1.0.0"
