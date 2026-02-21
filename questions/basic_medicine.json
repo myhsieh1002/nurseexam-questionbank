@@ -1448,7 +1448,7 @@
       "熱痙攣(heat ceamps)",
       "凍瘡(frostbite)"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1466,7 +1466,7 @@
       "缺血性壞死(avascular necrosis)",
       "乾酪性壞死(caseous necrosis)"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1484,7 +1484,7 @@
       "110",
       "120"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1502,7 +1502,7 @@
       "慢性發炎之於膀胱內膜",
       "胃黏膜化生：胃酸之於食道上皮"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1520,7 +1520,7 @@
       "平滑肌瘤(leiomyoma)",
       "乳頭狀瘤(papilloma)"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1538,7 +1538,7 @@
       "骨肉瘤(osteosarcoma)",
       "纖維性發育不全( fibrous dysplasia)"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1556,7 +1556,7 @@
       "骨肉瘤(osteosarcoma)",
       "結核性骨髓炎(tuberculous osteomyelitis)"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1574,7 +1574,7 @@
       "Hind region",
       "Carbohydrate chain"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1592,7 +1592,7 @@
       "先天性免疫在感染的防禦過程中是站在第一線，反應最快的免疫反應",
       "T淋巴細胞直接與病原接觸，並撲殺之"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1610,7 +1610,7 @@
       "第四型過敏反應發生過程中，IgG 扮演關鍵角色",
       "可用於過敏的治療藥物，包括類固醇、抗組織胺，及免疫調節之生物製劑等"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1628,7 +1628,7 @@
       "輔助型T細胞(helper Tlymphocyte)分泌細胞激素，刺激巨噬細胞以增加細胞內毒殺被吞噬之微生物的活性",
       "自然殺手細胞辨識無MHC class I之標的細胞並予以毒殺"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1646,7 +1646,7 @@
       "γ -溶血",
       "δ -溶血"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1664,7 +1664,7 @@
       "肺炎雙球菌（Streptococcus pneumoniae）",
       "綠膿桿菌（Pseudomonas aeruginosa）"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1682,7 +1682,7 @@
       "rubella virus",
       "Japanese encephalitis virus"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1700,7 +1700,7 @@
       "血球凝集素抑制劑",
       "神經胺酸酶抑制劑"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1718,7 +1718,7 @@
       "過去已知且被控制，而再度有流行趨勢的傳染病",
       "在地理分布上有擴張情形的傳染病"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1736,7 +1736,7 @@
       "最常見的SCID是XSCID，也稱為 bubble boy disease",
       "SCID的病人無法應付病菌的感染，甚至連B型肝炎這類的活菌減毒性疫苗也會造成感染"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1754,7 +1754,7 @@
       "感染的指標是間質性肺炎伴隨有plasma cells浸潤",
       "此菌細胞無ergosterol成分"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1772,7 +1772,7 @@
       "部分臨床菌株具有嚴重的抗藥性",
       "染色體中的 GC content約為20-30%"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1790,7 +1790,7 @@
       "oxidase",
       "mucinase"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1808,7 +1808,7 @@
       "EAEC",
       "EIEC"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1826,7 +1826,7 @@
       "只會在人類致病",
       "致病無季節性"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1844,7 +1844,7 @@
       "卵巢癌",
       "子宮頸癌"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1862,7 +1862,7 @@
       "無法在溫度高於42℃的水中生長",
       "可在肺泡巨噬細胞內大量增生"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1880,7 +1880,7 @@
       "患者皮膚會出現遊走性紅斑",
       "不需要治療可自行痊癒"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1898,7 +1898,7 @@
       "Clark's rule",
       "Fried rule"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1916,7 +1916,7 @@
       "Phenylephrine",
       "Clonidine"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1934,7 +1934,7 @@
       "Pilocarpine",
       "Dorzolamide"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1952,7 +1952,7 @@
       "Fenoldopam",
       "Clonidine"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1970,7 +1970,7 @@
       "Prazosin",
       "Phenoxybenzamine"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -1988,7 +1988,7 @@
       "H1抗組織胺",
       "H2抗組織胺"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2006,7 +2006,7 @@
       "胃潰瘍",
       "耳毒性"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2024,7 +2024,7 @@
       "Flurazepam",
       "Flunitrazepam"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2042,7 +2042,7 @@
       "止痛",
       "呼吸抑制"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2060,7 +2060,7 @@
       "Sevoflurane",
       "Halothane"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2078,7 +2078,7 @@
       "Pentobarbital",
       "Phenobarbital"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2096,7 +2096,7 @@
       "Diphenoxylate",
       "Bethanechol"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2114,7 +2114,7 @@
       "verapamil",
       "prazosin"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2132,7 +2132,7 @@
       "結合淋巴激素IL-1",
       "結合免疫球蛋白IgG"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2150,7 +2150,7 @@
       "Furosemide",
       "Acetazolamide"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2168,7 +2168,7 @@
       "Dorzolamide",
       "Triamterene"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2186,7 +2186,7 @@
       "Lidocaine",
       "Verapamil"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2204,7 +2204,7 @@
       "Dabigatran",
       "Apixaban"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2222,7 +2222,7 @@
       "Aminoglutethimide",
       "Spironolactone"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2240,7 +2240,7 @@
       "Topotecan",
       "Doxorubicin"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2258,7 +2258,7 @@
       "丙和丁",
       "丁和甲"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2276,7 +2276,7 @@
       "丙",
       "丁"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2294,7 +2294,7 @@
       "平滑肌（smooth muscle）",
       "心肌（cardiac muscle）"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2312,7 +2312,7 @@
       "神經突觸",
       "傳導腦室循環"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2330,7 +2330,7 @@
       "促進肝臟內脂肪堆積與蛋白質分解",
       "有抗升糖素（glucagon）的作用，促進糖質新生作用"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2348,7 +2348,7 @@
       "血清胺（serotonin）",
       "腎上腺素（epinephrine）"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2366,7 +2366,7 @@
       "左心之房室瓣為三尖瓣，右心之房室瓣為二尖瓣",
       "左心室進入主動脈的半月瓣為兩片"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2384,7 +2384,7 @@
       "脈絡叢（choroid plexus）",
       "逆流放大器（counter-current amplifier）"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2402,7 +2402,7 @@
       "黃體促素（LH）",
       "濾泡促素（FSH）"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2420,7 +2420,7 @@
       "脂肪酸基（fatty acid radical）",
       "蛋白質（protein）"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2438,7 +2438,7 @@
       "造成膜電位約5～20毫伏特的電位差",
       "具有維持正常細胞體積的作用"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2456,7 +2456,7 @@
       "薦岬較向前突",
       "恥骨弓較大"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2474,7 +2474,7 @@
       "纖維蛋白原（fibrinogen）",
       "白血球（WBC）"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2492,7 +2492,7 @@
       "嗜中性球",
       "嗜鹼性球"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2510,7 +2510,7 @@
       "交叉配合試驗",
       "血球沉降試驗"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2528,7 +2528,7 @@
       "椎動脈",
       "大腦前動脈"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2546,7 +2546,7 @@
       "膝蓋彎屈時前十字韌帶被拉緊",
       "膝蓋受外側擊時較易傷及脛骨側韌帶"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2564,7 +2564,7 @@
       "體制素（somatostatin）",
       "抗黑素激素（melatonin）"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2582,7 +2582,7 @@
       "左心房與左心室",
       "右心房與右心室"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2600,7 +2600,7 @@
       "十二指腸（duodenum）",
       "乙狀結腸（sigmoid colon）"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2618,7 +2618,7 @@
       "亨氏環上升枝細段",
       "直行血管"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2636,7 +2636,7 @@
       "輸卵管",
       "卵巢"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2654,7 +2654,7 @@
       "肺氣腫（pulmonary emphysema）",
       "糖尿病（diabetes mellitus）"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2672,7 +2672,7 @@
       "纖維蛋白",
       "肉芽性"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2690,7 +2690,7 @@
       "血友病",
       "同性戀或雙性戀男性"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2708,7 +2708,7 @@
       "肺泡管（alveolar ducts）",
       "肺泡（alveoli）"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2726,7 +2726,7 @@
       "結核桿菌",
       "幽門桿菌"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2744,7 +2744,7 @@
       "平滑肌肉瘤",
       "纖維肉瘤"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2762,7 +2762,7 @@
       "肝癌",
       "卡波西氏肉瘤（Kaposi’s sarcoma）"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2780,7 +2780,7 @@
       "鍍銀（silver）",
       "抗酸（acid fast）"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2798,7 +2798,7 @@
       "凋亡基因（apoptotic gene）",
       "DNA修補基因（DNA repair gene）"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2816,7 +2816,7 @@
       "磷酸銨鎂",
       "草酸鈣"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2834,7 +2834,7 @@
       "Serotonin",
       "Bradykinin"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2852,7 +2852,7 @@
       "結合干擾素 IFN-α",
       "結合前列腺素 PGs"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2870,7 +2870,7 @@
       "結合淋巴激素IL-2",
       "結合腫瘤壞死因子TNF-α"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2888,7 +2888,7 @@
       "mifepristone",
       "dexamethasone"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2906,7 +2906,7 @@
       "pancuronium",
       "trimethaphan"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2924,7 +2924,7 @@
       "terbutaline",
       "atropine"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2942,7 +2942,7 @@
       "NSAIDs",
       "NTG"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2960,7 +2960,7 @@
       "dextromethorphan",
       "propranolol"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2978,7 +2978,7 @@
       "dinoprostone",
       "prostacyclin"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -2996,7 +2996,7 @@
       "鏈球菌肺炎（streptococcal pneumonia）",
       "脊髓灰白質炎（poliomyelitis）"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -3014,7 +3014,7 @@
       "披衣菌（Chlamydia）",
       "黴漿菌（Mycoplasma）"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -3032,7 +3032,7 @@
       "叢林斑疹傷寒",
       "斑疹熱"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -3050,7 +3050,7 @@
       "有些自體免疫疾病與主要組織相容抗體（MHC）基因型有關",
       "免疫反應的產生完全靠巨噬細胞"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -3068,7 +3068,7 @@
       "氯黴素（chloramphenicol）",
       "紅黴素（erythromycin）"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -3086,7 +3086,7 @@
       "對大多數的抗生素呈抗藥性",
       "常感染燒傷處，但不會造成全身性（systemic）感染"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -3104,7 +3104,7 @@
       "為機會性致病菌，很少造成院內感染",
       "並不具有抗藥性，臨床上容易治療"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -3122,7 +3122,7 @@
       "淋巴結",
       "黏膜淋巴組織"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -3140,7 +3140,7 @@
       "對抗生素不具感受性",
       "體積小"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
@@ -3158,7 +3158,7 @@
       "可認識目標細胞（target cell）之第二型主要組織相容性抗原再將其毒殺",
       "細胞表面表現CD8"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "基礎醫學",
     "subcategory": "",
