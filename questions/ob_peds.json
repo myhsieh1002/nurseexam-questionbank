@@ -1,116 +1,3422 @@
 [
   {
-    "id": "NUR-OP-001",
-    "question": "產婦在分娩第二產程中，護理人員評估胎心率出現晚期減速（Late Deceleration），此現象最可能反映何種情況？",
+    "id": "OP-110-001-1a25",
+    "question": "有關愛滋病毒敘述，下列何者錯誤？",
     "options": [
-      "A. 臍帶受壓",
-      "B. 胎頭受壓",
-      "C. 子宮胎盤血流不足",
-      "D. 胎兒活動增加"
+      "測到抗體如ELISA陽性即可確定診斷",
+      "當CD4淋巴球下降至200/mL以下時很容易有伺機性感染",
+      "愛滋病毒是屬於反轉錄RNA病毒",
+      "合併使用抗病毒藥（雞尾酒療法）已使愛滋病存活率大為提升"
     ],
-    "answer": 2,
-    "explanation": "晚期減速（Late Deceleration）是指胎心率在子宮收縮開始後才開始下降，在收縮結束後才恢復正常，呈現延遲性的下降模式。此現象反映子宮胎盤血流不足（Uteroplacental Insufficiency），屬於不良徵兆。護理措施包括：協助左側臥、給予氧氣、增加靜脈輸液速率、停止催產素，並立即通知醫師。",
+    "answer": -1,
+    "explanation": "",
     "category": "產兒科護理學",
-    "subcategory": "產科",
-    "difficulty": 3,
-    "tags": [
-      "胎心率監測",
-      "晚期減速",
-      "產程護理",
-      "胎兒窘迫"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
-  },
-  {
-    "id": "NUR-OP-002",
-    "question": "新生兒出生後1分鐘進行Apgar評分，下列何項不屬於評估項目？",
-    "options": [
-      "A. 心跳速率",
-      "B. 呼吸狀況",
-      "C. 體溫",
-      "D. 肌肉張力"
-    ],
-    "answer": 2,
-    "explanation": "Apgar評分包含五項評估指標：(1)外觀/膚色（Appearance）、(2)脈搏/心跳速率（Pulse）、(3)表情/反射反應（Grimace）、(4)活動力/肌肉張力（Activity）、(5)呼吸（Respiration）。體溫並不在Apgar評分項目中。每項0~2分，滿分10分，分別於出生後1分鐘及5分鐘各評估一次。",
-    "category": "產兒科護理學",
-    "subcategory": "新生兒",
+    "subcategory": "",
     "difficulty": 1,
-    "tags": [
-      "Apgar評分",
-      "新生兒評估",
-      "出生評估"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
   },
   {
-    "id": "NUR-OP-003",
-    "question": "6個月大的嬰兒因急性細支氣管炎住院，護理人員應優先執行下列何項護理措施？",
+    "id": "OP-110-001-3c55",
+    "question": "一位32歲女性曾經歷兩次懷孕，懷孕期間皆不自覺的子宮內口擴張，但無子宮收縮的現象，最後引起胎膜破裂導致自然分娩。目前第三次懷孕14週，下列何項處置最適當？",
     "options": [
-      "A. 鼓勵大量飲水以稀釋痰液",
-      "B. 維持呼吸道通暢並監測血氧濃度",
-      "C. 給予高蛋白飲食以增強免疫力",
-      "D. 限制探視以減少心理刺激"
+      "補充雌激素",
+      "補充黃體素",
+      "使用預防性安胎藥",
+      "安排子宮頸環紮手術"
     ],
-    "answer": 1,
-    "explanation": "急性細支氣管炎（Acute Bronchiolitis）最常見病原體為呼吸道融合病毒（RSV）。嬰兒因細支氣管管徑小，發炎腫脹後易造成呼吸窘迫。護理優先順序應以維持呼吸道通暢及監測血氧為首要，包括抬高床頭、適時抽吸分泌物、監測SpO2及呼吸型態變化。",
+    "answer": -1,
+    "explanation": "",
     "category": "產兒科護理學",
-    "subcategory": "兒科",
-    "difficulty": 2,
-    "tags": [
-      "細支氣管炎",
-      "RSV",
-      "嬰兒護理",
-      "呼吸道照護"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
   },
   {
-    "id": "NUR-OP-004",
-    "question": "有關妊娠糖尿病（GDM）孕婦的護理指導，下列何者正確？",
+    "id": "OP-110-002-3686",
+    "question": "有關下列胎兒監視器的判讀，下列何者需要最優先評估處理？",
     "options": [
-      "A. 應完全避免醣類攝取以控制血糖",
-      "B. 建議少量多餐，每日分為三正餐加三點心",
-      "C. 產後血糖會自動恢復正常，無需追蹤",
-      "D. 懷孕期間禁止任何運動"
+      "心跳100bpm，有很好的變異性(variability)",
+      "反覆且頻繁出現的胎兒心跳加速(acceleration)",
+      "心跳160bpm，但變異性(variability)明顯",
+      "出現正弦波型之胎兒心跳模式(sinusoidal pattern)"
     ],
-    "answer": 1,
-    "explanation": "妊娠糖尿病的飲食指導重點為少量多餐（三正餐加三點心），均衡攝取醣類、蛋白質與脂肪，而非完全禁止醣類。適度運動如散步有助於血糖控制。產後雖多數血糖會恢復正常，但仍需於產後6~12週進行口服葡萄糖耐量試驗（OGTT）追蹤，因日後罹患第二型糖尿病風險較高。",
+    "answer": -1,
+    "explanation": "",
     "category": "產兒科護理學",
-    "subcategory": "產科",
-    "difficulty": 2,
-    "tags": [
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-002-8b8d",
+    "question": "下列何者屬於功能不良性子宮出血(DUB)的原因？",
+    "options": [
+      "atrophic endometrium",
+      "anovulation",
+      "abortion",
+      "intrauterine device"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-003-6244",
+    "question": "年輕女性主訴外陰與陰道搔癢、灼熱、陰道分泌物有如乳酪般，臨床上最可能的診斷\n是下列何者？",
+    "options": [
+      "atrophic vaginitis",
+      "bacterial vaginosis",
+      "trichomonas vaginitis",
+      "vulvovaginal candidiasis"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-003-f4dc",
+    "question": "有關葡萄胎的敘述，下列何者正確？",
+    "options": [
+      "術後需追蹤血液人類胎盤絨毛激素(HCG)濃度",
+      "不容易轉移到其他器官",
+      "發生率與母親年齡無關",
+      "常發生於蛋白質攝取過多的婦女"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-004-2b0c",
+    "question": "有關妊娠糖尿病(GDM)之敘述，下列何者正確？",
+    "options": [
+      "容易形成羊水不足",
+      "口服50公克葡萄糖水，一小時後血糖值低於140mg/dL",
+      "新生兒易有紅血球過高症",
+      "口服100公克葡萄糖水後三小時耐量試驗結果，單項數值偏高"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-004-85d9",
+    "question": "趙太太因卵巢實心性腫瘤而住院，檢查後發現腹水及肋膜積水。術後病理檢查是卵巢\n良性腫瘤，臨床診斷為Meigs syndrome；請問此卵巢腫瘤應為下列何者？",
+    "options": [
+      "granulosa cell tumor",
+      "thecoma",
+      "teratoma",
+      "fibroma"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-005-0cea",
+    "question": "黃女士，28歲，懷孕31週，清晨起床發現床褥上有一大灘鮮血，且無其它下腹疼痛症狀，您認為最可能是哪種診斷？",
+    "options": [
+      "先兆性流產",
+      "胎盤早期剝離",
+      "前置胎盤",
+      "子癇前症"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-005-3ef2",
+    "question": "江太太接受硫酸鎂(MgSO4)之治療中，下列何項護理措施最正確？",
+    "options": [
+      "當其深腱反射消失時，應建議醫師立即增加劑量",
+      "應每日記錄輸入及尿液輸出量",
+      "定期監測胎心音，胎心音變異性變小為正常現象",
+      "應同時給予拮抗劑葡萄糖鈣，以避免硫酸鎂之中毒反應"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-006-1cc3",
+    "question": "張女士，懷孕35週，因破水且合併子宮收縮前來求診，下列處置何者最適當？",
+    "options": [
+      "協助安排生產",
+      "使用宮縮緩解劑延長妊娠",
+      "使用類固醇促進胎兒肺部成熟",
+      "立即進行羊水灌注"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-006-5a5c",
+    "question": "協助接生一位早產嬰兒，經過初步處理，五分鐘時嬰兒呈現呼吸慢且不規則，心跳每分\n鐘120下，四肢呈現屈曲狀微動，抽吸管刺激會咳嗽，身體呈現粉紅色但四肢末梢藍紫\n色，請問該嬰兒五分鐘的Apgar score應為幾分？",
+    "options": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-007-1482",
+    "question": "妊娠高血壓患者常使用硫酸鎂(MgSO4)控制痙攣的發生，護理師應監測其血中鎂離子的\n濃度範圍(meq/L)為何？",
+    "options": [
+      "1.5~2.5",
+      "4~7",
+      "10~12",
+      "15~17"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-007-38db",
+    "question": "王女士，懷孕30週，因子宮頸開3公分，規則收縮，且有少量陰道出血而住院，下列何者不是必要使用的藥物？",
+    "options": [
+      "類固醇促進胎兒肺部成熟",
+      "宮縮緩解劑延長妊娠",
+      "硫酸鎂保護胎兒神經系統",
+      "黃體素以減少出血量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-008-299b",
+    "question": "有關糖尿病孕婦的日常照護，下列何者較不適當？",
+    "options": [
+      "添加纖維素有助於控制血糖",
+      "做飲食控制及運動",
+      "維持血糖值不低於40mg/dL",
+      "必要時配合注射胰島素或口服降血糖藥物"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-008-eae3",
+    "question": "HELLP症候群之敘述，下列何者正確？",
+    "options": [
+      "通常發生在第二妊娠期",
+      "H是指羊水過多(hydramnios)",
+      "EL是指胎心音早期減速",
+      "LP是指血小板減少症"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-009-1173",
+    "question": "張太太G1P0妊娠30週，於診所測得之體重較上次產檢增加1公斤，血壓值為\n160/100mmHg，醫師診斷為子癇前症，下列何項症狀符合張太太之診斷？",
+    "options": [
+      "蛋白尿試紙測試為陰性",
+      "僅腳掌有水腫情形",
+      "有陣攣性痙攣",
+      "測肱二頭肌反射評分為+3"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-009-f386",
+    "question": "在懷孕早期抽血做母血唐氏症篩檢時，發現血中胎兒甲型蛋白(α-fetoprotein)明顯升\n高，可能和下列何者有關？",
+    "options": [
+      "胎兒神經管缺陷",
       "妊娠糖尿病",
-      "GDM",
-      "產前照護",
-      "飲食指導"
+      "唐氏症",
+      "透納氏症"
     ],
-    "source": "模擬題",
-    "version": "1.0"
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
   },
   {
-    "id": "NUR-OP-005",
-    "question": "早產兒常見的呼吸窘迫症候群（RDS）主要是因為缺乏下列何種物質？",
+    "id": "OP-110-010-5830",
+    "question": "糖尿病母親所生的新生兒，最容易發生下列何種問題？",
     "options": [
-      "A. 白蛋白（Albumin）",
-      "B. 肺泡乙型細胞表面活性物質（Surfactant）",
-      "C. 免疫球蛋白G（IgG）",
-      "D. 紅血球生成素（EPO）"
+      "體溫調節困難",
+      "產生低血糖",
+      "受到感染",
+      "氣胸"
     ],
-    "answer": 1,
-    "explanation": "新生兒呼吸窘迫症候群（RDS）又稱透明膜疾病，主要發生於早產兒，因肺泡乙型細胞（Type II Pneumocyte）發育不成熟，無法產生足夠的肺泡表面活性物質（Surfactant），導致肺泡塌陷、肺順應性下降、換氣功能障礙。Surfactant通常在妊娠34~36週才會成熟分泌。",
+    "answer": -1,
+    "explanation": "",
     "category": "產兒科護理學",
-    "subcategory": "新生兒",
-    "difficulty": 2,
-    "tags": [
-      "早產兒",
-      "RDS",
-      "Surfactant",
-      "呼吸窘迫"
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-010-7696",
+    "question": "下列何者不是唐氏症胎兒的超音波檢查特徵？",
+    "options": [
+      "nasal bone hypoplasia",
+      "nuchal fold thinning",
+      "echogenic bowel",
+      "mild renal pelvis dilation"
     ],
-    "source": "模擬題",
-    "version": "1.0"
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-011-bea1",
+    "question": "最典型之前置胎盤症狀為下列何者？",
+    "options": [
+      "間歇性腹痛並伴隨點狀出血",
+      "無痛性出血",
+      "下腹部有鈍痛感，並伴隨暗紅色陰道出血",
+      "胎頭提早進入產道，伴隨行走時有出血現象"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-011-fc85",
+    "question": "下列何項因素最明顯會增加子宮肌瘤發生的風險？",
+    "options": [
+      "Obesity",
+      "Pregnancy",
+      "Combination oral contraceptives",
+      "Cigarette smoking"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-012-86fc",
+    "question": "有關妊娠糖尿病的照護原則，下列何者正確？",
+    "options": [
+      "若飲食及運動無法有效控制血糖，則須建議醫師給予口服降血糖藥",
+      "定時定量均衡飲食，不可進食碳水化合物",
+      "每日應有規律運動，以有效控制飲食能量的消耗",
+      "每日所需的飲食量及熱量，應較正常妊娠婦女多"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-012-b32d",
+    "question": "待產過程中，發現胎兒監視器有持續之遲發性心搏減速(late deceleration)，下列何項是\n可能的原因？",
+    "options": [
+      "子宮胎盤間之血液灌流不足",
+      "臍帶受到壓迫",
+      "胎頭受擠壓",
+      "胎動"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-013-5b23",
+    "question": "在待產過程中，胎兒監視器發現有不明之胎兒心跳模式，懷疑有胎兒窘迫(fetal distress)\n時，下列處置何者不適當？",
+    "options": [
+      "立即內診",
+      "停用催生藥物",
+      "請孕婦平躺",
+      "測量血壓"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-013-ad2c",
+    "question": "林太太妊娠31週，因大量破水而入院，相關檢查之敘述，下列何者錯誤？",
+    "options": [
+      "用陰道鏡檢查可見羊水自子宮頸流出",
+      "以石蕊試紙測試流出之液體，石蕊試紙變為紅色",
+      "羊齒狀結晶試驗可見羊齒樹葉狀結晶反應",
+      "超音波檢查羊水減少"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-014-517d",
+    "question": "陳太太懷孕41週，因破水入院，觀察3~4小時之後，胎兒監視器呈現子宮收縮每10分\n鐘1次，進行催產素引產，則下列何者為合適的護理措施？",
+    "options": [
+      "點滴注射期間注意有無尿量過多的現象",
+      "注意生命徵象，如有體溫過高，立即停藥",
+      "隨時注意子宮收縮變化，如收縮不好劑量每半小時調升，直到子宮收縮每1~2分鐘",
+      "注意胎心率的變化，如有胎兒窘迫的情形應隨時停止藥物"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-014-8077",
+    "question": "王女士，28歲，已婚，尚未懷孕，因罹患乳癌，術後將進行化學治療。她為了避免因\n化學治療後破壞卵巢功能而影響日後懷孕，因此在接受化學治療前，下列何項處置最\n合適？",
+    "options": [
+      "冷凍部分卵巢組織",
+      "冷凍卵子",
+      "冷凍胚胎",
+      "全卵巢冷凍保存"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-015-08af",
+    "question": "李太太懷孕32週，因早發性子宮收縮入院治療，醫囑予以ritodrine(Yutopar)靜脈滴注\n20 c.c./hr，有關照護處置之敘述，下列何者正確？",
+    "options": [
+      "ritodrine藥性溫和無副作用，請李太太不須擔心",
+      "用藥期間應嚴密監測生命徵象、體重及胎心率變化",
+      "用藥期間為防止循環過度負荷，應限制水分的攝取",
+      "常見副作用為孕婦及胎兒心搏率變緩慢"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-015-c136",
+    "question": "有關子宮肌瘤的敘述，下列何者較不正確？",
+    "options": [
+      "大部分都沒有症狀",
+      "生長快速不意味是惡性腫瘤",
+      "大部分因懷孕而體積增加",
+      "超音波是最適合與經濟的影像學檢查"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-016-04c6",
+    "question": "張女士，40歲，診斷為不孕症，接受試管嬰兒治療，在取卵後一週突然自覺腹脹、下腹悶痛及尿量變少，前來急診就診，超音波檢查發現有嚴重腹水及雙側卵巢腫大，下列診斷及處置，何者不適當？",
+    "options": [
+      "最可能之診斷為\"卵巢過度刺激\"",
+      "應立即給予利尿劑以增加尿液排出",
+      "若因腹水造成呼吸窘迫，可以進行腹水抽吸",
+      "給予適量輸液，可以改善低血壓及電解質不平衡之問題"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-016-85a2",
+    "question": "陳小弟 11 歲，因闌尾炎進行盲腸切除術。有關手術後護理措施，下列敘述何者正確?",
+    "options": [
+      "疼痛時少用止痛劑，因易降低腸蠕動，可予腹部熱敷，減輕疼痛",
+      "定時監測傷口有無紅、腫、熱、痛等發炎現象",
+      "鼓勵病童臥床休息，減少下床，以預防傷口縫線滲血，導致影響傷口癒合",
+      "術後如有引流管留置，應採平躺姿勢，以利傷口引流"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-017-74fd",
+    "question": "有關提供癲癇病童長期服用抗癲癇藥物的護理措施，下列何者錯誤?",
+    "options": [
+      "需與牛奶一起服用，避免吸收不良",
+      "定時回診監測血中藥物濃度",
+      "即使發作頻率降低，也不可自行停藥",
+      "使用 phenytoin(Dilantin)常見副作用是牙齦增生"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-017-ed12",
+    "question": "請問下列何項的監測，較不適合作為有無排卵的參考？",
+    "options": [
+      "每日測量基礎體溫",
+      "陰道超音波檢查濾泡發育",
+      "尿液HCG（人類絨毛膜激素）檢測",
+      "尿液LH（黃體刺激素）檢測"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-018-3404",
+    "question": "有關發展性髖關節發育不良病童，使用帕米利克背帶(Pavlik harness)的護理措施，下列敘述何者不適當?",
+    "options": [
+      "使用目的是維持髖關節屈曲及外展",
+      "2 歲以上的病童，只需穿戴此背帶直到骨盆發育穩定就會痊癒",
+      "建議父母在背帶正確位置做記號，以方便調整回正確位置",
+      "維持背帶下皮膚的清潔及完整性"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-018-86c8",
+    "question": "一對不孕症夫妻經檢查後，發現男性精蟲數目不足（精液檢查報告：1.5mL，0.5×106\n隻／mL），下列何種人工生殖技術最適合這對夫妻？",
+    "options": [
+      "服用排卵藥，並計算排卵時間同房",
+      "接受睪丸切片取精，並進行試管嬰兒治療(in-vitro fertilization)",
+      "冷凍多次精液，解凍，進行人工授精(intrauterine insemination)",
+      "以“單精蟲卵質注射術”(intracytoplasmic sperm injection)進行試管嬰兒治療"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-019-7d82",
+    "question": "在施行子宮鏡時，請問下列何種方式最能減少子宮擴張液(distension media)進入全身血液循環所引起之合併症？",
+    "options": [
+      "維持子宮腔壓力高於平均動脈壓",
+      "維持液體輸入與輸出子宮腔的總量平衡",
+      "使用幫浦加壓幫助液體撐起子宮腔",
+      "利用抽吸管收集輸出的液體"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-019-d571",
+    "question": "當懷疑個案出現腦膜炎時，醫師常會執行柯林氏徵象(Kernig’s sign)之身體評估，此評估正確做法為何?",
+    "options": [
+      "以反射鎚柄由足跟沿上經足外緣至大趾，出現腳趾呈扇形張開",
+      "讓兒童平躺，將其頭向上抬時，兒童會不自主的彎曲膝蓋及髖部",
+      "讓兒童以兩腳之腳尖踮起走路，測試走路穩定狀態",
+      "使平躺將小腿托高，使髖及膝關節屈曲成直角，再伸展小腿會產生阻力或疼痛"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-020-9f8f",
+    "question": "小方，3 歲，因急性腸胃炎住院，下列何種行為反應顯示小方處於分離焦慮的抗議期?",
+    "options": [
+      "持續性哭叫",
+      "吸手指頭",
+      "白天尿床",
+      "吃奶嘴"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-020-ebd6",
+    "question": "張女士，30歲，未曾懷孕，主訴在兩次月經間有出血，而且月經量增多，在過去10個月間，她接受了三次子宮內膜刮搔術，但症狀並未緩解，口服避孕藥和藥物治療也沒有減少異常出血。請問下列何種處置最恰當？",
+    "options": [
+      "hysterectomy",
+      "laparoscopy",
+      "endometrial ablation",
+      "GnRH agonist"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-021-081b",
+    "question": "有關燒傷病童休克期最初 24 小時的處置措施，下列敘述何者最適當?",
+    "options": [
+      "優先選擇乳酸林格氏液(lactated Ringer solution)補充液體",
+      "以皮下或肌肉注射給予止痛藥物，降低病童疼痛不適",
+      "提供高蛋白、高熱量飲食，以補充熱量與蛋白質耗損",
+      "照護重點是避免燒傷造成關節攣縮或變形後遺症"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-021-297c",
+    "question": "王小姐今年27歲，產科史為G2P2，想要有第三個寶寶，但已經三年都沒有再懷孕了。她的月經規則，但有嚴重經痛及白帶，曾在兩年前因為闌尾炎接受手術治療。她的先生30歲，她和先生都沒有內科方面的疾病。請問這對夫妻最有可能不孕的原因是？",
+    "options": [
+      "ovulatory dysfunction",
+      "tubal factors",
+      "male factors",
+      "uterine abnormalities"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-022-3e3d",
+    "question": "小瑄，1 歲 1 個月，因不明原因發燒而入住兒童病房，測量小瑄的生命徵象時，下列護理措施何者較不適當?",
+    "options": [
+      "採肛溫測量以獲得正確體溫",
+      "讓主要照顧者陪伴在身旁",
+      "先量呼吸、心跳再量體溫",
+      "血壓測量部位最常用為右上臂"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-022-ec38",
+    "question": "48歲的林女士，因子宮肌瘤和第II期卵巢癌，進行子宮及雙側輸卵管、卵巢切除後，第5天發現左側小腿腫脹，經診斷為deep-venous thrombosis。下列何項處置最適當？",
+    "options": [
+      "靜脈給予streptokinase72小時，再給予coumadin ~6個月",
+      "靜脈給予streptokinase 24小時，再給予coumadin 3~6個月",
+      "靜脈給予heparin 5天後，再給予coumadin 3~6個月",
+      "臥床抬高左腿後，立即給予coumadin 3~6個月"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-023-14b5",
+    "question": "早產兒吸吮力弱，有關使用口胃管灌食的注意事項，下列敘述何者不適當?",
+    "options": [
+      "插口胃管時先以無菌蒸餾水潤滑",
+      "每次餵食前應先檢查胃內殘餘量",
+      "灌食時，早產兒頭部抬高大於 30 度",
+      "每日攝取熱量宜為 100~120 Kcal/kg"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-023-1b46",
+    "question": "有關於早期破水之處置，下列何項處置較不適當？",
+    "options": [
+      "需觀察羊水的性質、顏色",
+      "促進孕婦會陰的清潔以免感染",
+      "因胎頭固定，須限制孕婦下床",
+      "應監測胎心音變化"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-024-b502",
+    "question": "嬰兒最早發展的知覺為下列何者?",
+    "options": [
+      "聽覺",
+      "視覺",
+      "觸覺",
+      "嗅覺"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-024-f643",
+    "question": "懷孕中期後所發生之妊娠性糖尿病對胎兒的影響，下列敘述何者不正確？",
+    "options": [
+      "胎兒過大",
+      "胎兒出生後黃疸",
+      "胎兒出生後低血糖",
+      "胎兒血液黏稠度變稀"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-025-2391",
+    "question": "陳女士懷孕八週，但自超音波上無法發現妊娠囊，主訴有劇烈腹痛，進一步檢驗證實為子宮外孕，並有輸卵管破裂現象，需緊急施予手術，在手術之前專科護理師最應注意她下列哪些徵象？",
+    "options": [
+      "宮縮和腹痛",
+      "血壓和脈搏",
+      "尿量和輸液",
+      "陰道出血情形"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-025-4069",
+    "question": "小明，3 歲半，診斷為會厭炎而住院求治，下列護理措施何者最適當?",
+    "options": [
+      "給予小明接種流感嗜血桿菌疫苗",
+      "協助喉嚨採檢時，備好急救用物",
+      "宜給予抽痰以維持呼吸道通暢",
+      "提供冰冷軟質食物，以減少會厭腫脹"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-026-6b61",
+    "question": "小畢3 歲，因為經常出現咬手、打頭、撞牆行為而就醫，醫師診斷有自閉症，護理\n師指導父母有關自閉症的兒童照護，下列何者錯誤?",
+    "options": [
+      "不要因為孩子診斷有自閉症，而心存罪惡感或愧疚",
+      "公平的對待孩子，不必過度關注病童而忽略其他正常孩子的教養",
+      "可嘗試帶著病童走入人群，讓其也能享有正常的社交活動",
+      "對孩子單調固定的習慣給予改變，儘量每日安排不同活動，使生活多采多姿"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-026-f8db",
+    "question": "有關意識不清的嬰幼兒期病童疼痛評估，下列何者最適當?",
+    "options": [
+      "Poker Chip Scale 籌碼片量表",
+      "Face Pain Scale 臉譜疼痛量表",
+      "Face, Legs, Activity, Cry& Consolability量表",
+      "Numeric Pain Scale 數字疼痛量表"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-027-2036",
+    "question": "早產兒常出現呼吸暫停現象，下列敘述何者正確?",
+    "options": [
+      "指呼吸停止連續 10~15 秒，且併有發紺、心跳變快的現象",
+      "維持俯臥姿勢，可縮短早產兒發生呼吸暫停時的心跳遲緩，或發紺之持續時間",
+      "給予 theophylline 時，須觀察有無心搏過慢，及嗜睡等中毒的徵象",
+      "出現呼吸暫停，立即執行心外按摩，促進呼吸恢復"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-027-deed",
+    "question": "有關預防嬰幼兒鉛中毒，下列可減少鉛的吸收之敘述，何者錯誤?",
+    "options": [
+      "進食前應協助嬰幼兒洗手",
+      "選擇不會掉漆的安全玩具",
+      "選擇不會掉漆的安全玩具",
+      "多攝取富含脂肪酸的食物"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-028-73a3",
+    "question": "有關嬰幼兒呼吸系統的解剖生理特徵，下列何者正確？",
+    "options": [
+      "嬰幼兒舌頭在口腔所占的比例比成人小，鼻腔過濾效果較佳",
+      "嬰幼兒的咽喉較狹窄，會厭軟骨較大，比成人較易造成吸入性肺炎",
+      "嬰幼兒採腹式橫膈膜呼吸，乃因其肋骨位置較成人垂直，胸肋骨支持穩定性較小",
+      "嬰幼兒耳咽管較短、窄，呈垂直，致病菌易進入中耳，易發生感染"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-028-c31c",
+    "question": "有關川崎氏症(Kawasaki disease)的臨床表徵，下列敘述何者錯誤?",
+    "options": [
+      "急性期會出現持續發燒 5 天以上",
+      "急性期兩眼結膜充血、草莓樣舌和頸部淋巴結腫大",
+      "亞急性期可能出現腕、膝和踝等關節痛的症狀",
+      "亞急性期紅血球沉降速率和血小板數值降低"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-029-c36b",
+    "question": "感染麻疹(measles)在卡他期(catarrhal stage)的病童之 3C 症狀，下列敘述何者不適當?",
+    "options": [
+      "結膜炎(conjunctivitis)",
+      "鼻炎(coryza)",
+      "咳嗽(cough)",
+      "抽搐(convulsion)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-029-f7fa",
+    "question": "婷婷 3 歲，喜歡吸吮大拇指，但是擔心被母親發現，所以總是以另一手遮掩，婷婷覺\n得自己隱藏得很好，別人不會發現。她的行為是下列何種認知思考特性的反應?",
+    "options": [
+      "自我為中心",
+      "去集中作用",
+      "保留概念",
+      "可逆性"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-030-7bcb",
+    "question": "有關生命末期兒童疼痛評估和照護，下列敘述何者最不適當?",
+    "options": [
+      "病童喊痛時需給予 meperidine 進行止痛",
+      "利用 QUESTT 進行兒童疼痛評估的蒐集",
+      "儘量避免和減少不必要的侵入性治療",
+      "教導家屬利用非藥物方式轉移注意力"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-030-8cbd",
+    "question": "林小弟，9 歲，因為急性腎絲球腎炎(acute glomerulonephritis)而入院治療，有關此疾病\n之護理照護，下列敘述何者錯誤?",
+    "options": [
+      "急性期階段，儘量鼓勵臥床休息，以減少能量消耗",
+      "須密切監測病童水腫、血壓、尿量等的變化",
+      "鼓勵病童多進食高鉀食物，如香蕉、橘子以預防低血鉀",
+      "每日定時使用同一磅秤與相同穿著測量體重"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-031-07e8",
+    "question": "小萱出生第3天，左手手臂活動受限，擁抱反射不對稱，兩肩不等高，局部觸痛及腫\n脹。依此觀察，小萱可能有下列何種問題？",
+    "options": [
+      "鎖骨骨折",
+      "橈骨骨折",
+      "尺骨骨折",
+      "肱骨骨折"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-032-0e3e",
+    "question": "下列何者不屬於新生兒篩檢的項目?",
+    "options": [
+      "葡萄糖-6-磷酸鹽去氫酵素(G-6-PD)缺乏症",
+      "唐氏症",
+      "苯酮尿症",
+      "甲基丙二酸血症(MMA)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-033-3747",
+    "question": "王小弟經由母親垂直感染後天免疫缺乏症候群(AIDS)，下列敘述何者正確?",
+    "options": [
+      "卡氏肺囊蟲肺炎為最常見的死因",
+      "王小弟的大小便會傳染病毒",
+      "王小弟不可以接種 B 型肝炎疫苗",
+      "王小弟可以接種卡介苗"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-034-7349",
+    "question": "小莉被診斷為血小板無力症(thrombasthenia)，此次入院進行首次輸血小板治療，她表\n示現在最害怕受到懲罰，她的發展最可能屬於下列何階段?",
+    "options": [
+      "學步期",
+      "學齡前期",
+      "學齡期",
+      "青少年期"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-035-262f",
+    "question": "小琪 2 歲，為急性骨髓性白血病(AML)末期。有關瀕死病童的照顧，下列敘述何者較\n不適當？",
+    "options": [
+      "開誠溝通，表露關懷",
+      "害怕失去病童，會積極治療",
+      "症狀控制與維持舒適",
+      "尊重家庭的宗教信仰與信念"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-036-fd1c",
+    "question": "有關早產兒腸胃系統功能，下列敘述何者不適當?",
+    "options": [
+      "早產兒胃容量小且胃腸蠕動弱",
+      "心跳及呼吸速率快，新陳代謝快",
+      "對脂肪消化能力有限",
+      "消化乳糖能力至妊娠 32 週以後才成熟"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-037-2858",
+    "question": "有關麻疹(measles)的症狀敘述，下列敘述何者正確?",
+    "options": [
+      "具高傳染性，必須採腸胃道隔離",
+      "疹子最早會出現在軀幹，再擴散至頸部、臉部和四肢",
+      "紅疹出現前 3~5 天至出現紅疹後 4 天，為傳染期",
+      "發燒時使用 aspirin 退燒"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-038-7e56",
+    "question": "小花 6 個月，疑似罹患呼吸道融合病毒，有關採檢相關的敘述，下列何者最適當?",
+    "options": [
+      "糞便的病毒培養",
+      "鼻內分泌物及血液免疫分析",
+      "鼻內分泌物的細菌培養",
+      "血液厭氧培養"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-039-8e55",
+    "question": "14.有關病童使用氧氣帳(O2 tent)之照護，下列何者較適當?",
+    "options": [
+      "應注意維持帳內高氧、低濕度及低溫的環境",
+      "儘量以集中護理的方式，維持帳內的氧氣濃度",
+      "為避免病童有隔離感，應鼓勵照顧者於帳內陪伴",
+      "讓病童將其心愛的電動玩具帶入，以免病童無聊"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-040-3b67",
+    "question": "林小妹 6 歲，因反覆性氣喘發作入院，現病情已漸趨穩定欲出院，有關出院的居家照\n顧，下列敘述何 者正確?",
+    "options": [
+      "家中儘量採用布織的窗簾，以降低過敏",
+      "床單枕頭以 30~40°C的熱水每個月清洗一次為宜",
+      "兒童運動種類應以可控制自己呼吸狀況的有氧運動為主，如慢跑、游泳、騎腳踏車",
+      "由於塵蟎易存在木製品或皮革製品上，睡覺時以提供彈簧床或榻榻米為宜"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-041-5e51",
+    "question": "有關罹患心臟病嬰兒的護理照護，下列何者最適當?",
+    "options": [
+      "少量多餐，奶瓶餵食時間不要少於 30 分鐘，避免吸得太快太急",
+      "心衰竭的嬰兒以低鈉的配方奶取代母乳，減少鈉的攝取量",
+      "必要時使用鼻(口)胃管餵食，減少心臟負荷",
+      "補充鈣質可增加血紅素的載氧量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-042-7730",
+    "question": "小東 8 個月，診斷為法洛氏四重症(Tetralogy of Fallot)，哭鬧厲害全身發紺，此時護理師給予氧氣， 並將小東擺為膝胸臥式之目的為何?",
+    "options": [
+      "減少回流至心臟之血量",
+      "減少全身血管阻力",
+      "減少右心室流向肺動脈之血量",
+      "減少身體耗氧量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-043-e425",
+    "question": "小漢 8 歲，罹患血友病(hemophilia)，下列護理措施何者最適當?",
+    "options": [
+      "關節出血時，加壓並給予熱敷，減輕不適",
+      "鼓勵病童從事適度的活動，以強化其關節肌肉",
+      "刷牙時應選用硬毛刷",
+      "持續疼痛不止，可依醫囑給予止痛藥，如阿斯匹靈(aspirin)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-044-b90c",
+    "question": "9歲的小君，診斷白血病(leukemia)，目前接受化學治療，其血液檢驗數值嗜中性白血球計數為 800/mm3，有關護理措施，下列敘述何者不適當?",
+    "options": [
+      "接觸病童前後都要洗手",
+      "禁止施打活性疫苗",
+      "發燒時使用肛門塞劑來退燒",
+      "飲食遵守低微生物餐的原則"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-045-cfd8",
+    "question": "小美 5 歲，出現發燒、臉色蒼白、虛弱、肚子痛，經醫師確診為神經母細胞瘤第三期，下列敘述何者 最不適當?",
+    "options": [
+      "小美腫瘤已經出現轉移，因此無法完全切除腫瘤",
+      "小美的症狀會依腫瘤位置而出現不同的疾病進展",
+      "可以推測小美已經轉移至骨髓、骨骼、肝臟等處",
+      "如果腫瘤轉移至眼睛，小美會有上眼瞼下垂症狀"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-046-3f7b",
+    "question": "癌症病童接受治療期間，有關疫苗接種之敘述，下列何者最不適當？",
+    "options": [
+      "可以接種流行性感冒疫苗",
+      "可以口服小兒沙賓疫苗",
+      "不可以接觸水痘病人",
+      "不可以接觸麻疹病人"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-047-ce08",
+    "question": "小曄 3 個月大，因為唇裂(cleft lip)而入院，經醫師進行唇裂修補術後返回病室，有關手術後護理， 下列敘述何者錯誤？",
+    "options": [
+      "協助採取俯臥姿勢，以促進分泌物流出，預防呼吸道阻塞",
+      "須適當約束手肘，避免病童碰觸傷口影響癒合",
+      "儘量避免嬰兒吸吮，安撫奶嘴暫時勿使用",
+      "餵完奶後，應給予清水清洗口腔以預防感染"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-048-eb30",
+    "question": "王小弟腹瀉三天，每天高達 10 次，體重從 10 公斤降至 9.2 公斤，尿量也減少。請問王小弟的脫水程度為何?",
+    "options": [
+      "沒脫水",
+      "輕度脫水",
+      "中度脫水",
+      "重度脫水"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-049-7d4c",
+    "question": "有關腸套疊(intussusception)的臨床表徵，下列敘述何者正確?",
+    "options": [
+      "常出現咳嗽、梗塞、發紺等症狀",
+      "解草莓果醬般大便",
+      "腹部的左下象限內會觸摸到香腸狀腫塊",
+      "解出暗茶色尿液"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-110-050-4cbe",
+    "question": "兒童健康手冊有嬰兒大便卡，請家長比對嬰兒大便的顏色，可早期發現膽道閉鎖兒，主要目的為何?",
+    "options": [
+      "預防核黃疸，減少神經損傷",
+      "早期給予特殊奶粉，減少代謝異常",
+      "儘早進行手術，減少肝臟損傷",
+      "儘快給予排膽劑，以利膽汁排出"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-001-561f",
+    "question": "下列何者符合以家庭為中心的照護概念？\n①以親子教室或準父母教室取代媽媽教室  ②補助全國新生兒先天性代謝異常疾病篩檢  ③提供產檢次數及項目，並調高產檢診察費、檢驗費用  ④樂得兒（Labor Delivery Recovery room, LDR）生產空間，使待產、分娩、及產後於同一房間內進行  ⑤鼓勵產後親子同室",
+    "options": [
+      "①④⑤",
+      "①③④",
+      "①②⑤",
+      "②③⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-002-f545",
+    "question": "請回答以下兩題：王女士，懷孕35週，來產前門診檢查，仰臥時，發生眩暈、唇色蒼白和皮膚濕冷，測量血壓96/55 mmHg，下列處置何者最適當？",
+    "options": [
+      "請孕婦趕緊站起來，以免讓血壓繼續惡化",
+      "請孕婦左側臥，並觀察是否有改善",
+      "須緊急轉介醫師處置",
+      "此為懷孕時的正常徵候，觀察即可"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-003-dee6",
+    "question": "承上題，王女士的情況是以下何種情形？",
+    "options": [
+      "姿位性低血壓 (postural hypotension)",
+      "腔靜脈症候群 (vena cavil syndrome）",
+      "生理性貧血 (physical anemia)",
+      "過度凝血狀態 (hypercoagulable)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-004-5219",
+    "question": "產檢時的血液常規(CBC)檢查，可檢測出下列何項疾病？",
+    "options": [
+      "德國麻疹",
+      "B型肝炎帶原",
+      "妊娠糖尿病",
+      "海洋性貧血"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-005-6f08",
+    "question": "陳女士，G1P0，入院待產護理師為她執行胎兒監測器，所得結果如下圖，此胎心率圖為何種週期性變化?(請回答下列1-2題)",
+    "options": [
+      "早期減速",
+      "晚期減速",
+      "不定期加速",
+      "週期性加速"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-006-87f9",
+    "question": "呈上題，請問此週期性變化導致原因及護理師須執行哪種護理措施較合適?",
+    "options": [
+      "胎頭受壓迫造成，讓其更換姿勢可以緩解",
+      "胎盤血流灌注不良造成，改變母親臥位以利改善",
+      "胎兒姿勢不良造成，讓個案下床活動以利緩解",
+      "胎動頻繁造成，請個案觸摸肚子安撫胎兒緩解"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-007-8cad",
+    "question": "李女士，G1P0，因破水入院待產，下列何者為正常待產時會發生的情況？",
+    "options": [
+      "以石蕊試紙檢查破水狀況時，石蕊試紙呈現藍綠色系，羊水無味呈藍綠色",
+      "依據世界衛生組織照護準則執行連續性胎兒監測器，以監測宮縮及胎心音狀況",
+      "待產過程中，可以使用產球、變換姿勢或按摩等舒適技巧，緩解待產不適",
+      "活動期晚期，當宮縮疼痛難耐時，教導他開始用力，以利第二產程分娩"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-008-21b1",
+    "question": "王女士為第二胎，採陰道生產，目前為產後第2天，有關其惡露的敘述，下列何者錯誤？",
+    "options": [
+      "活動時惡露流量會增加",
+      "深紅色帶血腥味",
+      "經產婦的惡露量通常比初產婦少",
+      "陰道生產的惡露量通常比剖腹產的多"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-009-ddfe",
+    "question": "楊女士，G1P1，產後尚未自解小便，護理師評估有尿瀦留情形，下列敘述何者正確？",
+    "options": [
+      "觸診子宮位置偏向右側",
+      "叩診膀胱時會產生鼓音",
+      "目前為產後 3 小時",
+      "聽診下腹部有囉音"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-010-b1f0",
+    "question": "有關新貝拉德計分法（New Ballard Score）新生兒神經肌肉成熟度的評估，下列何者正確？",
+    "options": [
+      "足月兒方形窗可能呈現900",
+      "足月兒膝膕間角度大於1800",
+      "早產兒圍巾徵象手肘部無法超過身體中線",
+      "早產兒的腳跟易拉到耳朵"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-011-bed0",
+    "question": "下列有關新生兒睡眠與活動狀態的特徵，何者較適合哺餵母奶？",
+    "options": [
+      "出現偶發驚嚇反應或突然有吸吮動作",
+      "呼吸不規律，身體動作很多，頭部轉動不停",
+      "哭泣、躁動不安、四肢扭動",
+      "眼腈張大而明亮，看起來有精神，有少量的身體動作"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-012-a1b2",
+    "question": "林女士產檢時診斷為完全性前置胎盤，有關其待產時出現的臨床症狀及處置，下列何者正確？",
+    "options": [
+      "持續腹部疼痛  陰道有鮮紅色出血",
+      "陰道有鮮紅色出血",
+      "執行灌腸維持清潔",
+      "需以剖腹方式生產"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-013-252a",
+    "question": "有關更年期之敘述，下列何者錯誤？",
+    "options": [
+      "常出現熱潮紅是因為黃體素增加所致",
+      "治療服用荷爾蒙補充劑可緩解停經引起的嚴重症狀，但無法預防疾病",
+      "因雌性素減少，造成體內低密度脂蛋白(LDL)增加，易導致心血管疾病",
+      "護理指導婦女規律運動，以緩解更年期不適症狀"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-014-f22b",
+    "question": "下列何者為月經週期不規則者，估算預產期最準確的方法？",
+    "options": [
+      "超音波",
+      "內格萊氏法則 (Nagele’s rule)",
+      "由受孕日加上266日",
+      "以胎動初覺日加20週"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-015-936a",
+    "question": "有關子宮收縮的特性與對產程的影響，下列敘述何者不正確?",
+    "options": [
+      "有效子宮收縮的特性為規則收縮，平均宮縮壓力可達到50-60mmHg",
+      "子宮體上段的收縮可促使胎兒向下推擠，子宮上段肌肉變厚變短",
+      "低張性功能不良性分娩通常會造成子宮灌流減少，造成胎兒缺氧",
+      "高張性功能不良性分娩多集中在子宮下段，靜止壓過高，宮縮不規則"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-016-43c6",
+    "question": "蔡女士， G1P0，懷孕 39週。乙型鏈球菌(GBS)為陽性。今早因產前破水(Prelabor rupture of membranes; PROM)入院待產。下列有關產程進展評估資料何者為異常?",
+    "options": [
+      "子宮頸擴張3cm、變薄程度25%、先露部位高度浮動",
+      "十分鐘出現三次以上宮縮，宮縮強度50-60 mmHg",
+      "羊水呈淡黃清澈，羊水石蕊試紙試驗呈現藍色",
+      "胎心率120-140 bpm，變異性維持在0-2 bpm"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-018-bfe9",
+    "question": "王女士，陰道生產後出現早期產後出血有休克的現象，下列何者為其最早也最容易見到的生命徵象改變？",
+    "options": [
+      "體溫下降",
+      "心跳加快",
+      "呼吸加快",
+      "血壓下降"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-019-6f5a",
+    "question": "林女士，產後一小時，經檢查其宮底鬆軟、位置在腹部中線及肚臍下1公分、產墊上的惡露約6吋，下列的護理措施何者最適當？",
+    "options": [
+      "給予便盆協助個案排空膀胱",
+      "協助按摩子宮直到變球狀硬塊",
+      "協助下床活動使惡露順利排出",
+      "依醫屬給予子宮收縮劑促進宮縮"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-020-17c6",
+    "question": "張女士，產後第一個晚上，非常關心自己的飲食及睡眠，因覺得自己需要好好休息，按鈴通知護理師將新生兒送回嬰兒室，張女士的反應是處於Rubin產後母親行為理論的那個時期?",
+    "options": [
+      "憂鬱期(Depression phase)",
+      "接受期(Taking-in phase)",
+      "緊執期(Taking-in phase)",
+      "放手期 (Letting go phase)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-021-3236",
+    "question": "陳女士，產後第三天，於學習新生兒沐浴時發現新生兒乳房有充盈現象，詢問護理師:「為什麼我兒子會有乳房？」，下列回應何者最適宜？",
+    "options": [
+      "這是受到母親荷爾蒙刺激的影響，是暫時性的，請不用擔心",
+      "這是生產過程催產激素作用的影響，餵母奶後會漸漸消失",
+      "出生過程因為擠壓乳房，造成乳房腫塊而發炎，很常見",
+      "這是正常的乳腺腫大，為避免感染通常醫師會給予藥物治療"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-022-bf97",
+    "question": "吳女士為34歲初孕婦，有糖尿病家族史，下列何者可確認吳女士罹患妊娠糖尿病(gestational diabetes mellitus, GDM)?",
+    "options": [
+      "確認懷孕後的第一次產前檢查，空腹血糖值為100mg/dL",
+      "懷孕24週時，口服75gm葡萄糖水試驗值各為174、166mg/dL",
+      "懷孕25週時，100gm葡萄糖耐受測驗檢查值各為108、186、162、141mg/dL",
+      "懷孕26週時，HbA1C的檢驗值為4.8%"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-023-cef3",
+    "question": "周女士為妊娠糖尿病初孕婦，無心血管疾病史。醫囑要求採嚴格飲食控制，並配合運動以控制血糖，若控制狀況不理想，將配合藥物使用，下列何者為最適當的護理指導?",
+    "options": [
+      "血糖控制的標準是飯後一小時血糖值需低於120mg/dL",
+      "為避免血糖過高，睡前點心不應有碳水化合物成分",
+      "血糖控制過程容易出現酮酸中毒，宜注意相關症狀",
+      "若血糖控制良好，建議於懷孕滿39週後入院引產"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-024-a1ad",
+    "question": "張女士26歲，G2P0SA1AA1，罹患子宮頸上皮內腫瘤，預備採行電圈切除手術，下列術後護理指導何者最適當?",
+    "options": [
+      "術後出血量較大，建議使用衛生棉條",
+      "手術後不宜使用溫水坐浴，以免感染",
+      "術後1-2週出現黑褐色少量出血為正常",
+      "手術不需要麻醉，不用擔心麻醉後遺症"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-025-51f5",
+    "question": "朱女士，因外陰部及陰道內尖性濕疣及骨盆腔炎症就醫，下列敘述何者正確?",
+    "options": [
+      "骨盆腔炎症最常見的症狀是雙側上腹部痙攣痛",
+      "尖性濕疣是由第15、16型性人類乳突病毒所引起",
+      "子宮頸移位疼痛及子宮旁觸痛可能為骨盆腔炎症",
+      "尖性濕疣為免疫功能不良所致，與性行為無關"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-026-fd07",
+    "question": "有關新生兒黃疸的照護及治療，下列敘述何者錯誤?",
+    "options": [
+      "新生兒黃疸最初從臉上、鞏膜開始出現，從頭逐漸擴展至軀幹及腳底。",
+      "接受照光治療時，需增加水分攝取量25%，評估有無深色尿液及綠色軟便。",
+      "接受換血治療前，可由靜脈滴注白蛋白(25% albumin)，以提高換血效果。",
+      "接受換血治療時，每換100mL之血液需注射10%葡萄糖鈣1mL預防凝血。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-027-3482",
+    "question": "有關早產兒的發展性照護，下列敘述何者正確?",
+    "options": [
+      "提供感官刺激當中，建議最早執行聽覺刺激，有助於感覺運動統合發展。",
+      "給予視覺刺激時，建議光線柔和並調節日夜光線變化，以建立晝夜節律。",
+      "保溫箱上的罩布功能為避免過多的嗅覺刺激，以減少干擾早產兒的睡眠。",
+      "袋鼠護理為維持早產兒四肢趨向身體中心靠攏的姿勢，可增加肌肉強度。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-028-7a20",
+    "question": "有關華華11個月大，生長發展評估，下列敘述何者正確?",
+    "options": [
+      "可觸診到尚未關閉呈三角形的前囟門",
+      "出現電報句(telegraphic speech) 的語言",
+      "體重約為出生的2倍，頭圍小於胸圍",
+      "在旁人的協助之下能夠握住杯子喝水"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-029-2e07",
+    "question": "牛牛，3個月大，出生時因基因突變導致膠原蛋白(collagen)製造減少，診斷為成骨不全(Osteogenesis imperfect, OI)，有關此疾病的典型症狀，下列敘述何者錯誤?",
+    "options": [
+      "四肢短且彎曲呈弓形",
+      "肌肉張力增加較緊繃",
+      "眼睛的鞏膜呈現藍色",
+      "耳硬化性的聽力喪失"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-030-5642",
+    "question": "有關罹患呼吸窘迫症候群(Respiratory distress syndrome, RDS)的高危險性新生兒，下列護理措施何者正確?",
+    "options": [
+      "呼吸評估，約在出生後30分鐘至2小時可發現呼吸困難症狀",
+      "兩週內的新生兒皆以口呼吸，應特別注意由口呼吸是否順暢",
+      "需評估與即時矯正酸鹼不平衡，以預防鹼血症引起的核黃疸",
+      "使用氧氣頭罩供氧者，應該每間隔4小時測量1次氧氣分壓"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-031-524d",
+    "question": "小小，2歲3個月大，因腹痛而入院治療，有關住院照護措施，下列敘述何者正確?",
+    "options": [
+      "臉譜量表比FLACC量表更適合用在為小小做疼痛評估",
+      "測量生命徵象時應先量體溫或血壓，最後才測量呼吸",
+      "治療時可給貼紙，轉移注意力及獎賞合作的行為表現",
+      "服用藥物時，可以協助小小將藥丸至於舌根以利吞嚥"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-032-3cb8",
+    "question": "嘟嘟3歲，罹患頑固型癲癇已半年，媽媽是主要照顧者，媽媽疲累地詢問護理師：「我已經努力照顧嘟嘟了，為什麼他的病還不會好？」 請問護理師該如何回答最好？",
+    "options": [
+      "「您看起來很累，需要幫忙嗎？」",
+      "「治療很耗時，我們要有耐心！」",
+      "「您為何覺得嘟嘟的病沒好呢？」",
+      "「每個人的治療效果都不相同！」"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-033-83b3",
+    "question": "丹丹和護理師正在玩警察抓小偷的遊戲，小華說：「警察把小偷打死了，但是小偷還可以活過來喔！」依據Nagy(1948)對死亡概念的分析，請問丹丹正處於那個發展年齡層？",
+    "options": [
+      "1歲至未滿3歲之幼兒時期",
+      "3歲至未滿5歲之學齡前期",
+      "5歲至未滿9歲之學齡早期",
+      "9歲至未滿12歲之學齡晚期"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-034-9167",
+    "question": "有關傳染病病童的口腔健康症狀及其護理措施，下列敘述何者正確？",
+    "options": [
+      "玫瑰疹會使病童發癢，為避免抓傷，宜修剪其指甲",
+      "猩紅熱引發科氏斑點 (Kopliks’ spots)，需口腔護理",
+      "腸病毒病童會出現草莓舌，宜提供其涼且軟的食物",
+      "麻疹病童容易畏光，宜將房間的光線調整為較昏暗"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-035-9513",
+    "question": "小名，5歲，出現氣喘發作，有關臨床症狀，下列敘述何者錯誤？",
+    "options": [
+      "吸氣時常有喘鳴聲",
+      "呼吸道分泌物增加",
+      "咳嗽於夜晚更嚴重",
+      "有使用呼吸輔助肌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-036-0974",
+    "question": "以下何種先天性心臟病較容易因紅血球增多而造成血栓或中風的危險？",
+    "options": [
+      "主動脈狹窄",
+      "開放性動脈導管",
+      "大血管轉位",
+      "心房中膈缺損"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-037-9046",
+    "question": "根據「2030兒童醫療與健康政策建言書」，目前台灣最迫切解決的兒童及青少年健康問題，下列敘述何者錯誤?",
+    "options": [
+      "降低兒童死亡率",
+      "降低兒童肥胖率",
+      "減少青少年3C電子產品濫用",
+      "減少青少年生育率"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-038-02c4",
+    "question": "蘇小弟，早產兒，懷孕週數為28週。開始餵食後出現腹脹、活動力變差、大便出現血絲、生命徵象不穩等現象，醫師懷疑是壞死性腸炎，下列處置何者最正確?",
+    "options": [
+      "可透過臍導管給予全靜脈營養",
+      "減少餵食量",
+      "插口胃管引流減輕腹脹",
+      "哺餵母乳以增加抗體"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-039-e315",
+    "question": "蘇小弟，早產兒，懷孕週數為32週，已出生10個月，請問蘇小弟應該可以完成哪些動作? \n①能重疊3~4塊積木 ②攀扶著可以站起來 ，但站不久 ③獨坐很穩 ④利用單手抓玩具\n⑤可以吃自己手上的食物",
+    "options": [
+      "①+②",
+      "②+④",
+      "③+④",
+      "④+⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-040-05b6",
+    "question": "護理人員發現黃小弟皮膚黃，經醫師診斷為核黃疸初期(第一期)，護理人員照顧黃小弟時，需觀察那些症狀表現? ①無吸吮反射 ②抽搐 ③肌肉張力差 ④嗜睡 ⑤驚嚇反射(startle reflex)",
+    "options": [
+      "①+②+③",
+      "①+③+④",
+      "②+③+④",
+      "③+④+⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-041-304e",
+    "question": "小英出生後約6個月大時，護理師發現她的兩隻腳不一樣長，懷疑小英為發展性髖關節發育不良，護理師可為小英進行何種評估?",
+    "options": [
+      "將小英的雙腿屈曲進行內旋動作，患側可聽見卡嗒聲",
+      "利用視診評估小英的雙腿內側皮膚，其患側皮膚皺褶較少",
+      "可請母親抱起小英，利用視診評估小英大腿，其患肢的肢體較長",
+      "讓小英仰臥平躺，將髖部屈曲成90度，可發現患肢膝部較低"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-042-151d",
+    "question": "蘇小弟，出生週數為30週，出生體重為1170公克，被送至新生兒加護病房時，肛溫：35℃，請問關於維持體溫相關護理措施何者最適當?",
+    "options": [
+      "將蘇小弟吸入的氧氣溫度維持在37℃將蘇小弟吸入的氧氣溫度維持在37℃",
+      "依蘇小弟皮膚溫度來調整保溫箱內溫度在32~34℃",
+      "將蘇小弟置放於小床中，頭戴毛帽，包裹毛毯",
+      "將蘇小弟置放於保溫箱中，使用塑膠單包裹減少對流熱散失"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-043-6fde",
+    "question": "應用以家庭為中心的護理概念在照護10歲腦性麻痺病童的家庭，下列何者不適當?",
+    "options": [
+      "協助病童瞭解自己的優點與能力，鼓勵依自己能力所及執行日常活動。",
+      "跟媽媽解釋學齡期的孩子很怕被同年齡的孩子拒絕，盡量少帶病童外出。",
+      "協助家中的成員接納病童生活作息與其他手足不同。",
+      "鼓勵家中的成員參與病童的照護計畫，以瞭解腦性麻痺及其治療與照護方式。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-044-7454",
+    "question": "曉倫，4歲，是法洛氏四重症(Tetralogy of Fallot; TOF)的個案，因呼吸喘、發紺厲害入院治療，下列護理措施何者最適當?",
+    "options": [
+      "發紺時協助曉倫採膝胸臥位、抬高頭及胸部，並監測生命徵象。",
+      "急性期應協助曉倫採頭低腳高臥位，以利血流運送到腦部。",
+      "配合曉倫用餐後馬上服用毛地黃治療，再完整測量一分鐘的心尖脈。",
+      "給予媽媽衛教指導，建議多給曉倫吃紅肉、蘋果等含鐵食物，以改善缺氧。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-045-9446",
+    "question": "小安6歲，為重度ß-海洋性貧血(ß-Thalassemia)兒童，小安媽媽詢問護理師：「為什麼小安的皮膚呈現黑褐色(青銅色)？是否有改善的方法？」，請問護理師的回答何者錯誤？",
+    "options": [
+      "皮膚呈黑褐色與紅血球破壞增加有關。",
+      "皮膚呈黑褐色與血中鐵質增加有關。",
+      "規律地口服Deferasirox(排鐵劑)可以改善膚色。",
+      "多攝取水分可幫助鐵質代謝，以改善膚色。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-046-ff6c",
+    "question": "小咪，12個月，因輪狀病毒感染，造成腹瀉及輕度脫水，小咪媽媽問：「現在小咪可以吃哪些食物？」，護理師應提供的飲食護理措施，哪些最適合小咪？1.了解小咪副食品添加狀況，2.可進食情況下，餵食口服葡萄糖電解液(oral glucose electrolyte; OGE)，3.鼓勵少量多餐餵食全奶，4.鼓勵餵食小咪喜愛的蒸蛋、蔬菜泥、柳橙汁…等食物。",
+    "options": [
+      "1+2",
+      "1+4",
+      "2+3",
+      "3+4"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-047-74da",
+    "question": "小寶就讀幼稚園中班，因腎病症候群(Nephrotic Syndrome；NS)經常復發，長期口服prednisolone(類固醇)，現在全身明顯水腫，少尿，呼吸40次/分鐘，故入院治療，有關小寶住院期間的照護原則，下列描述何者正確？",
+    "options": [
+      "小寶治療期間，可持續接受常規疫苗注射。",
+      "每日監測小寶的生命徵象、輸出入量、體重及皮膚狀況。",
+      "依醫囑給予靜脈注射利尿劑後再靜脈輸入白蛋白，以減輕水腫。",
+      "鼓勵小寶攝取高熱量、高蛋白、高纖維、低鹽飲食。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-048-bf40",
+    "question": "小威6歲，在學校玩盪鞦韆時摔落地面，曾短暫失去意識，入院診斷為頭部外傷(Head Injury)。目前小威意識清楚，主訴頭痛、流鼻水、嘔吐，護理師對小威的評估及處置，下列何者描述錯誤？",
+    "options": [
+      "使用尿糖試紙測試小威的鼻分泌物是否為腦脊髓液外漏。",
+      "協助小威採半坐臥姿勢，以降低顱內壓，減輕不適感。",
+      "依醫囑由靜脈快速給予10% Glycerol 100ml，30分鐘內滴注完。",
+      "以疼痛量表評估小威頭痛程度及護理處置的成效。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 3,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-049-c649",
+    "question": "林小弟，出生體重720公克，診斷法洛氏四重症，入住加護病房使用呼吸器與強心劑，父母正為是否接受後續治療猶豫不決。根據以家庭為中心的護理，下列敘述何者不適當?",
+    "options": [
+      "提供父母早產兒、法洛氏四重症相關實證照護的資訊",
+      "首次探視時鼓勵父母抱起林小弟，促進依附關係建立",
+      "配合家屬在保溫箱內及林小弟身旁放置平安符",
+      "尊重父母簽署不施行心肺復甦術意願書之決定"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-111-050-973a",
+    "question": "王小弟，2歲6個月大，出生時體重2,900公克、身長48公分，出生後生長發展皆正常，下列何項評估結果不符合王小弟目前應有之生長發展結果?",
+    "options": [
+      "身高80公分、體重10.6公斤",
+      "會使用代名詞，喜歡問問題",
+      "可兩腳交替自行上樓梯",
+      "已經長齊20顆乳牙"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-002-5988",
+    "question": "每年一千個活產嬰兒中未滿4週即死亡數，此稱為下列何者？",
+    "options": [
+      "嬰兒死亡率",
+      "新生兒死亡率",
+      "早產兒死亡率",
+      "周產期死亡率"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-004-2b3e",
+    "question": "有關妊娠期婦女的子宮變化，下列敘述何者正確？①大部分的生理變化是不可逆的 ②子宮肌纖維肥大、血管大小與數量增加使子宮變大、變重 ③子宮底高度隨著週數增加而增高 ④隨著子宮容量增大，子宮壁厚度愈來愈厚",
+    "options": [
+      "①②",
+      "②③",
+      "③④",
+      "①④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-005-f6be",
+    "question": "胚胎及胎兒的發育過程中，那一時期最易受致畸胎原（teratogen）傷害？",
+    "options": [
+      "著床期",
+      "胚胎前期",
+      "胚胎期",
+      "胎兒期"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-007-c093",
+    "question": "吳女士懷孕18週，家中飼養二隻貓，她可能容易受到何種感染？",
+    "options": [
+      "弓形蟲病（toxoplasmosis）",
+      "滴蟲病（Trichomonas vaginalis）",
+      "披衣菌（Chlamydial）",
+      "巨細胞病毒（Cytomegalovirus）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-009-2dfe",
+    "question": "張太太，現在懷孕18週，有一對2歲的雙胞胎小孩。過去孕產史：曾於懷孕21週時因胎兒染色體異常中止妊娠，另一次於懷孕18週時自然流產。其孕產紀錄書應如何紀錄？",
+    "options": [
+      "G3P1A2",
+      "G5P2A1",
+      "G4P1A2",
+      "G4P2A1"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-010-2bfb",
+    "question": "張太太G1P0，懷孕39週，接受無壓力試驗（Non-Stress Test, NST），20分鐘的檢查結果如圖，圖中每小格為30秒。依圖形判讀，張太太的無壓力試驗結果為何？",
+    "options": [
+      "陽性反應",
+      "陰性反應",
+      "反應型",
+      "不反應型"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-014-e8ee",
+    "question": "有關先兆性流產之敘述，下列何者正確？①有陰道點狀出血的情況 ②子宮頸有擴張情形 ③常發生在妊娠早期 ④臥床休息及治療後妊娠可以繼續 ⑤容易造成瀰漫性血管凝血（DIC）",
+    "options": [
+      "①②③",
+      "②③⑤",
+      "①③④",
+      "②④⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-016-a1e3",
+    "question": "葉女士G2P1，懷孕38週，此胎醫師診斷為完全性前置胎盤，主訴今早突然出現無痛性陰道大量紅色出血，至產房求治，下列措施何者錯誤？",
+    "options": [
+      "立即剖腹產",
+      "評估出血量",
+      "陰道內診",
+      "監測胎心音和宮縮狀況"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-018-86af",
+    "question": "婦女接受葡萄胎清除術後，建議一年內須避孕的原因為何？①接著懷孕會造成絨毛性腺激素的急速下降 ②短期再懷孕可能促發絨毛膜癌 ③葡萄胎復發機率高 ④會造成卵巢腫瘤",
+    "options": [
+      "①②",
+      "③④",
+      "①③",
+      "②③"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-020-2ae3",
+    "question": "李女士妊娠32週，有重度子癇前症，胎兒無壓力試驗為反應型，下列何者為合宜的處置？",
+    "options": [
+      "回家臥床休息，每週返院追蹤",
+      "住院並給與硫酸鎂藥物",
+      "立即引產分娩",
+      "立即剖腹生產"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-021-2bba",
+    "question": "分娩的機轉中，內轉是指胎頭枕部轉向骨盆的哪一個方向?",
+    "options": [
+      "薦骨",
+      "恥骨聯合",
+      "右側",
+      "左側"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-112-042-9bbd",
+    "question": "小高，10歲，因頭痛難耐住院接受檢查，當護理師以腦部核磁共振檢查的相關圖片及故事,，說檢查的流程及相關注意事項並澄清小雄的錯誤觀念時，此為下列何種治療性遊戲?",
+    "options": [
+      "戲劇性遊戲",
+      "指導性遊戲",
+      "生理健康促進性遊戲",
+      "情緒宣洩性遊戲"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-001-7d62",
+    "question": "以超音波確認懷孕時，下列那一項是最早被偵測的懷孕徵象？",
+    "options": [
+      "胎心搏動",
+      "妊娠囊",
+      "胎兒呼吸運動",
+      "頭臀徑"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-002-66f7",
+    "question": "王太太目前懷第二胎，她主訴在懷第一胎時接受過乙型鏈球菌（GBS）篩檢，結果呈現陽性反應，但胎兒未受感染。助產師建議的處置，下列何者正確？",
+    "options": [
+      "不必安排產前乙型鏈球菌篩檢，待產時直接採取抗生素注射",
+      "安排產前乙型鏈球菌篩檢，若呈現陽性反應，則於待產時採取抗生素注射",
+      "足月時安排剖腹生產以減少胎兒敗血症風險",
+      "立刻安排更進一步的羊膜穿刺術檢查，以了解胎兒目前的健康狀況"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-003-c1de",
+    "question": "胎兒生理活動評估在30分的觀察後，結果為：有1次胎兒呼吸運動持續時間30秒；有2次胎動；看到1次胎兒軀幹或四肢屈曲至伸張的姿勢；最大羊水囊直徑為1.2公分；無壓力試驗呈反應型。此結果表示為何？",
+    "options": [
+      "胎兒健康",
+      "胎兒缺氧",
+      "胎兒瀕臨死亡",
+      "無法判斷"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-004-7c5d",
+    "question": "有關妊娠期的心臟血管系統生理變化，下列敘述何者錯誤？",
+    "options": [
+      "出現生理性白血球增多症，白血球數量可增加到15,000/mm3",
+      "妊娠生理性貧血是因紅血球攜鐵蛋白的能力降低所致",
+      "心輸出量增加30～50%，以供應子宮、胎盤需要血流",
+      "血漿中白蛋白降低，使得水分易滯留在血管間隙形成水腫"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-005-c693",
+    "question": "有關孕期的營養需求，下列敘述何者錯誤？",
+    "options": [
+      "於第三孕期多補充鐵劑",
+      "整個孕期應多補充碘",
+      "磷可參與早期的細胞分裂過程",
+      "鈣質提供胎兒骨骼和牙齒的生長發育"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-006-614f",
+    "question": "葉女士，28歲，G1P0，待產過程中突然自然破水，內診發現子宮頸口開8公分、變薄程度80%、先露部位+1。下列何者為最優先之護理處置？",
+    "options": [
+      "提供灌腸",
+      "監測胎心率變化",
+      "提供氧氣",
+      "採平躺增加子宮血流"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-007-6303",
+    "question": "陰道生產過程，下列何種情形表示先露部位胎頭已發生著冠（crowning）？",
+    "options": [
+      "當子宮收縮時，胎頭顱頂上出現一圈可見的壓痕",
+      "當子宮收縮時，胎頭出現於陰道口，宮縮間歇時，胎頭縮回陰道內",
+      "當子宮收縮時，陰道口膨出可見胎頭，大小呈卵圓形",
+      "當宮縮間歇時，胎頭出現於陰道口且不會縮回陰道內"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-008-69ad",
+    "question": "有關分娩期預防產後出血的措施，下列何者不適當？",
+    "options": [
+      "待產婦在進入第二產程前，開始持續靜脈注射methylergometrine（Methergin）",
+      "胎盤娩出後，檢查胎盤以確認胎盤完整娩出",
+      "在新生兒及產婦狀況穩定下，協助親子立即肌膚接觸",
+      "產後於恢復室觀察，每15分鐘監測產婦的血壓及出血量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-009-f33c",
+    "question": "胎兒為頭產式，胎頭呈部分屈曲，其最可能以下列那條徑線通過產道？",
+    "options": [
+      "枕下前囟徑（SOB）",
+      "枕額徑（OF）",
+      "枕頦徑（OM）",
+      "頦下前囟徑（SMB）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-010-32aa",
+    "question": "劉女士，G1P0，子宮頸開4公分，每3分鐘宮縮一次，無胎頭骨盆不對稱（CPD），\n使用硬脊膜外麻醉，持續2小時都未見胎頭下降，此時最優先之處置為何？",
+    "options": [
+      "評估膀胱的情形",
+      "評估胎頭大小",
+      "給與ritodrine點滴注射，促進子宮收縮",
+      "評估羊水量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-011-0571",
+    "question": "張女士，懷孕 30 週，主訴近期常感覺頻尿及偶有漏尿十分困擾，下列護理指導何者較不適當？",
+    "options": [
+      "教導凱格爾運動，強化骨盆底肌肉",
+      "維持會陰部清潔乾燥，多更換內褲",
+      "白天減少水分攝取，減輕膀胱壓力",
+      "使用托腹帶減輕腹壓，儘量不憋尿"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-012-dcac",
+    "question": "王女士主訴：「我懷孕後都不吃冰了，因擔心對孩子氣管不好」，下列護理師反應何者最適當？",
+    "options": [
+      "建議詢問醫師後再決定",
+      "以實證研究資料反駁婦女的行為",
+      "尊重其文化以及飲食的選擇",
+      "提供更多的飲食禁忌訊息"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-013-9eee",
+    "question": "有關羊膜穿刺術（amniocentesis）的檢查時機及情況，下列敘述何者正確？",
+    "options": [
+      "懷孕 12 週婦女，曾生育染色體異常",
+      "懷孕 16 週婦女，先前有習慣性流產",
+      "懷孕 16 週婦女，罹患慢性高血壓",
+      "懷孕 18 週婦女，母血唐氏症篩檢危險比值為 1/720"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-014-3d91",
+    "question": "素食者在懷孕期較易缺乏下列何項維生素？",
+    "options": [
+      "維生素 A",
+      "維生素 B2",
+      "維生素 B12",
+      "維生素 K"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-015-ef13",
+    "question": "張女士，G1P0，懷孕 40 週，下列何者是真陣痛的特徵？",
+    "options": [
+      "感覺後背痛，但走路會緩解",
+      "宮縮間隔時間逐漸變短，並有規律感",
+      "宮縮時偶肚子變硬，但強度沒有變化",
+      "陣痛一定伴隨破水發生"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-016-9671",
+    "question": "丁女士，G1P0，妊娠 39 週，常規產檢結果正常。丁女士表示：「最近肚子有下降了，呼吸也更輕鬆了」。預期丁女士伴隨發生的症狀，下列何者可能性最低？",
+    "options": [
+      "頻尿情形更為頻繁",
+      "橫膈處的緊繃感減輕",
+      "鼠蹊部疼痛緩解",
+      "分娩大約在 2 週內發生"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-017-fd03",
+    "question": "陳女士，G2P1，陰道內診結果為：「Station：floating」，其代表意思下列敘述何者正確？",
+    "options": [
+      "胎兒先露部位尚未進入骨盆入口",
+      "胎兒先露部位尚未通過骨盆腔最短徑線的橫切面",
+      "胎兒雙頂徑（BPD）接近坐骨結節，但尚未到達",
+      "胎兒先露部位膨出於母體的會陰部"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-018-a369",
+    "question": "有關潛伏期產程延長且母胎無異常的待產婦照護，下列何者較不適當？",
+    "options": [
+      "應立即採行剖腹產",
+      "提供足夠水分及食物",
+      "評估分析可能原因",
+      "經常更換姿勢，以利胎兒轉位下降"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-019-5d8e",
+    "question": "李女士剖腹產前將進行腰椎硬膜外麻醉，下列措施何者不適當？",
+    "options": [
+      "協助產婦採側躺並呈蝦米狀",
+      "麻醉前靜脈輸液 1,000 c.c.葡萄糖水",
+      "進行穿刺於 L3或 L4腰椎間",
+      "藥物注入後密切監測生命徵象"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-020-4a06",
+    "question": "徐女士，G2P1，行子宮下段橫式切開剖腹產（Lower segment Cesarean section），採用脊髓麻醉法，下列術後照護何者錯誤？",
+    "options": [
+      "術後導尿管至少留置 8 小時",
+      "術後採辛式臥位",
+      "給與足夠水分 2,500～3,000 c.c./天",
+      "下一胎可嘗試剖腹產後陰道生產(VBAC)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-021-28f3",
+    "question": "鄒女士，33 歲，為陰道生產之初產婦。選擇在母嬰親善醫院生產並計劃依循衛生福利部國民健康署對嬰幼兒最佳餵養建議，下列敘述何者不適當？",
+    "options": [
+      "新生兒即刻照護評估後 30 分鐘，再開始進行初次母嬰肌膚接觸",
+      "確保在家人協助與陪伴下進行親子同室",
+      "告知觀察到嬰兒有飢餓訊號時就餵母乳，不限餵奶時間或頻率",
+      "鼓勵親自以乳房哺餵新生兒，若有脹奶時進行手擠奶"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-022-7a76",
+    "question": "陳女士 G1P1，因前置胎盤採剖腹產，有關產後立即性照護，下列何者錯誤？",
+    "options": [
+      "至少每 4 小時監測生命徵象測量一次",
+      "評估傷口出血及惡露量情形",
+      "評估子宮底位置及張力",
+      "每 15 分鐘評估下肢感覺恢復情形"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-023-0996",
+    "question": "張女士，G1P0，由先生陪同待產，出現哭叫打罵情形，先生已陪產一天，出現疲憊不堪情形，詢問護理師他該怎麼辦，下列回應何者最不恰當？",
+    "options": [
+      "接受準爸爸可能有驚慌失措的行為",
+      "提供明確產程進展訊息給準爸爸",
+      "請準爸爸持續陪伴以避免產婦失控",
+      "讓準爸爸暫時休息，改由其他家人照顧產婦"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-024-e651",
+    "question": "陳女士懷孕 39 週入院待產，體溫 36.5℃、心跳 74 次／分、呼吸 24 次／分，血壓 120/85 mmHg。有關待產時使用腰椎硬膜外麻醉（epidural analgesia）時，麻醉前後注意事項，下列何者錯誤？",
+    "options": [
+      "麻醉前 30 分鐘應提供靜脈留置針及給予 0.9%N/S 500～1,000 mL 灌注",
+      "麻醉藥注入前 20 分鐘，應監測母親血壓和胎心音",
+      "麻醉後採左側臥，避免低血壓",
+      "待產婦血壓為 86/50 mmHg，需給予 naloxone 解毒"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 3,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-025-6656",
+    "question": "王女士，懷孕 41 週，觀察其待產期間的胎心率變化。下列何種現象，需要特別處理？",
+    "options": [
+      "潛伏期時，不論有無宮縮，都維持在 128～148 bpm",
+      "活動期時，10 分鐘內，不論有無宮縮，最高為 140 bpm，最低為 136 bpm",
+      "宮縮開始，加速最高至 162 bpm，宮縮結束後回到 124 bpm",
+      "產檯上用力期間，逐漸減慢到最低至 110 bpm，宮縮結束後回到 138 bpm"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-027-1abb",
+    "question": "有關兒童生理的發展，下列敘述何者正確？",
+    "options": [
+      "從出生至 1 歲的嬰兒，其神經系統及附屬器官生長速度最快",
+      "從出生到 3 歲快速長高，約 3 歲時的身高為出生時身長的 2 倍",
+      "出生時頭圍約 30 公分，每年增加 12～15 公分，5 歲時可達成人 90%",
+      "出生時身體中點為肚臍處，3 歲時頭約占身長 1/3"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-028-2799",
+    "question": "小桃，8 歲，因氣喘發作住院接受治療，主訴：「因為我愛吃冰，然後出去玩沒戴口罩，也沒穿外套， 所以就發作了」，下列何者為小桃此階段「疾病概念」發展的特色？",
+    "options": [
+      "生病是兩件事情接近，不可思議發生的",
+      "生病是來自外在但存於身體內部的",
+      "生病是來自外在的人、物或行動對兒童身體不好或有傷害的",
+      "生病是外在原因與自己無關的具體現象"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-029-0c1e",
+    "question": "有關兒童氣質的相關敘述，下列何者錯誤？",
+    "options": [
+      "氣質無好壞之分，是個人對內在、外在刺激的行為模式",
+      "氣質和父母教養方式有密切關係，在彼此互動下會產生不同的親子關係",
+      "瞭解孩子的氣質，可協助父母發展最適合孩子氣質特點的社會適應模式",
+      "氣質會影響孩子的智力發展與日後的成就"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-030-2b8f",
+    "question": "有關新生兒篩檢的敘述，下列何者錯誤？",
+    "options": [
+      "新生兒出生後須滿 48 小時才能採檢",
+      "採檢前須熱敷足部 3～10 分鐘",
+      "以75%酒精棉球消毒穿刺部位",
+      "手執濾紙接取穿刺後流出的第一滴血"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-031-b36f",
+    "question": "汪小弟為 29 週又 5 天出生的早產兒，體重 1,310 公克，有關各系統的生理特徵，下列敘述何者正確？",
+    "options": [
+      "免疫力較低，無法經由胎盤獲得 IgA",
+      "β-尿苷酸酶的量不足，易發生高膽紅素血症",
+      "心室中膈缺損是最常見的心臟血管問題",
+      "中樞神經系統不成熟，易發生呼吸暫停現象"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-032-3963",
+    "question": "有關早產兒經口餵食的發展照護原則，下列敘述何者錯誤？",
+    "options": [
+      "早產兒出現安靜清醒期並出現飢餓暗示行為，例如尋乳行為、吸吮動作即可開始準備",
+      "早產兒出現壓力暗示行為，例如疲倦、嗆奶、呼吸暫停、發紺，需減緩或停止餵食",
+      "對於妊娠週數低及低體重的早產兒，餵食時間應延長至 60 分鐘以減少壓力",
+      "觀察呼吸及膚色，調整奶瓶位置及流速，視情況暫停餵食並刺激呼吸"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-033-afe0",
+    "question": "有關早產兒腦室內出血，下列護理處置之敘述，何者最適當？",
+    "options": [
+      "抬高床頭 45 度以減少顱內壓",
+      "採取集中照護，減少不必要的打擾",
+      "提供具聲光刺激的環境，以增加大腦血流",
+      "提供高張藥物及溶液，以減低大腦血流量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-034-fd71",
+    "question": "小玲，2 歲 6 個月，因泌尿道感染住院，有關減輕小玲住院壓力的護理措施，下列敘述何者錯誤？",
+    "options": [
+      "容許小玲表達其反抗和生氣的情緒",
+      "不批評且接受其退化性行為",
+      "限制小玲下床自由活動",
+      "儘可能提供小玲選擇的機會"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-035-e3ac",
+    "question": "有關病童使用 Fentanyl 貼片的敘述，下列護理指導何者錯誤？",
+    "options": [
+      "屬於鴉片類製劑，透過黏膜吸收，會造成呼吸速度變慢",
+      "貼片適合黏貼於平坦處，如前胸、後背、上手臂、大腿",
+      "易產生耐藥性、成癮或便秘等",
+      "貼片使用期限為 24 小時，使用貼片時需註明起迄時間"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-036-3efa",
+    "question": "有關兒童血壓測量，下列敘述何者正確？",
+    "options": [
+      "右臂橈動脈區是最常用基準部位",
+      "合適的壓脈帶寬度應可以覆蓋所選肢體的 1/2",
+      "小於 1 歲兒童的正常血壓範圍為 100～110/60～75 mmHg",
+      "1 歲以上兒童的下肢測量收縮壓會比上肢高約 20 mmHg"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-037-1377",
+    "question": "有關瀕死兒童家庭的照護敘述，下列何者不適當？",
+    "options": [
+      "接納父母的哀傷反應，鼓勵父母說出其想法",
+      "針對父母想獲得的資訊給與正確的資料",
+      "提醒父母避免家中其他幼童參與喪禮的過程",
+      "評估父母和病童對靈性的需求，提供適當的支持與諮詢"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-038-7eb3",
+    "question": "小章，足月兒，出生即確診為後天免疫缺乏症候群（AIDS），若病況穩定需接種疫苗時，下列敘述何者錯誤？",
+    "options": [
+      "出生 24 小時內可接種 B 型肝炎疫苗（Hep B）第 1 劑",
+      "出生滿 2 個月可接種流行性感冒嗜血桿菌疫苗（Hib）",
+      "出生滿 5 個月可接種卡介苗（Bacillus Calmette-Guérin, BCG）",
+      "出生滿 6 個月可接種流行性感冒疫苗（Influenza vaccine）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-039-51cc",
+    "question": "有關腮腺炎之照護措施，下列敘述何者錯誤？",
+    "options": [
+      "冷敷或溫敷頸部腫脹處以增加舒適感",
+      "若張口困難則建議以吸管飲用檸檬汁",
+      "服用 Acetaminophen 可緩解脹痛與高燒",
+      "自腮腺開始腫大，採呼吸道隔離約 9 天"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-040-f3e7",
+    "question": "有關罹患急性會厭炎（acute epiglottitis）病童的臨床表徵，下列何者錯誤？",
+    "options": [
+      "身體採坐姿且將身體前傾，用手撐住下巴",
+      "流口水、吞嚥困難",
+      "持續性咳嗽",
+      "呼吸窘迫、發音困難"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-041-169d",
+    "question": "有關氣喘（asthma）之病因及病理變化，下列敘述何者正確？",
+    "options": [
+      "呼吸道受刺激造成黏膜水腫導致呼吸困難是因為平滑肌擴張所致",
+      "誘發因子引發呼吸道狹窄、呼吸困難、缺氧，產生呼吸性酸中毒",
+      "呼吸道阻塞使吸氣時間延長而形成吸氣哮鳴音（stridor）",
+      "嚴重發作時呈現臉色潮紅、呼吸次數增快、心跳次數減緩"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-042-2c5e",
+    "question": "有關川崎氏症的護理指導，下列敘述何者不適當？",
+    "options": [
+      "注射免疫球蛋白 2 個月後，要按時接種疫苗",
+      "退燒後仍需依醫囑服用低劑量的 Aspirin",
+      "飲食採少量多餐和提供軟質的食物",
+      "出院後需定期回院追蹤檢查心臟功能"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-043-58b1",
+    "question": "小梨，4 歲，診斷為缺鐵性貧血，有關鐵劑（Imferon）注射，下列何者不適當？",
+    "options": [
+      "以 Z 字形深部肌肉注射",
+      "持針以 90 度插入皮膚",
+      "注入鐵劑後應該立即拔針",
+      "勿揉搓注射部位"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-044-d7a5",
+    "question": "有關輪狀病毒（rotavirus）和諾羅病毒（norovirus）之比較，下列敘述何者錯誤？",
+    "options": [
+      "輪狀病毒好發於嬰幼兒，諾羅病毒好發於所有年齡層",
+      "輪狀病毒有疫苗預防，諾羅病毒則無",
+      "輪狀病毒會產生腸毒素，諾羅病毒機轉尚不清楚",
+      "兩者傳染途徑均屬糞口傳染"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-045-003f",
+    "question": "有關病童罹患腸套疊（Intussusception）之治療和護理措施，下列敘述何者正確？",
+    "options": [
+      "可採趴睡壓迫腸子促使自動復位",
+      "若需執行外科手術，可以拉扯方式將嵌入腸道復位避免壞死",
+      "鋇劑灌腸是以液體和空氣壓力將嵌入腸子推回原位",
+      "腸套疊治療復位後可立即出院"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-046-be12",
+    "question": "姍姍，2 歲 6 個月，因為出現水腫、體重增加而入院，診斷為腎病症候群（Nephrotic Syndrome），有關此疾病的敘述下列何者最適當？",
+    "options": [
+      "一種因為 A 群 β 型溶血性鏈球菌感染所導致",
+      "腎絲球受破壞，導致腎絲球膜通透性增加，常出現有蛋白尿",
+      "主要治療以抗生素為主，應指導勿隨意停藥以免產生抗藥性",
+      "容易出現有高血壓及嚴重血尿現象"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-047-b25f",
+    "question": "小倩，11 歲，有急性腎衰竭病史，因控制不佳，此次入院診斷為慢性腎衰竭，有關其護理照護之敘述，下列何者最不適當？",
+    "options": [
+      "觀察身體有無瘀傷、紫斑等現象以預防出血",
+      "皮膚因尿霜堆積，易出現搔癢問題，可給與適當潤膚劑使用",
+      "給與高鉀之飲食指導，如香蕉、橘子，以避免低血鉀導致心律不整現象",
+      "給與含鐵質與葉酸之飲食指導，以避免貧血之發生"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-048-6d60",
+    "question": "有關罹患無菌性腦膜炎（aseptic meningitis）病童之腦脊髓液，下列敘述何者正確？",
+    "options": [
+      "外觀呈現白濁濃稠",
+      "蛋白質值大幅下降",
+      "腦脊髓壓力正常或稍上升",
+      "葡萄糖值大幅上升"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-049-7b6d",
+    "question": "有關發展性髖關節發育不良之護理措施，下列敘述何者錯誤？",
+    "options": [
+      "布萊安特氏（Bryant）牽引，是將雙腳與髖關節屈曲 45 度並向上做牽引",
+      "帕米利克背帶（Pavlik harness）使用目的是維持髖關節屈曲及外展",
+      "開始走路以後，無法用吊帶，可用髖部人字形石膏（spica cast）來治療",
+      "6 個月以前為治療發展性髖關節發育不良的黃金時期"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "OP-113-050-48c5",
+    "question": "有關厭食症的相關敘述，下列何者錯誤？",
+    "options": [
+      "造成厭食症的可能原因並非單一因素所導致",
+      "可運用行為治療與家庭心理諮商修正不良的飲食行為",
+      "厭食症者害怕體重增加而甘願忍受飢餓或自我催吐",
+      "照護以提供足夠的營養，體重增加速度以每週 3～5 公斤為理想值"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "產兒科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
   }
 ]
