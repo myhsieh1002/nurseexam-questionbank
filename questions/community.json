@@ -1394,7 +1394,7 @@
       "(1)(3)(4)",
       "(2)(3)(4)"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1412,7 +1412,7 @@
       "健康代言者",
       "個案管理者"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1430,7 +1430,7 @@
       "臨床前期",
       "臨床期"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1448,7 +1448,7 @@
       "限制殘障",
       "復健"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1466,7 +1466,7 @@
       "偽陽性(false positivity)為25.0%",
       "偽陰性(false negativity)25.0%"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1484,7 +1484,7 @@
       "原因別死亡率",
       "老化指數"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1502,7 +1502,7 @@
       "為避免過於複雜，單次衛教應採行單一方法原則",
       "衛生教育的內容應該要能夠重質不重量"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1520,7 +1520,7 @@
       "提供民眾行動的線索",
       "提高民眾對服務的滿意度"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1538,7 +1538,7 @@
       "走街繪圖",
       "門診病歷資料分析"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1556,7 +1556,7 @@
       "宣導目前重要衛生政策",
       "尋求社區對未來計畫的支持與認同"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1574,7 +1574,7 @@
       "培養興趣與事業",
       "強化維繫與子女良好的關係"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1592,7 +1592,7 @@
       "pp & newborn → DM → TB",
       "DM → TB → pp & newborn"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1610,7 +1610,7 @@
       "外籍配偶較會採行避孕措施",
       "外籍配偶子女有較高比例罹患先天性代謝異常"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1628,7 +1628,7 @@
       "(1)(3)",
       "(1)(2)"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1646,7 +1646,7 @@
       "cognitive abilities screening instrument",
       "mini-mental state examination"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1664,7 +1664,7 @@
       "(1)(3)(5)",
       "(1)(2)(4)"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1682,7 +1682,7 @@
       "高血糖：空腹血糖值≧120 mg/dl",
       "高密度脂蛋白膽固醇：男性＜40 mg/dl、女性＜50 mg/dl"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1700,7 +1700,7 @@
       "Advocator",
       "Coordinator"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1718,7 +1718,7 @@
       "C級為巷弄長照站",
       "以上皆是"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1736,7 +1736,7 @@
       "轉介李家長子與么女接受早期療育",
       "介紹避孕措施讓李太太選擇使用"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1754,7 +1754,7 @@
       "依據醫師法規定，若無醫師在場校護不得給予學生任何處方用藥",
       "家屬轉交含有醫囑指示之胰島素藥袋，即可依照醫囑替學生施打胰島素"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1772,7 +1772,7 @@
       "維護及促進環境衛生",
       "維持民眾良好的營養狀況"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
@@ -1790,7 +1790,7 @@
       "增加宿主抵抗力",
       "降低疾病感受性"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "社區護理學",
     "subcategory": "",
