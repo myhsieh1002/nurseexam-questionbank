@@ -1016,7 +1016,7 @@
       "出生時頭圍約 30 公分，每年增加 12～15 公分，5 歲時可達成人 90%",
       "出生時身體中點為肚臍處，3 歲時頭約占身長 1/3"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1034,7 +1034,7 @@
       "生病是來自外在的人、物或行動對兒童身體不好或有傷害的",
       "生病是外在原因與自己無關的具體現象"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1052,7 +1052,7 @@
       "瞭解孩子的氣質，可協助父母發展最適合孩子氣質特點的社會適應模式",
       "氣質會影響孩子的智力發展與日後的成就"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1070,7 +1070,7 @@
       "以75%酒精棉球消毒穿刺部位",
       "手執濾紙接取穿刺後流出的第一滴血"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1088,7 +1088,7 @@
       "心室中膈缺損是最常見的心臟血管問題",
       "中樞神經系統不成熟，易發生呼吸暫停現象"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1106,7 +1106,7 @@
       "對於妊娠週數低及低體重的早產兒，餵食時間應延長至 60 分鐘以減少壓力",
       "觀察呼吸及膚色，調整奶瓶位置及流速，視情況暫停餵食並刺激呼吸"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1124,7 +1124,7 @@
       "提供具聲光刺激的環境，以增加大腦血流",
       "提供高張藥物及溶液，以減低大腦血流量"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1142,7 +1142,7 @@
       "限制小玲下床自由活動",
       "儘可能提供小玲選擇的機會"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1160,7 +1160,7 @@
       "易產生耐藥性、成癮或便秘等",
       "貼片使用期限為 24 小時，使用貼片時需註明起迄時間"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1178,7 +1178,7 @@
       "小於 1 歲兒童的正常血壓範圍為 100～110/60～75 mmHg",
       "1 歲以上兒童的下肢測量收縮壓會比上肢高約 20 mmHg"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1196,7 +1196,7 @@
       "提醒父母避免家中其他幼童參與喪禮的過程",
       "評估父母和病童對靈性的需求，提供適當的支持與諮詢"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1214,7 +1214,7 @@
       "出生滿 5 個月可接種卡介苗（Bacillus Calmette-Guérin, BCG）",
       "出生滿 6 個月可接種流行性感冒疫苗（Influenza vaccine）"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1232,7 +1232,7 @@
       "服用 Acetaminophen 可緩解脹痛與高燒",
       "自腮腺開始腫大，採呼吸道隔離約 9 天"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1250,7 +1250,7 @@
       "持續性咳嗽",
       "呼吸窘迫、發音困難"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1268,7 +1268,7 @@
       "呼吸道阻塞使吸氣時間延長而形成吸氣哮鳴音（stridor）",
       "嚴重發作時呈現臉色潮紅、呼吸次數增快、心跳次數減緩"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1286,7 +1286,7 @@
       "飲食採少量多餐和提供軟質的食物",
       "出院後需定期回院追蹤檢查心臟功能"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1304,7 +1304,7 @@
       "注入鐵劑後應該立即拔針",
       "勿揉搓注射部位"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1322,7 +1322,7 @@
       "輪狀病毒會產生腸毒素，諾羅病毒機轉尚不清楚",
       "兩者傳染途徑均屬糞口傳染"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1340,7 +1340,7 @@
       "鋇劑灌腸是以液體和空氣壓力將嵌入腸子推回原位",
       "腸套疊治療復位後可立即出院"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1358,7 +1358,7 @@
       "主要治療以抗生素為主，應指導勿隨意停藥以免產生抗藥性",
       "容易出現有高血壓及嚴重血尿現象"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1376,7 +1376,7 @@
       "給與高鉀之飲食指導，如香蕉、橘子，以避免低血鉀導致心律不整現象",
       "給與含鐵質與葉酸之飲食指導，以避免貧血之發生"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1394,7 +1394,7 @@
       "腦脊髓壓力正常或稍上升",
       "葡萄糖值大幅上升"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1412,7 +1412,7 @@
       "開始走路以後，無法用吊帶，可用髖部人字形石膏（spica cast）來治療",
       "6 個月以前為治療發展性髖關節發育不良的黃金時期"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
@@ -1430,7 +1430,7 @@
       "厭食症者害怕體重增加而甘願忍受飢餓或自我催吐",
       "照護以提供足夠的營養，體重增加速度以每週 3～5 公斤為理想值"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "兒科護理學",
     "subcategory": "",
