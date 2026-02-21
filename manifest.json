@@ -1,5 +1,5 @@
 {
-  "version": "2.1",
+  "version": "2.2",
   "lastUpdated": "2026-02-22",
   "totalQuestions": 2989,
   "files": [
@@ -10,34 +10,39 @@
     },
     {
       "name": "med_surg.json",
-      "checksum": "60759026944bec34",
+      "checksum": "799b6cc399cdd70e",
       "count": 2154
     },
     {
-      "name": "psychiatric.json",
-      "checksum": "3b947309d89b4491",
-      "count": 125
-    },
-    {
-      "name": "community.json",
-      "checksum": "7a13751852fc0fb5",
-      "count": 100
-    },
-    {
-      "name": "basic_medicine.json",
-      "checksum": "1ab231227a8693a4",
-      "count": 176
-    },
-    {
       "name": "obstetrics.json",
-      "checksum": "7fb55df9fa847f7d",
+      "checksum": "e3e277cc91ca2bcf",
       "count": 110
     },
     {
       "name": "pediatrics.json",
-      "checksum": "a4ef2c3f71f5975c",
+      "checksum": "6a8759cc7bbf1445",
       "count": 80
+    },
+    {
+      "name": "community.json",
+      "checksum": "6edb24f4b6edc04d",
+      "count": 100
+    },
+    {
+      "name": "psychiatric.json",
+      "checksum": "ea1917377b3f42fe",
+      "count": 125
+    },
+    {
+      "name": "basic_medicine.json",
+      "checksum": "107d2bc47353980d",
+      "count": 176
+    },
+    {
+      "name": "professional.json",
+      "checksum": "6404ca2fab8bf2ac",
+      "count": 5
     }
   ],
-  "minAppVersion": "1.0.0"
+  "minAppVersion": "1.0"
 }
