@@ -2060,7 +2060,7 @@
       "照會的過程與一般護理過程相似",
       "照會與被照會雙方維持平行的關係"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2078,7 +2078,7 @@
       "一般可先安排強制社區治療後，再送相關診斷證明資料",
       "強制社區治療的項目不含藥物之血液或尿液濃度檢驗"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2096,7 +2096,7 @@
       "①③④⑤",
       "②③④⑥"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2114,7 +2114,7 @@
       "出現骨髓抑制加成效果",
       "增加中樞神經系統抑制"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2132,7 +2132,7 @@
       "②④①③",
       "①③②④"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2150,7 +2150,7 @@
       "我現在有一小時的時間陪伴你，我們可談任何事情",
       "你可將所遭遇的問題或困難提出，我們一起討論如何處理"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2168,7 +2168,7 @@
       "定時探視並鼓勵表達想法與感受",
       "密切觀察與防範自殺"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2186,7 +2186,7 @@
       "鼓勵病人回顧與評值治療過程",
       "進行出院準備護理並轉介居家照護"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2204,7 +2204,7 @@
       "病人表示病友們在走廊哼歌，就是互傳訊息，想要聯手排擠他，是一種控制（control）妄想",
       "病人表示病友是受到黑道指使，要來殺害他的，事實卻非如此，是一種虛無"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2222,7 +2222,7 @@
       "②③④",
       "①②③"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
@@ -2240,7 +2240,7 @@
       "個人/社區健康需求的評估",
       "環境復原的評估"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "精神科護理學",
     "subcategory": "",
