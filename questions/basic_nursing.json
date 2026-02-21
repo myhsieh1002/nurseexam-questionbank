@@ -1,113 +1,4394 @@
 [
   {
-    "id": "NUR-BSN-001",
-    "question": "測量血壓時，壓脈帶的寬度應覆蓋上臂周徑的多少比例最為適當？",
+    "id": "BN-110-001-4b1d",
+    "question": "隔離病房最適宜採取的護理工作模式為：",
     "options": [
-      "A. 20%",
-      "B. 40%",
-      "C. 60%",
-      "D. 80%"
+      "個案護理(Case Nursing)",
+      "功能性護理(Functional Nursing)",
+      "成組護理(Team Nursing)",
+      "主護護理(Primary Nursing)"
     ],
-    "answer": 1,
-    "explanation": "壓脈帶的寬度應覆蓋上臂周徑的40%，過窄會使血壓值偏高，過寬則會使血壓值偏低。若壓脈帶寬度不適當，將導致測量結果不準確。",
+    "answer": -1,
+    "explanation": "",
     "category": "基本護理學",
-    "subcategory": "生命徵象",
-    "difficulty": 2,
-    "tags": [
-      "血壓測量",
-      "壓脈帶",
-      "生命徵象"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
   },
   {
-    "id": "NUR-BSN-002",
-    "question": "護理人員執行口服給藥時，下列何者為正確的「三讀五對」中的五對內容？",
+    "id": "BN-110-001-c546",
+    "question": "溫水坐浴適用於下列何種情況？①經痛時，用以鬆弛骨盆肌肉與減輕痙攣 ②痔瘡疼痛時，用以促進血液循環與減輕疼痛 ③發燒超過39℃時，用以促進排汗降低體溫 ④尿瀦留時，用以鬆弛膀胱括約肌，促進排尿 ⑤坐骨神經痛時，用以減輕發炎與疼痛。",
     "options": [
-      "A. 對病人、對藥名、對劑量、對時間、對途徑",
-      "B. 對病人、對藥名、對劑量、對時間、對醫師",
-      "C. 對病人、對藥名、對病房、對時間、對途徑",
-      "D. 對病人、對藥名、對劑量、對診斷、對途徑"
+      "①②④",
+      "①③⑤",
+      "②③⑤",
+      "②④⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-002-7937",
+    "question": "有關院內感染的敘述，下列何者錯誤？",
+    "options": [
+      "是指病人住院中得到的感染",
+      "不包括住院前就已經潛伏的感染",
+      "不包括病人出院24小時內出現症狀的感染",
+      "包括病人入院後到出院前就已經潛伏的感染"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-002-f14a",
+    "question": "陳先生因明天將受腸道檢查，依醫囑應採「清流質飲食」。下列何項食物是可食用的？①稀飯 ②去油清湯 ③牛奶 ④米湯。",
+    "options": [
+      "①②",
+      "②④",
+      "①③",
+      "③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-003-b12b",
+    "question": "有關無菌技術的敘述，下列何者正確？",
+    "options": [
+      "以鉗夾取無菌敷料在無菌區上方10~15公分處將敷料放下",
+      "使用無菌有蓋容器時，應將蓋口朝下放在桌上",
+      "使用無菌敷料鉗時，應手握鉗柄上1/3位置，且保持鉗尖朝上",
+      "乾的泡鑷罐每天更換一次即可"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-003-e64b",
+    "question": "蔡小姐因急性胰臟炎漸緩解，醫囑移除鼻胃管，並開立由口進食飲食，護理師認為下列何種飲食種類較適合個案？",
+    "options": [
+      "低蛋白飲食",
+      "低普林飲食",
+      "低油飲食",
+      "高鉀飲食"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-004-aa33",
+    "question": "為了降低膽囊炎患者的膽胰負荷，下列何者是最適用的飲食？",
+    "options": [
+      "低油飲食",
+      "高蛋白飲食",
+      "低鈉飲食",
+      "低蛋白飲食"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-004-f673",
+    "question": "適用外科無菌之護理技術，包括下列哪幾項？①灌腸 ②點滴加藥 ③肌肉注射 ④單次\n導尿 ⑤傷口換藥。",
+    "options": [
+      "①③④⑤",
+      "①②③④",
+      "②③④⑤",
+      "①②④⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-005-7a75",
+    "question": "有關以間接觀察法蒐集病患資料之敘述，下列何者錯誤？",
+    "options": [
+      "不需要接觸病患",
+      "可由病歷獲得",
+      "可觀察病患外觀獲得",
+      "可透過家屬取得"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-005-f5fa",
+    "question": "有關鼻胃管的放置，下列敘述何者正確？",
+    "options": [
+      "鼻胃管放置時，如病人因病況無法抬高頭部，則建議採左側臥，以利管子進入胃部",
+      "需採外科無菌技術進行鼻胃管放置，以免感染",
+      "以凡士林潤滑鼻胃管前端15~20公分，以利鼻胃管放置",
+      "鼻胃管放置後，反抽胃液，以酸鹼試紙測試，pH值為6.5，則需調整插入深度"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-006-2676",
+    "question": "某肺炎病人，醫囑Ceftriaxone (Rocephin)口服懸浮劑600 mg QD，藥瓶標籤標示該藥\n物之含量為125 mg/5 mL，此病人每天應服用多少mL？",
+    "options": [
+      "4.8",
+      "12",
+      "24",
+      "30"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-006-9621",
+    "question": "要達到正確觀察時必須符合下列哪些條件？①擬定觀察計畫 ②加入主觀的判斷 ③不\n要預設目的 ④病患入院即持續進行。",
+    "options": [
+      "①②",
+      "①④",
+      "②③",
+      "③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-007-3239",
+    "question": "在人際關係發展的週期中，下列何者為「護理人員與病人主動參與健康問題的確立」的階段？",
+    "options": [
+      "介紹前期",
+      "介紹期",
+      "工作期",
+      "結束期"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-007-fc83",
+    "question": "醫囑「Cefepime 150 mg IM Q8H」。Cefepime 為500 mg/vial之粉劑，將其以注射用水\n稀釋成4 c.c.後，病人單次的給藥劑量應為多少c.c.藥液？一日給藥總量為多少mg？",
+    "options": [
+      "0.8 c.c.，150 mg",
+      "1.2 c.c.，300 mg",
+      "1.2 c.c.，450 mg",
+      "1.4 c.c.，450 mg"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-008-6a6e",
+    "question": "以下醫囑：N/S 500 c.c.＋KCL 15 mEq IVD stat.，如果KCL 1 amp.容量為20 c.c.內含有\nKCL 40 mEq，加入的KCL有多少c.c.？",
+    "options": [
+      "5 c.c.",
+      "7.5 c.c.",
+      "10 c.c.",
+      "15 c.c."
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-008-a7ac",
+    "question": "王小弟因發高燒，醫囑開立Indomethacin (Inteban)1# supp. st.，此意謂王小弟何時才能\n給藥？",
+    "options": [
+      "需要時給予",
+      "必要時給予",
+      "立即給予",
+      "24小時內給予"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-009-2c61",
+    "question": "有關護理師在執行臨時醫囑S.O.S.時的注意事項，下列何者正確？",
+    "options": [
+      "醫師沒有停止醫囑就必須持續執行",
+      "當時因故未能執行，超過12小時此醫囑自動失效",
+      "臨時醫囑執行過程不必記載於護理記錄單內",
+      "臨時醫囑屬於緊急醫囑，護生即使有臨床護理指導師陪同也不能執行"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-009-b6a7",
+    "question": "一位長期服用furosemide (Lasix®)、Warfarin®的病人，其飲食衛教下列何者適當？",
+    "options": [
+      "高鉀及高維生素K攝取",
+      "低鉀及高維生素K攝取",
+      "高鉀及限維生素K攝取",
+      "低鉀及限維生素K攝取"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-010-b272",
+    "question": "「Atropine 2 mg I.M. before sent patient to OR」此屬於下列哪一類醫囑？",
+    "options": [
+      "視需要醫囑(p.r.n. order)",
+      "單次醫囑(single order)",
+      "如有需要時，給與一次醫囑(S.O.S. order)",
+      "及時給與醫囑(st. order)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-010-bdf4",
+    "question": "精密輸液套管袋中有靜脈輸液35 c.c.，護理師欲將5 c.c. Ampicillin (500 mg)加入此袋中給藥，並於30分鐘內給藥完畢，在不使用幫浦情形下，點滴速度下列何者正確？",
+    "options": [
+      "20 gtts/min",
+      "40 gtts/min",
+      "60 gtts/min",
+      "80 gtts/min"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-011-1357",
+    "question": "有關Valium 1# h.s. p.r.n.給藥時間的敘述，下列何者正確？",
+    "options": [
+      "即刻給予",
+      "睡前需要時給予",
+      "12小時內需要時給予",
+      "需要時給予"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-011-4951",
+    "question": "輸血時發生寒顫、頭痛、噁心、血壓下降、血尿，可能發生下列何種反應？",
+    "options": [
+      "溶血反應",
+      "熱原反應",
+      "過敏反應",
+      "循環血量負荷過重"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-012-9068",
+    "question": "有關靜脈輸注部位周圍皮膚冰冷、腫脹、有壓迫感，正確判斷為：",
+    "options": [
+      "感染",
+      "血栓性靜脈炎",
+      "輸液浸潤",
+      "循環負荷過量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-012-9963",
+    "question": "有關便秘病患所擬訂的成果目標，下列何者為最具體？",
+    "options": [
+      "能解出成形便",
+      "恢復正常排泄型態",
+      "能解出一次成形便",
+      "能每天解出一次顏色正常的成形便"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-013-3da6",
+    "question": "將10 mL Vancomycin(1000 mg)加入放置有100 mL 0.9% normal saline之精密輸液套管\n容器內，預計以2小時滴完，在不使用幫浦情形下，點滴速度下列何者正確？",
+    "options": [
+      "55滴／分",
+      "65滴／分",
+      "75滴／分",
+      "85滴／分"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-013-a001",
+    "question": "有關預期成果的敘述，下列何者最完整？",
+    "options": [
+      "病人能用枴杖走路",
+      "能促進傷口癒合",
+      "病人2天內能減輕疼痛程度",
+      "病人體重能於3週內減少1公斤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-014-8eac",
+    "question": "個案李太太的下列四個健康問題，護理人員應優先處理哪一項？",
+    "options": [
+      "呼吸困難",
+      "小便失禁",
+      "睡眠障礙",
+      "食慾欠佳"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-014-9747",
+    "question": "個案仰臥時，於大腿兩旁放置粗隆捲軸，是為預防髖關節產生哪一種變形？",
+    "options": [
+      "外翻",
+      "內翻",
+      "外旋",
+      "內旋"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-015-096d",
+    "question": "有關壓瘡的影響因素，下列何者錯誤？",
+    "options": [
+      "維生素B攝取不足，使組織修復力下降",
+      "半坐臥病患易因剪力造成背臀部壓瘡",
+      "意識不清者因壓力及活動力減少，易使局部皮膚受損",
+      "水腫使組織營養攝入減少及廢物堆積，增加組織受損機率"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-015-78c0",
+    "question": "有關S.O.A.P.I.E.R.紀錄法的敘述，下列何者正確？",
+    "options": [
+      "病人「常有呻吟聲，對呼叫無反應、疼痛刺激會睜眼」，屬於主觀資料",
+      "「家屬表示早上吃飯時病人手上的碗突然掉到地上」，屬於客觀資料",
+      "病人「有吞嚥反射，但易有嗆食現象，需持續注意餵食情形」，屬於評值",
+      "病人「無法自行翻身下床」，屬於「活動功能障礙」問題的導因"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-016-09ea",
+    "question": "以手臂測量血壓時，須注意之事項，下列何者錯誤？",
+    "options": [
+      "每天在同一時刻、同一手臂及同一姿勢所測得的血壓較準確",
+      "測量血壓以右手較適宜，即使有打點滴也不要隨意更換",
+      "若要反覆用同手測量血壓，二次之間至少應間隔1~2分鐘",
+      "測量血壓若聽不清楚，可先抬高病患的手臂再放下重新測量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-016-7498",
+    "question": "有關病患採辛氏臥式(Sim’s position)之敘述，下列何者錯誤？",
+    "options": [
+      "可放鬆背部肌肉",
+      "可引流口鼻分泌物",
+      "常見於腰椎穿刺術後",
+      "用於肛門檢查或灌腸"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-017-1512",
+    "question": "王老太太深受膝部骨性關節炎困擾，除藥物控制外，護理師教導她執行增強股四頭肌肌肉力量的運動，以減緩膝關節承受的壓力，則下列敘述何者錯誤？",
+    "options": [
+      "站立時，以雙手扶住椅背做10~15次墊腳尖的運動",
+      "躺臥時，膝蓋用力壓向床墊10~15次",
+      "平躺時，腳底緊踏床尾板，用力向床尾推",
+      "站立時，將腿往外伸展維持5秒鐘，10~15次"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-017-a6c1",
+    "question": "有關正常呼吸的敘述，下列何者錯誤？",
+    "options": [
+      "潮氣容積約500~700 c.c.",
+      "呼吸速率約12~20次／分鐘",
+      "吸氣與呼氣的比率約3：2",
+      "呼吸與脈搏的比例約1：4"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-018-1e9b",
+    "question": "熱中暑病人的生命徵象及臨床表徵，下列何者正確？",
+    "options": [
+      "皮膚蒼白濕冷",
+      "初期血壓上升",
+      "脈搏減緩",
+      "呼吸慢而深"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-018-6034",
+    "question": "呂老太太因中風造成右側肢體偏癱，須長期做復健，護理師協助做右側踝關節屈曲被動運動時，正確手部支托位置為：",
+    "options": [
+      "膝、踝",
+      "足後跟、小腿",
+      "腳踝、小腿",
+      "足背、足後跟"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-019-64ae",
+    "question": "下列何者為造成血壓假性偏高的原因？",
+    "options": [
+      "壓脈帶包裹太鬆",
+      "視線高於水銀柱",
+      "壓脈帶太寬",
+      "被測量的手臂高於心臟"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-020-1550",
+    "question": "床上沐浴時，擦拭肢體時須由遠心端擦往近心端的目的為何？",
+    "options": [
+      "遵循先後步驟，避免遺漏",
+      "可徹底清除毛囊下的灰塵",
+      "增加肌肉的收縮力量",
+      "促進靜脈血液的回流"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-020-6437",
+    "question": "有關睡眠週期的描述，下列何者正確？",
+    "options": [
+      "睡眠起始會先進入快速動眼期，再進入非快速動眼期",
+      "在整個8小時睡眠中，會經歷一個非快速動眼期及一個快速動眼期",
+      "一個完整四階段非快速動眼期及快速動眼期之循環歷時約70~90分鐘",
+      "睡眠者於任何睡眠週期清醒，再入睡可接續原先的睡眠週期"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-021-92a1",
+    "question": "口腔黏膜破損病人，可使用下列何種溶液於飯前漱口以減輕疼痛？",
+    "options": [
+      "Hibitane(chlorhexdine gluconate)",
+      "Mycostatin(Nystatin)",
+      "Xylocaine solution",
+      "1% H2O2"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-021-ebf4",
+    "question": "當病患解出黑色的糞便時，可能是下列何種情形所造成？",
+    "options": [
+      "服用Rifampin",
+      "飲食中缺乏肉類",
+      "膽汁鬱積",
+      "上腸胃道出血"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-022-5ff8",
+    "question": "對於大腸運動的敘述，下列何者錯誤？",
+    "options": [
+      "結腸袋攪拌運動可移動食糜",
+      "質塊運動或大蠕動每小時均會出現數次",
+      "十二指腸結腸反射引發排便",
+      "食物進入胃引發胃結腸反射"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-022-e29d",
+    "question": "當頭部外傷傷口有許多新鮮血漬沾污頭髮時，使用下列何種清洗劑較合適？",
+    "options": [
+      "過氧化氫溶液",
+      "丙酮",
+      "乙醚",
+      "冷水"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-023-716e",
+    "question": "有關溫水拭浴(Tepid Water Sponge Bath)的敘述，下列何者正確？",
+    "options": [
+      "使用的溶液為30~35%的酒精",
+      "以摩擦的方式執行擦拭",
+      "執行後60分鐘需重測體溫",
+      "重測後的體溫，以「紅色空心圓並以紅色虛線與原來體溫相連結」畫於體溫單上"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-023-d13e",
+    "question": "食物進入腸胃道後產生大腸蠕動是下列何種反射？",
+    "options": [
+      "胃十二指腸反射",
+      "十二指腸結腸反射",
+      "直腸反射",
+      "刺激交感神經衝動的反射"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-024-b8b1",
+    "question": "李先生發燒時，護理師使用冰枕協助降低其體溫，是應用下列哪一種散熱原理？",
+    "options": [
+      "輻射",
+      "傳導",
+      "對流",
+      "蒸發"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-024-f70c",
+    "question": "在執行存留導尿的過程，當液體打入存留導尿管的氣囊時病人表示疼痛，下列哪一項護理措施最合宜？",
+    "options": [
+      "先抽出液體，再將導尿管向內推入2公分，使氣囊整個進入膀胱後，再打入液體",
+      "告訴病人這是正常現象，請其張口哈氣以轉移注意力",
+      "移除導尿管，重新插入",
+      "向病人解釋因液體較易引起疼痛，故改注入等量空氣"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-025-bc98",
+    "question": "有關冷、熱療法的共同功能，下列敘述何者正確？",
+    "options": [
+      "抑制炎症反應",
+      "止血消腫",
+      "促進新陳代謝",
+      "緩解疼痛"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-025-d4d1",
+    "question": "有關影響正常排尿的因素，下列敘述何者錯誤？①咖啡及茶有利尿效果 ②一般手術後，常發生尿失禁現象 ③含鈉較高的食物，易導致體液滯留 ④服用止痛劑，會減低神經反射干擾排尿 ⑤抗利尿激素分泌增加，尿量增加。",
+    "options": [
+      "①③",
+      "②⑤",
+      "③④",
+      "③⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-026-156c",
+    "question": "陳小姐目前為月經來潮第三天，收集陳小姐尿液以進行常規檢查的方法，下列何者較適宜？",
+    "options": [
+      "以單次導尿方式收集尿液檢體",
+      "以留置導尿管收集尿液檢體",
+      "直接收集中段尿",
+      "先予以會陰沖洗後，再收集中段尿"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-026-6337",
+    "question": "護理部計畫門診半年後門診護理師將參與醫院社區醫療服務，此作業的改變過程，門\n診護理師屬於：",
+    "options": [
+      "主導改變單位（Change Agent）",
+      "改變標的（Change Target）",
+      "改變區域（Change Area）",
+      "改變速度（Change Rate）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-027-a4a2",
+    "question": "王先生因運動導致膝關節撕裂傷，有關包紮的注意事項，下列何者不適當？",
+    "options": [
+      "選用2至3吋寬之捲軸繃帶",
+      "選用石膏繃帶",
+      "覆蓋傷口後再包紮",
+      "採取8字形包紮法"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-027-e0dc",
+    "question": "急診護理長處理醫護同仁間之衝突，下列處理態度何者較為適當？",
+    "options": [
+      "盡力使單位護理人員不要與醫師有衝突情況發生",
+      "有衝突發生時儘量大事化小事，小事化無",
+      "有衝突發生時請督導長或護理部主任來協助解決",
+      "運用衝突解決的基本策略，控制衝突在適當的程度即可"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-028-3301",
+    "question": "護理部主任主張醫院應該要讓同仁感受到被尊重與重視，才會有意願改變其行為，努\n力達成醫院的目標，要相信人是有潛能與創造力，都希望能自我實現，提升自己的知\n識與技能，這個主張比較接近下列那個時期的觀點？",
+    "options": [
+      "古典時期（傳統理論時期）",
+      "新古典時期（修正理論時期）",
+      "新近時期或現代時期（系統理論時期）",
+      "後現代理論時期"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-028-c49f",
+    "question": "有關繃帶包紮的原則，下列敘述何者正確？",
+    "options": [
+      "應順人體循環方向，由近心端往遠心端",
+      "結帶部位在病人的肢體外側時，易使病人因包紮而產生身體心像紊亂問題",
+      "第一步驟為以環形包紮法定帶",
+      "至第二匝時應覆蓋前一匝的1/4~1/3"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-029-3433",
+    "question": "某醫院護理部決定護師節慶祝活動形式時，護理部主任聽取負責單位的報告後，詢問\n去年作法，指示 不要有太大差異，以及太多的不可預測性，並要求活動形式要經過大\n家互相協調都同意後才算完成。 該主任的決策過程屬於下列何種決策理論的應用？",
+    "options": [
+      "理性的決策理論",
+      "政治的決策理論",
+      "行為的決策理論",
+      "規範的決策理論"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-029-7c05",
+    "question": "針對短期在同一醫院反覆入院的末期病人，進行入院護理資料收集時，下列何者正確？",
+    "options": [
+      "須一次完成所有資料收集較能一致",
+      "須再次詳細詢問病人過去病史與疾病治療",
+      "已經簽署過不施行心肺復甦術意願書者，每次入院都必須再簽署一次",
+      "可能需要重複數次提問以讓病人有充分的時間作反應"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-030-46b5",
+    "question": "有關庫柏勒羅斯(Kübler-Ross)所提出的瀕死心理變化，包含否認期、憤怒期、磋商期、憂鬱期與接受期五階段，針對病人的心理變化，下列敘述何者正確？",
+    "options": [
+      "磋商期和憂鬱期可能同時存在",
+      "死亡之前均會進入接受期",
+      "會依照相同順序出現",
+      "每位病人都會經歷此五階段之心理變化"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-030-a84a",
+    "question": "護理部門常見的預算編列內容，下列何者正確？①營運預算 ②學術研究費用 ③教育訓練費用 ④品管預算 ⑤藥品費用",
+    "options": [
+      "①②③",
+      "②③④",
+      "③④⑤",
+      "①③⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-031-ec35",
+    "question": "為了提升單位內護理同仁的工作滿意度，護理長將單位內的工作重新審視與設計，由\n同仁幫忙填答 結構式的問卷，另利用晚夜班時段親自採用事先擬好的檢查表格，實地\n查核執行情形。護理長同時 選擇幾項常做的工作，分別重新檢視工作說明書與工作規\n範的內容。根據情況描述內容，護理長未 使用下列何種工作分析的方法？",
+    "options": [
+      "查檢表法",
+      "工作日誌法",
+      "問卷法",
+      "工作抽樣法"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-032-5141",
+    "question": "病人抱怨的次數是屬於平衡計分卡（BSC）中之那一種構面？",
+    "options": [
+      "財務面",
+      "顧客面",
+      "內部流程",
+      "員工學習與成長"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-032-54db",
+    "question": "成功的推動目標管理，不僅要將目標管理簡化為一種管理程序，更需要導入相關技巧才得以成功。 下列何者為目標管理成功的要件？①主管清楚列出目標  ②依個人能力分配不同目標 ③把權限與 責任分授給各級主管 ④目標由主管和員工共同完成 ⑤定期回饋進展狀況",
+    "options": [
+      "①②③",
+      "②③④",
+      "③④⑤",
+      "①④⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-033-ec4d",
+    "question": "醫院中將護理組織分為主任－副主任－督導－護理長－副護理長－護理師／護士，此\n工作評價的方法，下列何者正確？",
+    "options": [
+      "因子比較法（factor comparison）",
+      "工作分級法（job ranking）",
+      "工作分類法（job classification）",
+      "點數系統法（point system）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-035-e508",
+    "question": "護理長與該單位的護理同仁共同設定明年度 N3 及 N4 的人數要增加 20%，並策劃\n相關的教育訓練及 輔導以協助同仁達到目標，此為下列何種評核方式？",
+    "options": [
+      "自我考核法",
+      "心理評估法",
+      "評核中心法",
+      "目標管理法"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-036-3fc1",
+    "question": "某護理師常常自願幫護理長作臨時交辦的事務，得到護理長的賞識與肯定，高估其績效表現。但該 護理師常無法顧及其分內的護理工作，導致需同事協助完成。護理長出現下列何種績效考核的偏誤？",
+    "options": [
+      "近因效應",
+      "月暈效應",
+      "觸角效應",
+      "膨脹壓力效應"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-037-538c",
+    "question": "針對醫院評鑑的敘述，下列何者正確？",
+    "options": [
+      "醫院評鑑分為 5 類，教學醫院評鑑分為 3 類",
+      "醫學中心全日平均護病比為≦10 人",
+      "以病人為焦點的查證方式",
+      "著重於了解病人量與健保支付點數"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-038-890a",
+    "question": "分析病人發生跌倒之因素，下列何種品管工具最適宜？",
+    "options": [
+      "甘特圖（Gantt Chart）",
+      "樹狀圖（Tree Diagrams）",
+      "矩陣圖（Matrix Chart）",
+      "控制圖（Control Chart）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-039-8b02",
+    "question": "有關醫療糾紛處理後的省思與預防，下列何者較為適當？①徹底檢討追究事故當事者\n之疏失 ②給予事故當事者關懷，協助走出傷痛 ③ 加強在職教育，提升照護品質 ④\n為防事故再發生，所有醫囑均須請醫師說明",
+    "options": [
+      "①②",
+      "①③",
+      "②③",
+      "②④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-040-0292",
+    "question": "有關醫療成本控制，下列敘述何者錯誤？",
+    "options": [
+      "護理主任應知道護理部門之人事費用成本",
+      "護理部主管應知道護病比與健保住院護理費給付連動之護理費收入",
+      "護理長應知道單位之衛材、設備費用成本",
+      "護理長作預算時應超估，以備不時之需"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-041-589a",
+    "question": "下列何者不是醫療機構常用於衡量生產力的指標？",
+    "options": [
+      "健保給付點值",
+      "門診就診人次",
+      "病人服務滿意度",
+      "醫材使用量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-042-2fbc",
+    "question": "依據 Marquis 和 Huston（2011）創造激勵氛圍的策略，下列何者錯誤？",
+    "options": [
+      "發展工作計畫，給員工參與決策的機會",
+      "為避免增加員工的工作負荷，主管應承擔所有工作",
+      "了解員工的需求，提供適當的協助",
+      "給員工具挑戰性的任務，提供成長機會"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-043-3511",
+    "question": "規劃教育訓練課程時，首要工作是下列何者？",
+    "options": [
+      "訂定教學目標",
+      "確認教學對象",
+      "評估學習需求",
+      "擬定教學策略"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-044-f4e2",
+    "question": "影響護理資訊系統發展因素中，「資訊系統上線時，教育訓練不足」是下列那一類因素影響？",
+    "options": [
+      "人的影響因素",
+      "事的影響因素",
+      "物的影響因素",
+      "時間的影響因素"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-045-031e",
+    "question": "依據我國傳染病防治法第 3 條規定，傳染病的分類，登革熱屬於第幾類傳染病？",
+    "options": [
+      "第一類傳染病",
+      "第二類傳染病",
+      "第三類傳染病",
+      "第四類傳染病"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-046-6746",
+    "question": "病人分類制度的目的是預測病人照護需求、評估護理時數和所需人力，實施時必須注意下列原則，何者不適當？",
+    "options": [
+      "為方便使用，不需要考量信效度的問題",
+      "為確保資料正確，應該要規劃稽核機制",
+      "為省時省力，分類系統不可影響臨床護理照護時數",
+      "為強化效益，分類系統應有多功能發展"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-047-6551",
+    "question": "醫院護理部延聘學者擔任顧問，協助指導同仁從事護理研究，這是屬於官僚式組織\n（bureaucracy organization）中何種類型？",
+    "options": [
+      "金字塔型",
+      "高聳型",
+      "扁平型",
+      "直線幕僚型"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-048-bc02",
+    "question": "對於組織控制幅度（span of control）的敘述，下列何者正確？",
+    "options": [
+      "可以了解組織內成員關係的複雜程度",
+      "可以了解組織員工依循標準化的程度",
+      "可以了解組織集權的狀況",
+      "可以決定人員配置的層級與數量"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-049-2899",
+    "question": "有關休假係數的敘述，下列何者錯誤？",
+    "options": [
+      "護理人員年資會影響病房的休假係數",
+      "國定假日放假天數會影響病房的休假係數",
+      "病房床數不會影響病房的休假係數",
+      "護理人力不受病房的休假係數的影響"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-110-050-f4e7",
+    "question": "突然大量的傷患湧入急診室，你是急診室護理長，下列處理何者適當？",
+    "options": [
+      "設置傷患緊急處理應變小組",
+      "馬上指派護理師任務",
+      "進行危害分析",
+      "指定對外發言人"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-001-2b51",
+    "question": "COVID-19疫情期間，依2022年規定住院病人陪病者一名得進行公費篩檢，若更換陪病者則需自費篩檢，此舉引發住院病人林先生的情緒反應並向護理師抱怨說：「我兒子要上班，換老婆照顧我，還要自費做PCR，你們醫院怎麼趁機撈防疫財啊！」護理師此時最適當的反應是：",
+    "options": [
+      "「林先生您怎麼說我們醫院要撈防疫財呢?疫情期間所有醫療量能都降載了，哪有什麼防疫財可以撈啊!」",
+      "「這是衛生福利部的規定，我覺得您應該去跟衛福部部長反映。」",
+      "「林先生您這麼生氣對身體不好，況且醫院這麼做也是配合政府的防疫政策啊!」",
+      "「林先生您的意思是第二位陪病者必須自費採檢的規定，讓您覺得如何?」"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-002-b49f",
+    "question": "病人因罹患肺結核收治於負壓隔離病房，護理師評估後確立以下護理診斷，哪一項健康問題應優先處理?",
+    "options": [
+      "社交隔離/與隔離治療及溝通障礙有關",
+      "言詞溝通障礙/與隔離有關",
+      "焦慮/與疾病不確定性有關",
+      "低效性呼吸型態/ 與肺結核、肺部感染有關"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-003-c411",
+    "question": "有關給藥法的敘述，下列何者正確？",
+    "options": [
+      "肛門給藥時，須請病人左側臥且將藥物推入肛門內約2.5公分",
+      "若以空針給口服藥，給藥劑量刻度應對準針心前端黑色圈上緣",
+      "當成人使用耳滴劑時，須將患側耳垂向上向後拉",
+      "於上臂三角肌肌肉注射，不宜注射上臂下方1/2處，以避免傷到血管"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-004-4660",
+    "question": "有關肌肉注射給藥法的敘述，下列何者正確？",
+    "options": [
+      "病患採俯臥進行背臀肌注射時，應請病患腳趾向外",
+      "對於兩歲以下的嬰幼兒，股外側肌是最佳的注射部位",
+      "採取留泡注射法(air-lock technique)，可避免藥物與空氣同時注入",
+      "若注射部位為右腹臀肌，則注射者將左手食指放於病患右股骨大粗隆"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-005-e2a9",
+    "question": "唐先生，60歲，糖尿病病史，平日血糖控制不佳，今日因叫喚不醒被送入急診，測得動脈血液氣體(ABGs)值如下：pH 7.2、PaCO2：40mmHg、HCO3⁻：18mEq/L，請問有關唐先生的ABGs判讀之敘述，下何者正確？",
+    "options": [
+      "代謝性鹼中毒，合併代償",
+      "代謝性酸中毒，未代償",
+      "呼吸性鹼中毒，合併代償",
+      "呼吸性酸中毒，未代償"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-006-4307",
+    "question": "有關高血鉀的敘述，下列何者錯誤？",
+    "options": [
+      "常見長期洗腎的病患",
+      "病患會有肌肉抽動",
+      "嚴重燒傷休克期病患會出現",
+      "心電圖監測會有低的T波"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-007-2391",
+    "question": "有關冷熱應用的敘述，下列何者正確？",
+    "options": [
+      "冰枕適用於炎症性發熱，但不適用於中暑、中樞熱",
+      "通常乾熱會比濕熱使用較低的溫度",
+      "熱敷時在皮膚上塗一層凡士林的目的為預防燙傷",
+      "1:100 beta-iodine熱水坐浴溶液適用於痔瘡患者"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-008-45d2",
+    "question": "蔡先生因車禍致顱內出血，現有顱內壓升高徵象，下列何種溶液不適合蔡先生使用？",
+    "options": [
+      "0.9% NaCl",
+      "5% glucose water進入體內為低張，請修正",
+      "5% glucose in 0.33% normal saline",
+      "Ringer’s solution"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-009-2fd6",
+    "question": "承上題，為降低蔡先生顱內壓，醫囑開立Glycerol 250ml iv st within 1 hour，護理師以一般輸液套管靜脈滴注(15 gtt/ml)，下列何者為最適當的滴注速度？",
+    "options": [
+      "32滴/分",
+      "63滴/分",
+      "125滴/分",
+      "250滴/分"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-010-6fa7",
+    "question": "有關臨床使用烤燈的敘述，下列何者正確？",
+    "options": [
+      "烤燈由對流方式將能量轉移至組織內",
+      "為避免反彈效果，每次用熱應至少持續30分鐘",
+      "用熱30-45分鐘，血管達最大擴張程度，可避免血管收縮",
+      "使用前應避免照射部位潮濕，以降低燙傷機會"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-011-fc42",
+    "question": "有關反射性尿失禁（reflex incontinence）的敘述，下列何者正確？",
+    "options": [
+      "突然有強烈的排尿慾望，在來不及控制狀態下，尿液不自主排出",
+      "因骨盆底肌肉無力，當腹內壓升高而不自主地排出少量的尿液",
+      "護理師可協助病人實施膀胱訓練，並鼓勵執行增強腹肌運動",
+      "護理師可教導病人重複排尿法，即在排空膀胱後，再排空一次+K17L17:P17"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-012-7472",
+    "question": "下列何種情況下適宜給病人使用熱療法？",
+    "options": [
+      "不明原因腹痛",
+      "持續出血",
+      "齒齦發炎",
+      "3天前腳踝扭傷"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-013-57dc",
+    "question": "有關溫水坐浴的應用與目的，下列敘述何者正確？\n     ①產後會陰撕裂傷口脹痛，以鬆弛骨盆肌肉與減輕腫脹\n     ②痔瘡疼痛時，用以促進血液循環與減輕疼痛\n     ③發燒超過 39℃時，用以促進排汗降低體溫\n     ④尿瀦留時，用以鬆弛膀胱括約肌，促進排尿\n     ⑤坐骨神經痛時，用以減輕發炎與疼痛",
+    "options": [
+      "①②④",
+      "①③⑤",
+      "②③⑤",
+      "②④⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-014-5d5a",
+    "question": "零下5℃的玉山賞雪超過1 小時，臉部皮膚發紅，此現象稱為：",
+    "options": [
+      "交感性反應（consensual response）",
+      "反彈現象（rebound phenomenon）",
+      "適應現象（adaptation phenomenon）",
+      "持續性反應（consistent effect）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-015-52d7",
+    "question": "照護中風臥床意識不清的病患時，測量生命徵象的順序，下列何者正確？",
+    "options": [
+      "呼吸→脈搏→體溫→血壓",
+      "血壓→體溫→呼吸→脈搏",
+      "體溫→血壓→呼吸→脈搏",
+      "脈搏→血壓→體溫→呼吸"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-016-aa88",
+    "question": "陳女士體溫由36.8℃增加至38.8℃，其新陳代謝率可能增加多少%？",
+    "options": [
+      "10%",
+      "13%",
+      "20%",
+      "26%"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-017-8903",
+    "question": "下列關於病人瀕死症狀之生理變化描述，何者錯誤？",
+    "options": [
+      "聽覺是最後消失的感覺",
+      "出現陳氏呼吸(Cheyne-Stokes)",
+      "病人呼吸時出現的嘎嘎聲是因為喉頭積累的痰液造成",
+      "病人的尿量減少且容易大小便失禁"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-018-6135",
+    "question": "下列有關常規尿液採集與培養之描述，何者正確？",
+    "options": [
+      "收集尿液時最好是收集前段尿液",
+      "月經來潮時依然可以自解收集尿液",
+      "依病程先給藥，再收集尿液檢體",
+      "尿液顏色呈現藍綠色可能為綠膿桿菌感染"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-019-0b3e",
+    "question": "有關給藥時之藥物動力學敘述，何者錯誤?",
+    "options": [
+      "肝功能異常者若使用經肝臟解毒作用的藥物會影響藥效",
+      "給藥時吸收速率排序為靜脈注射>肌肉注射>口頭投予>皮下注射",
+      "身體主要代謝藥物之器官為肝臟",
+      "藥物因為不同劑型溶解速度不同，其中以硬膠囊最慢"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-020-1677",
+    "question": "下列何者臨床給藥醫囑之縮寫錯誤?",
+    "options": [
+      "舌下給藥 S.L.",
+      "皮內注射 S.C.",
+      "一天四次 q.i.d",
+      "雙眼 O.U."
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-021-e7ee",
+    "question": "65歲的王奶奶罹患缺鐵性貧血並有骨質疏鬆，目前定時服用液態鐵劑與鈣片。對於王奶奶口服藥物上的注意事項，下列何者正確?",
+    "options": [
+      "鐵劑與鈣片可以同時服用，不影響吸收",
+      "服藥時可搭配茶葉水，降低藥物的異味",
+      "服用鐵劑時建議用吸管飲用，避免牙齒染色",
+      "服用鐵劑應在飯前給予，吸收更好"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-022-bdc0",
+    "question": "王先生，45歲，因下肢蜂窩性組織炎入院治療。王先生主訴下肢疼痛，晚上痛的更不舒服，指數約5-6分。夜間王先生在床上翻來覆去，睡眠時間約3-4小時，容易驚醒。他表示有失眠困擾多年，但拒絕醫師建議服用安眠藥，以調整生活作息為主。依據上述，王先生最主要的護理診斷，下列何者正確?",
+    "options": [
+      "睡眠型態紊亂／導因：疼痛",
+      "疼痛／導因：睡眠困擾",
+      "蜂窩性組織／導因：下肢紅腫熱痛",
+      "不遵從／導因：拒絕配合醫師用藥"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-023-1f01",
+    "question": "陳奶奶，82歲，最近記憶力、活動力降低、易怒、日夜顛倒，有輕度失智症病史。此次因發燒和呼吸急促，體溫:38.9OC、心跳82次/分鐘、呼吸 35次／分鐘和血壓值 150／90mmHg，此時，為解決最重要的護理問題，護理師應立即收集下列那些資料?\n① 詢問100-7是多少? ②聽診腹部腸音。③聽診呼吸音。④評估血氧濃度。⑤四肢肌力評估 ⑥追蹤全套血液檢查結(Complete blood count)",
+    "options": [
+      "②③④",
+      "①③⑥",
+      "②④⑤",
+      "③④⑥"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-024-5826",
+    "question": "李先生診斷口腔癌末期，意識不清，眼睛無法閉合，左手接受靜脈輸液注射，有關護理師執行舒適護理措施的流程，下列敘述何者正確？",
+    "options": [
+      "進行口腔清潔過程，應從舌根開始，以達徹底清潔",
+      "協助病人更換病人服，脫衣服應先從左側手臂脫除",
+      "依床上沐浴原則，清洗四肢時，應由近心端向遠心端擦拭",
+      "眼睛護理時，應以紗布將眼睛蓋住，並評估眼角膜乾燥情形"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-025-9002",
+    "question": "李先生因糖尿病合併左腿深部靜脈血栓診斷而入。入院後，注射抗凝血劑肝素(Heparin 500U/ml)，下列何者正確？",
+    "options": [
+      "護理師核對依醫囑NS 500ml in Heparin 2500U IVD 20ml/hr，應於NS 500ml中加入Heparin 5支",
+      "必須監測activated partial thromboplastin time（aPTT）",
+      "藥理作用是活化凝血激素九、十、十一因子之形成",
+      "若出現流鼻血，可再觀察"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-026-d597",
+    "question": "林先生，45歲，到急診就醫，目前出現心搏過速，下列哪一種情況，最可能發生此問題?",
+    "options": [
+      "鉀離子過高",
+      "服用過量的毛地黃(Digoxin)",
+      "顱內壓上升(IICP)",
+      "缺氧"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-027-1a90",
+    "question": "有關排班的基本原則，下列敘述何者正確？",
+    "options": [
+      "對於臨時請病假的同仁，可於下個排班時段減少休假天數。",
+      "女性護理師妊娠或哺乳期間，可依個人意願選擇上班班別。",
+      "排班需考量病人照顧需要，可以機動排班，避免人力不足。",
+      "為達單位排班一貫性，排班後主管及同仁均不得更換班別。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-028-59f2",
+    "question": "有關護理師專業能力進階制度的敘述，下列何者正確？",
+    "options": [
+      "N3 護理師臨床實務能力是通過台灣護理學會N3個案報告審查。",
+      "N1 護理師臨床實務能力是熟悉工作流程，可完成一般病人照護。",
+      "護理人員能力進階所需的學術能力，都需經過台灣護理學會審查。",
+      "醫院評鑑合格機構間流動的護理人員能力進階層級可予相互認定。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-029-850a",
+    "question": "「針頭或尖銳物扎傷或割傷」是護理人員常見的職業災害，下列何者正確？",
+    "options": [
+      "各醫院可以依據有無血液傳染風險選擇是否使用安全針具，作為醫院成本管控。",
+      "針頭使用後應丟棄於針頭收集器，無論收集器內數量多寡，應每日進行廢棄物處理。",
+      "為預防針扎，新進護理人員含實習學生進入職場前須安排預防針扎的教育訓練。",
+      "發生針扎事件時，暴露者需進行針扎通報，除照X光追蹤外，主管亦可提供關懷。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-030-ccf5",
+    "question": "依據Hersey與Blanchard的情境領導理論，領導者應依部屬的發展準備度調整領導策略，下列敘述何者正確？",
+    "options": [
+      "當部屬不願意負責任或沒有安全感時，領導者不要給太多指導，可以授權讓部屬完成任務。",
+      "當部屬能力不足但願意負責任時，領導者必須給予明確的命令與指導，督導部屬達成任務。",
+      "當部屬能力夠但不願意負責任時，領導者可以與部屬分享想法，促進部屬參與決策。",
+      "當部屬能力夠且願意負責任時，領導者要提供澄清疑問的機會，協助部屬完成任務。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-031-c569",
+    "question": "有關增強理論之敘述，以下何者正確?",
+    "options": [
+      "正面增強是去除不想要的事物來刺激員工正確的行為，例如不遲到就不會被罰款。",
+      "負面增強是以不想要的事物來阻止某些特定行為發生，例如遲到時需罰扣獎金。",
+      "懲罰是以不想要的事物來促進某種特定行為發生，例如給藥錯誤就通報異常事件。",
+      "消除是不採取任何措施，想要的行為會藉增強重複，但沒有增強時，行為就會消失。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-032-7157",
+    "question": "兩位護理師因工作分派方式發生激烈衝突，護理長當下的處理方式，下列何者正確？",
+    "options": [
+      "慎重選擇協商的會議地點",
+      "適時要求延緩協商行動",
+      "鼓勵表達意見以達成共識",
+      "以權力將雙方衝突壓抑下來"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-033-11ef",
+    "question": "問題解決過程中，首要的步驟為何？",
+    "options": [
+      "先了解及確認問題本質",
+      "謹慎完整收集相關資料",
+      "妥善規劃問題解決方案",
+      "評價各個問題解決方案"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-034-36ae",
+    "question": "有關阿丹兒（Adair）所提QUACERS模式（the quality assurance cost efficiency risk staff model）的目標之敘述，下列何者正確？品質保證危機管理工作人員需求成本效益",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-035-9e1a",
+    "question": "Donabedian的醫療品質評估模式中，以專業執照、學經歷、專長…等進行護理人員的素質控制，是屬於下列哪一種評估標準？",
+    "options": [
+      "結構（structure）",
+      "過程（process）",
+      "結果（outcome）",
+      "功能（function）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-036-8a76",
+    "question": "平衡計分卡強調應兼顧四個構面的平衡，有關四個構面的內容，下列何者正確？財務面內部流程學習成長面顧客面外部競爭面",
+    "options": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-037-0caa",
+    "question": "監測病房跌倒發生率，何種品管工具最適當？",
+    "options": [
+      "管制圖（Control chart）",
+      "系統圖（Systematic diagram）",
+      "柏拉圖（Pareto diagram）",
+      "特性要因圖（Cause-and-effect diagram）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-038-54d1",
+    "question": "醫院每月平均一位護理人力成本為58,000元，每人每月平均工作148小時，在執行人工造口袋護理耗時50分鐘，則此項技術之護理人力成本為多少元？",
+    "options": [
+      "190元",
+      "200元",
+      "261元",
+      "327元"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-039-4629",
+    "question": "有關護病比的相關法令規定，何者無直接關係？改為正向題較為合適",
+    "options": [
+      "機構的內部法規",
+      "勞動基準法",
+      "護理人員法",
+      "性別平等法"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-040-8603",
+    "question": "新冠病毒為法定傳染病，在防護措施上何者錯誤？ 改為正向題較為合適",
+    "options": [
+      "應穿戴好個人防護裝備離開汙染區，以避免各分區間的交叉感染",
+      "醫護人員在為病人篩檢、插管時，應有完整的防護面罩裝備",
+      "執行密切接觸的治療時，建議戴上護目鏡或面罩，防護臉部黏膜",
+      "建議於脫除手套、面罩、頭套和隔離衣的步驟間，應以酒精洗手"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-041-5051",
+    "question": "護理師在颱風天上小夜班，接著上白班是違反哪一種法令？",
+    "options": [
+      "性別工作平等法",
+      "職業災害勞工保護法",
+      "勞動基準法",
+      "護理人員法"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-042-92ca",
+    "question": "有關護理師為了不延遲下班,有效運用原則安排工作時間的，下列敘述何者正確? \n(1)前一天先安排好工作日程計畫內容  (2)進行照護活動時能專心一致不拖延 (3)自我分析工作時間耗用的項目進行改善 (4)使用正確有效的團隊溝通方式 (5)所有病人的問題都應該由護理師來處置以示負責",
+    "options": [
+      "(1) (2) (3) (4)",
+      "(1) (2) (3) (5)",
+      "(1) (3) (4) (5)",
+      "(1) (2) (4) (5)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-043-1243",
+    "question": "有關護理師常見的職業災害預防的敘述，下列何者正確?",
+    "options": [
+      "病人的基因毒性（化療）廢棄物應貼上CNC (Chinese National Standards)國家標準圖示做為標示",
+      "職業安全衛生法規定，雇主對勞工應施以必要之安全衛生教育及訓練，所以這是雇主的事與我無關",
+      "與護理師間的人際互動與分享，能讓護理人員感受到自己是被關懷與重視，增加職場復原力",
+      "雇主設計了多樣化肌肉骨骼傷害之防範教學計畫，所以執業中發生的肌肉骨骼傷害事故就不能申報職災"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-044-5a20",
+    "question": "化解組織內衝突的處理方式，以下何者不正確?",
+    "options": [
+      "在成員間建立一個共識的目標，作為組織成員努力的方向",
+      "提供溝通表達機會，討論彼此觀點想法",
+      "為避免衝突再發生，凡事委曲求全",
+      "請無利害關係的第三者，協助找出衝突雙方可接受的方案，以化解衝突"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-045-6df8",
+    "question": "依據學者Huston所提出創造激勵性氣氛的工作環境有很多策略，以下何者不是激勵性策略?",
+    "options": [
+      "與員工建立彼此信任及互助的關係。",
+      "為了維持工作紀律，部屬出現疏失時應立即公開予以指正，以達效果。",
+      "在適當的時機可讓部屬參與做決策。",
+      "提供部屬有接受挑戰的經驗及成長機會。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-046-d55f",
+    "question": "某一內科病房70歲心肌梗塞男性病人(主要照顧者為案妻)，4/1 10:00剛接受心導管處置，4/2 02:30因妻子熟睡中，自行下床如廁，於廁所跌倒，針對該病人跌倒檢討作業，下列何者較不適當?",
+    "options": [
+      "運用流程圖，以圖像方式呈現病人入院及照護過程",
+      "以特性要因圖(魚骨圖)分析導致病人跌倒之主要因素",
+      "可運用查檢表描述病人跌倒經過",
+      "以推移圖確認近半年跌倒發生率的數據變化"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-047-5a35",
+    "question": "針對平衡計分卡的敘述，何者為是?",
+    "options": [
+      "以機構或單位的財務指標為優先考量的構面",
+      "需要在雇主構面、財務構面、學習成長及內部流程間取得平衡",
+      "需融入機構願景，確認經營策略及競爭劣勢，而非競爭優勢",
+      "以策略性目標作為績效衡量的指標和員工間溝通的工具"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-048-e155",
+    "question": "某外科病房資歷1年以下新進護理人員比率達25%，若您是單位的護理長，針對人員照護能力提升的規劃，下列何者較不適當?",
+    "options": [
+      "評估新進護理人員照護能力等相關資料，確認照護能力問題及相關因素",
+      "與資深護理人員及新進護理人員共同討論問題解決的目標",
+      "可運用甘特圖，評估可行的方案及選擇目標達成策略或方法",
+      "方案包含何時(When)、哪裡(Where)、誰(Who)、什麼(What)、為何(Why)與如何(How)等六種要素"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-049-9664",
+    "question": "護理長要培育單位小組長，將派班作業授權給護理師小乙，針對「授權（delegation）」的定義，以下描述何者正確?",
+    "options": [
+      "護理長將工作切割給護理師，護理長與護理師彼此關係是平行的。",
+      "護理長將某些工作委外包給外面的公司。",
+      "護理長因某些因素無法執行職務，指定合適的人代為執行。",
+      "護理長把任務及相關自主權交給屬下，自己擔負監督回饋的責任，並協助下屬成長。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-111-050-c574",
+    "question": "預防護理人員針扎傷害的預防方法，以下何者不適當?",
+    "options": [
+      "對於新進人員及可能接觸針器的人員辦理預防針扎教育訓練。",
+      "預防病人反射性揮舞肢體，適當固定或約束病人雙手及注射或採檢部位的關節。",
+      "在執行抽血或技術，立即將針器用雙手回套。",
+      "已經封口的針頭收集桶中勿再開啟。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-001-4ba3",
+    "question": "下列哪一種情況容易有便秘的問題出現？①使用嗎啡類止痛藥②面對考試感到緊張③懷孕後期④長期臥床",
+    "options": [
+      "①②③",
+      "①②④",
+      "②③④",
+      "①③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-001-a062",
+    "question": "王小姐因腦中風導致左側肢體無力入院治療，日常生活無法自理，故照會物理治療師給予復健訓練，護理師一同評估、協助及追蹤肢體肌力及活動狀況，請問此為哪項護理功能？",
+    "options": [
+      "獨立性功能",
+      "依賴性功能",
+      "合作性功能",
+      "治療性功能"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-002-bea9",
+    "question": "林太太，50歲，乳癌第三期，入院接受右側乳房根除性，術後時常哭泣的說: 「我覺得自己不是一個完整的女人，先生會不會因為這樣就不愛我了！」，依馬斯洛( Maslow )五大需求理論，護理師應優先滿足哪種需求？",
+    "options": [
+      "自尊自重需求",
+      "愛及歸屬感需求",
+      "安全感需求",
+      "自我實現需求"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-002-d163",
+    "question": "病人排便顏色為黑色或柏油色，可能的成因下列何者錯誤？",
+    "options": [
+      "長期服用鐵劑",
+      "食用動物內臟",
+      "腸胃道鋇劑攝影檢查",
+      "胃出血"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-003-7cf0",
+    "question": "王伯伯因長期臥床多日未解便，執行小量灌腸技術，下列何者錯誤？",
+    "options": [
+      "因長期留置導尿管，灌腸時可採屈膝仰臥式",
+      "肛管尺寸選擇18Fr.",
+      "每次灌腸最大量不超過500c.c.",
+      "請病人張口哈氣以減少腹壓"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-003-f01e",
+    "question": "周爺爺80歲，有高血壓病史10年，近日因騎腳踏車不慎跌倒入院行右股骨關節置換術，下列\n哪項敘述非護理師預防跌倒之照護事項？",
+    "options": [
+      "衛教服用降血壓藥物後，應採漸進式下床",
+      "病患臥床時，應調整病床高度為最低",
+      "下床時，助行器應放置在右側",
+      "應隨時拉起雙側床欄"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-004-0dc3",
+    "question": "有關執行存留導尿技術，下列敘述何者錯誤？",
+    "options": [
+      "導尿管號碼越大，尺寸越小",
+      "成人個案一般選用14Fr.-16Fr.的導尿管",
+      "導尿管插入的深度，男性約 20 公分，女性約 5 公分",
+      "注入固定水球溶液可選擇無菌蒸餾水"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-004-5baa",
+    "question": "關於護理觀察方法，以下敘述何者正確？ ①護理師聽診呼吸音為直接觀察法 ②觸診為最常用\n且最基本的觀察方法 ③看護表示病患昨日夜間躁動且有攻擊行為，為次級資料 ④病患抽血報\n告 Hb:12 g/dl，為第一手資料",
+    "options": [
+      "①③",
+      "①④",
+      "②③",
+      "③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-005-682e",
+    "question": "陳伯伯因左小腿傷口癒合差，故入院預計行傷口清創術，術前表示 : 「我真不知道該怎麼辦才好? 不知道接受開刀治療好不好 ? 說不定採用中醫療法也不錯?」 護理人員回應:「你認為呢? 」 此為運用哪種會談技巧？",
+    "options": [
+      "不批評",
+      "澄清",
+      "反映",
+      "重述"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-005-f076",
+    "question": "陳奶奶因8小時未解尿、觸診下腹部為脹尿情形，給予單次導尿，消毒尿道口順序下列敘述何者正確? ①近側小陰唇內面 ②遠側小陰唇內面 ③尿道口",
+    "options": [
+      "①→②→③",
+      "③→②→①",
+      "③→①→②",
+      "②→①→③"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-006-b504",
+    "question": "長期留置導尿管的病人需收集尿液檢體時，其收集方式之敘述下列何者正確？",
+    "options": [
+      "自蓄尿袋開口流出一段尿液後，再收集中段尿液檢體",
+      "從導尿管橡皮接頭處消毒後，以無菌空針抽取尿液",
+      "將導尿管及蓄尿袋分開，由導尿管接口處收集尿液",
+      "拔掉存留導尿管後，請病人自解收集中段尿"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-006-bb53",
+    "question": "下列護理評估之描述，何者為客觀(objective data)且具體之描述？",
+    "options": [
+      "家屬:「她昨天頭痛有打過一次止痛劑」",
+      "看護: 「病人說肚子傷口脹脹痛痛的」",
+      "護理師: 「病患臉紅紅的，感覺發燒了」",
+      "護理師:「病患背部傷口引流管量50ml，引流液呈紅色」"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-007-1524",
+    "question": "林女士因施打抗生素於右手背留置靜脈留置針，護理師應如何協助林女士更衣？①先脫右側 ②先脫左側 ③再穿右側 ④再穿左側",
+    "options": [
+      "①③",
+      "①④",
+      "②③",
+      "②④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-007-d150",
+    "question": "醫囑 Sinomin Oph. Solution 1gtt O.S. Q6H ，下列給藥方式正確？",
+    "options": [
+      "每天藥水滴注次數為六次",
+      "藥水滴注在左眼結膜囊處",
+      "藥水滴注在右眼結膜囊處",
+      "此為臨時醫囑"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-008-c7a8",
+    "question": "下列護理紀錄原則哪項敘述正確？",
+    "options": [
+      "時間欄應填寫紀錄時間，非執行時間",
+      "遇病患急救時，為節省時間可請他人代寫",
+      "可記錄病患脾氣差、拒絕治療等內容",
+      "內容可使用被認可的英文縮寫名詞或縮寫，如NPO"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-008-fccc",
+    "question": "王先生罹患癌症接受化學治療，近日口腔黏膜出現白斑與破損，且進食出現疼痛情形， 下列措施何者最適合王先生？",
+    "options": [
+      "協助使用 2% CHG溶液消毒白斑",
+      "用餐前使用xylocaine solution漱口",
+      "暫時避免清洗口腔以減輕疼痛不適",
+      "餐後使用牙線清潔口腔"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-009-1971",
+    "question": "有關護理過程的描述，下列何者錯誤？",
+    "options": [
+      "以個案或家屬為中心，隨時可依需求而修改計畫",
+      "具有時效性、連續性",
+      "診斷期為護理過程的第一步驟",
+      "需統合及運用多種知識與技能，以滿足全人基本需求"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-009-66f1",
+    "question": "王奶奶，85歲，長期臥床，於翻身時協助執行背部護理，下列何者不適當？",
+    "options": [
+      "敲擊法(tapotment)",
+      "按撫法(stroking)",
+      "揉捏法( kneading )",
+      "重擦法(friction )"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-010-b699",
+    "question": "照顧一位50歲罹患肺癌末期之病人，進行床上沐浴時，下列方式何者照護不適宜？",
+    "options": [
+      "水溫宜保持在 41~43℃",
+      "清潔四肢時應由近心端往遠心端按摩擦洗",
+      "沐浴時間以飯前或飯後一小時較佳",
+      "可以使用50%酒精，促進血液循環"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-010-dd44",
+    "question": "護理計畫的擬定，下列哪些為錯誤敘述？ ①包含設定健康問題優先次序、訂定目標與計畫護\n理活動②目標需以護理師可否達成為優先考量 ③目標內容包含對象、時間、行為表現等 ④不\n須與其他醫療團隊人員目標一致 ⑤長程目標通常指一星期內可完成的事項",
+    "options": [
+      "①③⑤",
+      "②③④",
+      "②④⑤",
+      "③④⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-011-8d56",
+    "question": "周小弟，2歲，體重15公斤，接受某藥物治療，該藥的成人使用劑量為300 mg，依克拉克氏法則（Clark's rule）計算，請問:周小弟之使用劑量公式為何？",
+    "options": [
+      "(A) 成人劑量x體重/50",
+      "成人劑量x體重/100",
+      "成人劑量x體重/150",
+      "成人劑量x體重/200"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-011-ea04",
+    "question": "下列易使體溫下降的情況，何者不正確？",
+    "options": [
+      "飢餓或營養不良",
+      "大面積燒傷",
+      "短時間全身用冷",
+      "局部用冷"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-012-1aa8",
+    "question": "發燒開始期或發作期的症狀不包括下列何項？",
+    "options": [
+      "寒顫",
+      "心跳速率加快，呼吸變快變深",
+      "口渴",
+      "皮膚發紅發燙"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-012-8b6d",
+    "question": "曾小弟，手術後第2天，醫囑「acetaminophen 500 mg/tab 1# PO TID」，此為成人劑量，請問:\n幾歲以上的兒童可以開始使用成人劑量呢？",
+    "options": [
+      "10歲",
+      "12歲",
+      "14歲",
+      "16歲"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-013-58bc",
+    "question": "下列對熱衰竭的形容，何者錯誤？",
+    "options": [
+      "體溫過高、脈搏快而弱、血壓降低",
+      "須採平躺、頭部稍墊高姿勢",
+      "大量流汗、皮膚蒼白、肌肉痙攣、軟弱無力",
+      "可由口攝入或點滴方式補充水分電解質"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-013-7a8a",
+    "question": "兩種藥物合併使用時，所產生的藥效不如單獨使用藥物的總和為哪種作用？",
+    "options": [
+      "拮抗作用",
+      "相加作用",
+      "協同作用",
+      "加成作用"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-014-3a37",
+    "question": "下列何者為下肢血管檢查或治療後，評估足部血循的最佳部位？",
+    "options": [
+      "股動脈",
+      "膝膕動脈",
+      "脛後動脈",
+      "足背動脈"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-014-e95c",
+    "question": "為一位二歲病童執行醫囑Novamin 2.5 mg, St., IM，請問:二歲以下之幼兒肌肉注射最理想部位\n為何？",
+    "options": [
+      "上臂三角肌",
+      "股外側肌",
+      "腹臀肌",
+      "背臀肌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-015-b095",
+    "question": "林小姐嚴重缺鐵性貧血住院，醫囑予以注射鐵劑，請問要採用什麼注射法，以避免藥物回滲到\n皮下組織？",
+    "options": [
+      "留泡注射法",
+      "皮下注射法",
+      "皮內注射法",
+      "肌肉注射法"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-015-d1d8",
+    "question": "影響脈搏的因素，下列何者正確？①年紀愈大，脈搏愈快 ②進食或飢餓脈率會減少 ③專業運動員脈率會比一般人慢 ④顱內壓上升或組織缺氧者，脈率會變快 ⑤使用毛地黃會使心跳速率減慢",
+    "options": [
+      "②③\t⑤",
+      "②③④",
+      "①②⑤",
+      "③④⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-016-5805",
+    "question": "吸氣時發出尖銳刺耳高音調的聲音，為下列何者異常呼吸型態？",
+    "options": [
+      "鼾息式呼吸",
+      "蟬鳴式呼吸",
+      "哮鳴",
+      "嘆息式呼吸"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-016-8a12",
+    "question": "李老先生因罹患糖尿病多年，血糖控制不佳，醫囑開立RI 20 IU SC tid、NPH 8 IU SC bid，請\n問這是什麼注射法？",
+    "options": [
+      "留泡注射法",
+      "皮下注射法",
+      "皮內注射法",
+      "肌肉注射法"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-017-56ca",
+    "question": "關於盤尼西林皮膚試驗的敘述，下列何者不正確？",
+    "options": [
+      "不得超過0.1cc",
+      "前臂中段內側",
+      "不能超過20度斜角",
+      "注射時不需反抽針心"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-017-84f1",
+    "question": "呼吸性酸中毒的病人，會出現下列何種呼吸反應？",
+    "options": [
+      "換氣不足",
+      "換氣過度",
+      "畢歐氏呼吸",
+      "庫斯摩耳氏呼吸"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-018-ec09",
+    "question": "病人平均動脈壓為105mmHg，收縮壓為165mmHg，請問其脈搏壓為多少？",
+    "options": [
+      "60mmHg",
+      "75mmHg",
+      "80mmHg",
+      "90mmHg"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-018-f7ad",
+    "question": "王先生罹患心肌梗塞，醫師告知病人於胸痛時可以舌下含服nitroglycerin（NTG），以減輕什\n麼症狀呢？",
+    "options": [
+      "心搏過速",
+      "心絞痛",
+      "心肌炎",
+      "心律不整"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-019-15e1",
+    "question": "以下對量測血壓的描述，何者錯誤？",
+    "options": [
+      "受測肢體高於心臟，易造成假性偏低",
+      "壓脈帶若包裹太鬆，易造成假性偏高",
+      "放氣速度太快，收縮壓和舒張壓會假性偏高",
+      "心律不整者，應測量三次血壓後，再取其平均值會較為準確"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-019-6c64",
+    "question": "請問下列哪種藥物適合在飯前(AC)服用？",
+    "options": [
+      "(A)抗生素",
+      "鐵劑",
+      "緩瀉劑",
+      "胃藥"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-020-6ace",
+    "question": "王美美住院，醫囑Zaditen 0.25 mg/ml 1 gtt O.D. b.i.d.，請問縮寫OD為何？",
+    "options": [
+      "左眼",
+      "兩眼",
+      "右眼",
+      "舌下含服"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-020-d101",
+    "question": "對於血壓的描述，何者正確？",
+    "options": [
+      "周邊血管阻力是造成舒張壓變動的因素",
+      "血壓值由高而低的姿勢為:臥＞坐＞站姿",
+      "嚴重疼痛時，會使血管收縮，出現血壓上升",
+      "使用抗組織胺、皮質類固醇，會使血管擴張，血壓下降"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-021-4178",
+    "question": "醫囑王小美需給予大量點滴輸液，點滴輸注中，每小時需注意觀察哪些事項，何者錯誤？",
+    "options": [
+      "留置針頭是否暢通",
+      "有無浸潤或紅腫",
+      "點滴有滴就好",
+      "大量點滴量是否沒了需更換"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-021-c071",
+    "question": "有關營養素的敘述，下列何者錯誤？",
+    "options": [
+      "當體內醣類不夠時，會以蛋白質、脂肪作為能量的來源",
+      "必須胺基酸無法由人體自行合成",
+      "脂溶性維生素D缺乏時易引起軟骨症",
+      "膳食纖維主要來自植物細胞壁與細胞間質所含的多醣成份，人體可消化吸收利用"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-022-a2ca",
+    "question": "溫和飲食的描述何者錯誤？",
+    "options": [
+      "適用對象為消化性潰瘍、急性胃炎與胃部手術術後",
+      "質地軟嫩、高纖維、易消化的食物",
+      "無刺激性的食物",
+      "煎、烤及油炸的食物較不易消化"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-023-74f3",
+    "question": "衛生福利部的每日飲食指南建議三大營養素比例，下列何者正確？",
+    "options": [
+      "蛋白質10-14%、脂質20-30%、醣類（碳水化合物）58-68%",
+      "蛋白質10-20%、脂質20-30%、醣類（碳水化合物）50-60%",
+      "蛋白質10-15%、脂質20-25%、醣類（碳水化合物）50-65%",
+      "蛋白質10-18%、脂質20-30%、醣類（碳水化合物）50-62%"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-024-08a3",
+    "question": "何者為用熱的禁忌症？",
+    "options": [
+      "肩頸痠痛",
+      "關節炎緩解期",
+      "點滴注射處紅腫移除",
+      "3天前打球扭傷的腳踝"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-024-1ca2",
+    "question": "病人仰臥常見壓傷部位，何者錯誤？",
+    "options": [
+      "枕骨",
+      "骶骨",
+      "腳踝",
+      "足跟"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-025-0ef4",
+    "question": "使用熱水袋為病人進行熱敷護理時，下列何者有誤？",
+    "options": [
+      "於嬰幼兒溫度不宜太高，約21-27度",
+      "不直接與皮膚接觸",
+      "置於病人欲敷部上，袋口朝身體外",
+      "一次20-30分鐘"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-025-aeb4",
+    "question": "壓傷的護理，何者正確？",
+    "options": [
+      "若使用氣墊床，可以不用每兩小時翻身與改變姿勢",
+      "皮膚發紅處周圍可輕按摩，促進血液循環",
+      "每天使用肥皂清潔全身，尤其是皮膚皺摺處",
+      "長期臥床病人坐臥時，為減少因身體下滑造成尾骶骨處的壓力， 建議可將床尾搖高或是將枕頭支托於小腿下方"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-026-1308",
+    "question": "長期臥床不動對身體的影響，何者錯誤？",
+    "options": [
+      "長期臥床不動，會造成肌肉無力或萎縮",
+      "長期臥床不動會使呼吸動作被限制，使得潮氣容積(tidal volume)增加，殘氣量(residual volume)增加",
+      "長期臥床不動使得呼吸道黏液聚積在下半部，無法有效地排出痰液",
+      "長期臥床不動使血液黏稠度增加，容易產生深層靜脈血栓"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-026-a82b",
+    "question": "烤燈使用事項，何者有誤？",
+    "options": [
+      "用於產後會陰傷口",
+      "必須保持適當距離30公分",
+      "可改善嬰兒紅臀",
+      "使用時間20分鐘"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-027-cfbf",
+    "question": "下列檢體採集方式何者容易產生溶血？",
+    "options": [
+      "選擇口徑大的針頭或用真空採血管",
+      "血液檢體需要180度上下翻轉來回混合",
+      "皮膚表面殘留過多酒精",
+      "止血帶綁不超過1分鐘"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-027-f65c",
+    "question": "運動員腳踝扭傷，有明顯腫脹，請問該給哪些護理措施？①扭傷處1-2天內先冷敷，待1-2天後再給予熱敷 ②扭傷處1-2天內先熱敷，待1-2天後再給予冷敷 ③熱敷止痛原理與藉由熱麻痺末梢局部神經而減緩疼痛有關 ④冷敷止痛原理與降低神經傳導速度而減緩疼痛有關",
+    "options": [
+      "①③",
+      "①④",
+      "②③",
+      "②④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-028-24b0",
+    "question": "使用冷療法的過程，皮膚出現何種現象，不需暫停治療？",
+    "options": [
+      "發紫",
+      "麻木",
+      "疼痛",
+      "皺褶"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-028-a626",
+    "question": "臨終病人生理變化，何者錯誤？",
+    "options": [
+      "吞嚥能力下降，腸胃蠕動漸趨緩慢，水與食物的攝取會越來越少，最後將無法進食",
+      "病人的呼吸型態改變，會出現張口呼吸、呼吸困難、呼吸暫停等情形，由於肌肉鬆弛無力，氣管水腫，呼吸時震盪產生嘎嘎音（death rattle）",
+      "病人的血壓會下降，脈搏次數不規則且微弱，四肢末梢會變得冰冷，皮膚則出現發紺、濕冷、全身冒汗的情形",
+      "病人意識清楚，定向感清楚，家人可以多把握時間陪伴出國旅行"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-029-964d",
+    "question": "關於安寧療護基本理念，下列哪一個是錯誤的？",
+    "options": [
+      "要尊重病人的自主權，任何決定都要經過病人同意才能進行，包括所有的檢查和治療，例如：鼻胃管、導尿管、點滴及任何手術",
+      "照顧癌症末期病人的基本原則：用最自然且對病人最沒有傷害的方式。如果病人可以吃就不要打針，除非不得已，不要在病人身上插任何管子",
+      "癌症末期病人胃口通常不好，他想吃什麼，家屬隨時都要替他準備，不要加以限制或禁忌",
+      "在安寧療護病房及安寧居家療護裏，放在第一位的是家屬"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 3,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-029-980b",
+    "question": "精密輸液套管袋中有靜脈輸液30c.c.，護理師欲將10c.c.Cefazolin抗生素加入給藥，並於30分鐘滴注完畢，請問下列滴數何者正確？",
+    "options": [
+      "20gtts/min",
+      "40gtts/min",
+      "60gtts/min",
+      "80gtts/min"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-030-5ccf",
+    "question": "陳先生因呼吸喘住院，評估末梢水腫(+++)，醫師醫囑給予Lasix 1amp Q12H，請問陳先生容易產生下列何種電解質不平衡狀況？",
+    "options": [
+      "高血鉀",
+      "低血鉀",
+      "高血鈣",
+      "低血鈣"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-030-8b2f",
+    "question": "王先生跌落導致右手臂多處挫傷、腫脹、未有骨折，護理人員以彈性繃帶進行包紮，有關包紮之注意事項，下列敘述何者正確？",
+    "options": [
+      "彈性繃帶包紮完後的60分鐘應執行第一次的評估，之後每2～4小時評估一次",
+      "固定肢體功能，包紮完畢時需在關節處結帶",
+      "包紮時應自肢體近心端往遠心端包紮",
+      "使用彈性繃帶包紮，應隨時觀察末梢肢體之外觀顏色、溫度、感覺等"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-031-e823",
+    "question": "每半年護理長發問卷給病人填寫滿意度，以了解單位護理照護品質，依據Gillies的護理管理\n過程理論，護理長的行為屬於？",
+    "options": [
+      "轉入",
+      "轉化過程",
+      "規劃",
+      "輸出"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-031-eccf",
+    "question": "收集動脈氣體分析檢體之注意事項，不包括？",
+    "options": [
+      "檢體應放置含有冰塊的冰水浴容器",
+      "針頭內需有Heparin成分",
+      "針頭內不得含有空氣",
+      "使用氣送子送檢"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-032-8fac",
+    "question": "小花是新進人員，做事情毫無條理，護理長跟他會談，了解他的困難點，鼓勵他先把事情想一\n遍再開始做。請問護理長是使用何種管理理論？",
+    "options": [
+      "X理論",
+      "Y理論",
+      "Z理論",
+      "權變理論"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-033-f1c6",
+    "question": "年度計劃中，護理長書寫「為提升本單位護理品質，要培養2位N2護理師完成護理專業能力\n進階至N3。」請問以上工作目標敘述，包含5W中的哪幾項？",
+    "options": [
+      "Who, What, Where, Why",
+      "Who, What, When,Where",
+      "Who, What, When, Why",
+      "Who, What, When, How"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-034-a961",
+    "question": "「為了提升護理形象，我們將於YouTube、Facebook 和 Instagram 上執行廣告活動。」請問此\n分析是屬於SWOT分析中的哪一項？",
+    "options": [
+      "S",
+      "W",
+      "O",
+      "T"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-035-20b9",
+    "question": "護理長發現單位近日泌尿道感染人數增加，利用決策工具，將問題有關的因素，依層次依序畫出來，得知各種決策情況的可能性和發生機會，以協助最佳方案的選擇。請問此決策工具是什麼？",
+    "options": [
+      "機率法",
+      "模擬法",
+      "決策樹",
+      "決策矩陣分析"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-036-e172",
+    "question": "單位內已婚的學姊為了能上白班，積極結交能代為上夜班的同事，形成一種交互關係，請問此種現象會形成何種組織？",
+    "options": [
+      "非正式組織",
+      "分權組織",
+      "集權組織",
+      "功能性組織"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-037-ccf5",
+    "question": "下列有關工作評值的方法中，何者有誤？",
+    "options": [
+      "因素分析是量性分析之一",
+      "工作分級法是質性分析之一",
+      "數點法是量性分析之一",
+      "工作分類法是量性分析之一"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-038-4388",
+    "question": "護理主任提供新上任督導長的工作摘要，此摘要說明該職務的工作關係、任務及職責，此稱之為：",
+    "options": [
+      "工作說明書",
+      "工作分析書",
+      "工作分類書",
+      "工作評值書"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-039-d48f",
+    "question": "請依下表資料，哪個病房的年實際工作日最多？",
+    "options": [
+      "A病房",
+      "B病房",
+      "C病房",
+      "D病房"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-040-ac81",
+    "question": "依現行勞動基準法第12條第一項第六款規定，勞工無正當理由繼續礦工三日，或一個月內礦工達幾日時，雇主得不經預告終止契約？",
+    "options": [
+      "四日",
+      "五日",
+      "六日",
+      "七日"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-041-84bc",
+    "question": "為改善國內護理人力資源短缺問題，醫院透過教育訓練提升核心人力專業之能，給予合適職位及較優的薪資待遇，以維持穩定的長期聘僱關係，此為何種彈性型態？",
+    "options": [
+      "職能彈性",
+      "區隔彈性",
+      "時間彈性",
+      "領導彈性"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-042-7abb",
+    "question": "護理長發現小華護理師靜脈注射技術特別好，且樂於助人，但護理紀錄和交班偶會遺漏，年終考績仍給甲等。此種現象屬於績效考核的哪種效應？",
+    "options": [
+      "向日葵效應",
+      "月暈效應",
+      "霍桑效應",
+      "觸角效應"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-043-68d7",
+    "question": "李護理師從事臨床工作1年，能力雖然不足，但願意負起責任，此時護理長可運用赫爾賽\n(Hersey)的領導生活週期理論的何種領導方式？",
+    "options": [
+      "低任務低關係",
+      "高任務低關係",
+      "低任務高關係",
+      "高任務高關係"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-044-1e20",
+    "question": "護理長不在時，授權給資深護理師代理其職務，但本病房內有副護理長上班，此種行為違反哪一個授權原則？",
+    "options": [
+      "工作範圍原則",
+      "統一指揮原則",
+      "職權與職責相當原則",
+      "絕對性職責原則"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-045-73e3",
+    "question": "下列何種敘述，不符合柏拉圖80/20原理？",
+    "options": [
+      "80%的銷售額來自20%的顧客，只要掌握20%的顧客口味，即可獲得80%的營業額",
+      "將時間花在20%重要的少數問題，可取得80%的成效",
+      "解決80%主要的問題原因，即可解決該問題",
+      "用80%的工作時間完成20%的工作項目"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-046-d0e1",
+    "question": "關於「病人分類系統」的建置，下列敘述何者不正確？",
+    "options": [
+      "以病人的診斷來估算所需的護理人員數",
+      "可預測病人所需的護理時數",
+      "透過適當的排班來滿足各類病人的照護需求",
+      "可建立病人疾病過程模式，建立照護標準"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-047-27c4",
+    "question": "下列有關醫療團隊資源管理(Team Resource Management, TRM)的敘述，何者不正確？",
+    "options": [
+      "利用\"I'M SAFE\"自主管理模式關懷團隊成員身心狀態",
+      "當團隊成員訊息不一致，有衝突時，可運用call out尋求協助",
+      "手術之前進行\"Time Out\"以確保手術病人安全",
+      "醫護人員利用簡潔的ISBAR進行交班，以達到有效溝通"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-048-3315",
+    "question": "有關品質管理的敘述，何者正確？",
+    "options": [
+      "被世人公認的品管圈之父是戴明",
+      "為降低某病房多重抗藥性微生物的發生率，可利用稽核表監測工作人員的正確洗手",
+      "某病房病人泌尿道感染率連續三季超過閾值，護理長以矩陣法了解問題之因果關係",
+      "柏拉圖原理的品質管理方法，是以查核表方式刪除極端的案例"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-049-1732",
+    "question": "在職業安全的規範裡，下列敘述何者正確？",
+    "options": [
+      "為預防醫療人員職業災害，依勞工健康保護規則，應提供員工每年一次健康檢查",
+      "員工在上下班時間必經途中發生交通事故，不屬於職業災害",
+      "為預防護理人員肌肉骨骼傷害，醫院應設計多樣化的肌肉骨骼傷害之防範教學計畫",
+      "病人進行化療結束後，須將點滴輸液套內的殘存化療藥物排出，再丟入感染性垃圾袋內"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-112-050-065c",
+    "question": "有關傳染病防治法，下列敘述何者錯誤？",
+    "options": [
+      "違反傳染病防治法，未詳實申報傳染病書表者，處新台幣一萬元以上十五萬元以下罰鍰",
+      "第四類傳染病依疾病名稱，最晚可於1個月內完成通報",
+      "嚴重急性呼吸道症候群(SARS)屬第一類傳染病，需24小時內完成通報",
+      "登革熱屬於第三類傳染病，需24小時內完成通報"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-001-2372",
+    "question": "護理師評估病人所收集的資料，下列何者為症狀（symptom）？",
+    "options": [
+      "測量體溫：39.7 度",
+      "壓傷傷口紅、有異味",
+      "聽診 1 分鐘腸蠕動為 12 次",
+      "檢查血色素為 8.7 g/d"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-002-9bd2",
+    "question": "有關感染控制措施，下列敘述何者錯誤？",
+    "options": [
+      "絕對嗜中性白血球 500 個/mm3以下的病人，應採保護性隔離",
+      "疥瘡的病人，應採接觸性隔離",
+      "德國麻疹的病人，應採飛沫隔離",
+      "水痘感染的病人，應採接觸性隔離但無須單獨房間"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-003-7e5f",
+    "question": "醫囑：Unasyn 750 mg I.V.D q.6.h，現有 Unasyn 2 gm/vial 粉劑，以無菌蒸餾水稀釋粉\n劑成總量 4 c.c.後，應抽出多少 c.c. 才符合此次注射劑量？",
+    "options": [
+      "1 c.c.",
+      "1.25 c.c.",
+      "1.5 c.c.",
+      "2 c.c."
+    ],
+    "answer": 2,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-004-db75",
+    "question": "下列何項屬於治療性溝通技巧？ ①反映（Reflecting） ②重述（Restating） ③猜測\n（Questioning）④批判（Criticize）",
+    "options": [
+      "①②",
+      "①④",
+      "②③",
+      "③④"
     ],
     "answer": 0,
-    "explanation": "給藥五對（Five Rights）包括：對病人（Right Patient）、對藥名（Right Drug）、對劑量（Right Dose）、對時間（Right Time）、對途徑（Right Route）。這是確保給藥安全的基本原則。",
+    "explanation": "",
     "category": "基本護理學",
-    "subcategory": "給藥",
+    "subcategory": "",
     "difficulty": 1,
-    "tags": [
-      "給藥原則",
-      "三讀五對",
-      "用藥安全"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
   },
   {
-    "id": "NUR-BSN-003",
-    "question": "有關濕性傷口敷料的敘述，下列何者正確？",
+    "id": "BN-113-005-3a1c",
+    "question": "下列住院醫囑，何者是護理師於給藥前，必須提出質疑？",
     "options": [
-      "A. 適用於乾燥且無滲液的傷口",
-      "B. 可維持傷口濕潤環境，促進肉芽組織生長",
-      "C. 需每2小時更換一次以保持清潔",
-      "D. 主要目的是使傷口保持乾燥以防感染"
+      "Cefazolin (1,000 mg/vail) 1,000 mg q.d. I.V.",
+      "Acetaminophen 500mg/tab 1# P.O. p.r.n. for pain",
+      "15% KCl(10 mEq / 5 mL /Amp)20 mL q.d. I.V. drip",
+      "NTG(Nitroglycerin)0.6 mg/tab 1# S.L. St."
     ],
     "answer": 1,
-    "explanation": "濕性傷口癒合理論（Moist Wound Healing）認為，維持傷口適當的濕潤環境可促進細胞移行、肉芽組織生長及上皮化，加速傷口癒合。濕性敷料適用於有滲液的傷口，更換頻率依滲液量而定，非固定每2小時。",
+    "explanation": "",
     "category": "基本護理學",
-    "subcategory": "傷口護理",
+    "subcategory": "",
     "difficulty": 2,
-    "tags": [
-      "傷口護理",
-      "濕性敷料",
-      "傷口癒合"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
   },
   {
-    "id": "NUR-BSN-004",
-    "question": "成人體溫測量時，肛溫與口溫的正常差異約為多少？",
+    "id": "BN-113-006-61c5",
+    "question": "病歷正確記錄的原則，下列何者錯誤？①大便次數的記錄是指該天一整天所解出的次\n數 ②疼痛指數 的記錄以黑色實心圓記錄 ③輸出量包括大便、胸腔引流液量 ④灌腸\n後才解的大便次數以「1/E」 表示",
     "options": [
-      "A. 肛溫較口溫高約0.2°C",
-      "B. 肛溫較口溫高約0.5°C",
-      "C. 肛溫較口溫低約0.5°C",
-      "D. 肛溫與口溫無差異"
+      "①②",
+      "③④",
+      "①③",
+      "②④"
     ],
-    "answer": 1,
-    "explanation": "各部位體溫的正常差異：肛溫最高，其次為口溫，腋溫最低。一般而言，肛溫較口溫高約0.5°C（0.3~0.6°C），口溫較腋溫高約0.5°C。因此肛溫正常值約為37.5°C，口溫為37.0°C，腋溫為36.5°C。",
+    "answer": 0,
+    "explanation": "",
     "category": "基本護理學",
-    "subcategory": "生命徵象",
+    "subcategory": "",
     "difficulty": 1,
-    "tags": [
-      "體溫測量",
-      "生命徵象",
-      "肛溫",
-      "口溫"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
   },
   {
-    "id": "NUR-BSN-005",
-    "question": "進行皮下注射（Subcutaneous Injection）時，下列何者為正確的操作方式？",
+    "id": "BN-113-007-46f9",
+    "question": "當某病房出現火災時，以 R.A.C.E.原則處理，有關其口訣與意義的敘述，下列何者錯誤？",
     "options": [
-      "A. 以90度角進針，注射於真皮與表皮之間",
-      "B. 以45~90度角進針，注射於皮下組織",
-      "C. 以15度角進針，注射於肌肉層",
-      "D. 以30度角進針，注射後需回抽確認"
+      "R：將病人移出火源區",
+      "A：啟動警報裝置及通報",
+      "C：關上房門，侷限火煙於一處",
+      "E：立即撤離著火房間再進行初期滅火"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-008-b2b0",
+    "question": "有關執行導尿技術時，下列何者違反無菌原則？",
+    "options": [
+      "注意導尿包滅菌的有效日期",
+      "導尿管置於無菌區域邊緣 1 吋以內",
+      "消毒會陰後的棉棒應放置於無菌區外的垃圾袋",
+      "消毒會陰部後，可於無菌區執行抽取無菌蒸餾水的動作"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-009-5a97",
+    "question": "護理師依照醫囑給予病人 Inteban 1# Supp. St.退燒時，下列敘述何者正確？",
+    "options": [
+      "配合乙狀結腸及降結腸的解剖位置，故協助採右側臥位",
+      "請病人深呼吸閉氣，將藥物塞入肛門內約 2 公分",
+      "當發現腸道有糞團時，應避開糞團或小量灌腸將糞便清除，以免影響藥物吸收",
+      "當病人主訴頭痛、冒冷汗時，請病人忍耐並取衛生紙壓住肛門口，以促進藥物吸收"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-011-a1ee",
+    "question": "有關給藥醫囑常見縮寫名詞的解釋，下列何者正確？①q.i.d.與q.4.h.的給藥時間相同 ②q.o.d.是指「每隔一天」 ③M.N. 是指「睡前」 ④O.D. 是指「右眼」 ⑤S.O.S.是指 12 小時內「如有需要給予一次」",
+    "options": [
+      "①②④",
+      "①③⑤",
+      "②④⑤",
+      "③④⑤"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-012-b97d",
+    "question": "依衛生福利部疾病管制署公告資料，關於藥物的管理及保存，下列何者錯誤？",
+    "options": [
+      "Pethidine(Demerol)針劑應置於上鎖的櫃中",
+      "未開封的胰島素，可置於室溫中保存",
+      "稀釋後之 Penicillin G 置於 2～8℃藥物冰箱",
+      "流感疫苗置於 2～8℃專用冰箱"
     ],
     "answer": 1,
-    "explanation": "皮下注射是將藥物注入皮下脂肪組織中。進針角度為45~90度（依病人皮下脂肪厚度而定，皮下脂肪薄者用45度，較厚者可用90度）。注射部位常選擇上臂外側、腹部、大腿前外側等處。目前實證建議注射胰島素等皮下注射藥物不需回抽。",
+    "explanation": "",
     "category": "基本護理學",
-    "subcategory": "給藥",
-    "difficulty": 2,
-    "tags": [
-      "皮下注射",
-      "注射技術",
-      "給藥途徑"
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-014-849c",
+    "question": "病人同時有下列護理問題，何者須優先處理？",
+    "options": [
+      "無效性呼吸型態",
+      "睡眠型態紊亂",
+      "便秘",
+      "身體心像紊亂"
     ],
-    "source": "模擬題",
-    "version": "1.0"
+    "answer": 0,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-015-6c14",
+    "question": "有關護理評值的敘述，下列何者錯誤？",
+    "options": [
+      "在查看擬定之成果目標是否已達成",
+      "評估護理活動執行後，病人的行為反應",
+      "護理師需依護理評值結果修訂護理診斷",
+      "是護理過程的最後一個步驟"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-018-d0c8",
+    "question": "陳奶奶，82歲，最近記憶力、活動力降低、易怒、日夜顛倒，有輕度失智症病史。此             次因發燒和呼吸急促，體溫:38.9OC、心跳82次/分鐘、呼吸 35次／分鐘和血壓值150         ／90mmHg，此時，為解決最重要的護理問題，護理師應立即收集下列那些資料?\n詢問100-7是多少 ②聽診腹部腸音 ③聽診呼吸音 ④評估血氧濃度 ⑤四肢肌力評           \n估 ⑥追蹤全套血液檢查結(Complete blood count)",
+    "options": [
+      "②③④",
+      "①③⑥",
+      "②④⑤",
+      "③④⑥"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-020-c3f9",
+    "question": "有關醫療廢棄物處理之敘述，下列何者最正確？",
+    "options": [
+      "大量點滴的外包裝塑膠袋應丟置於黃色塑膠袋",
+      "剪刀等尖銳物品應丟置於白色塑膠袋",
+      "抽血後的10CC針頭和針筒應丟置於針頭處理盒",
+      "沾有體液的紗布應丟置於紅色塑膠袋"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-021-133d",
+    "question": "病人身高165公分，體重42.5公斤，其BMI值下列何者正確？",
+    "options": [
+      "18.76",
+      "15.61",
+      "20.61",
+      "25.76"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-022-f564",
+    "question": "有關病人權力之敘述，下列何者錯誤？",
+    "options": [
+      "協助一位八十歲以上的男性街友身體清潔",
+      "尊重並接受病人拒絕手術治療的決定",
+      "病人要求知道照顧他的護理人員姓名",
+      "提供親戚閱讀並索取病人的病歷資料"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-025-2268",
+    "question": "依照衛生福利部公告之腦死判定準則，下列何者屬於腦死的認定標準？①低體溫昏迷 ②無腦幹反射 ③須經一次腦幹功能測試 ④無自行呼吸",
+    "options": [
+      "①②",
+      "①③",
+      "②④",
+      "③④"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-026-d70e",
+    "question": "根據死亡後的遺體生理變化，有關遺體之擺位，下列敘述何者正確？①採側臥以利口腔分泌物流出 ②採仰臥維持遺容 ③頭下放置枕頭 ④將手腳以繃帶纏繞固定",
+    "options": [
+      "①③",
+      "①④",
+      "②③",
+      "②④"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-030-7331",
+    "question": "某醫院於2021年疑似醫療作業疏失，致使民眾施打「未經稀釋的(BNT)疫苗原液」，此為第一天社區接種站事件。BNT疫苗施打前須經稀釋，因有前置作業，故由衛生局提供BNT疫苗操作影片作為行前教育。注射當天現場工作人員中午清點時發現疫苗數量異常，經詢問當班藥師與護理師後發現有25瓶散裝疫苗，因瓶蓋掉落，被誤以為是已稀釋完成的疫苗，未經再次確認即已施打於民眾。而注射原液的民眾所接受的注射劑量為標準值5倍。有關此給藥錯誤事件之敘述，下列何者正確？①護理師未能確實執行三讀五對中的「藥物對」②護理人員行前教育訓練不足 ③第一天操作對不熟悉疫苗管理與作業流程準備不足 ④護理師是疫苗施打者，應為這一波醫療錯誤懲處對象 ⑤藥師是藥物準備者，應為這一波醫療錯誤懲處對象給藥錯誤發生後醫院應主動聯絡民眾安排預防性住院。",
+    "options": [
+      "①②",
+      "③④⑤",
+      "①④",
+      "②③⑤"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 3,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-031-d484",
+    "question": "王先生因為車禍，導致左手與左腳骨折，目前皆打上石膏，右小腿以及腳踝有外傷，\n所以目前使用彈性繃帶包紮。在協助床上沐浴更衣時，下列何者較適當？",
+    "options": [
+      "先脫右側衣袖，先穿左側衣袖",
+      "先脫左側衣袖，先穿左側衣袖",
+      "先脫右側衣袖，先穿右側衣袖",
+      "先脫左側衣袖，先穿右側衣袖"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-036-fd88",
+    "question": "有關「精實」應用於醫療專業的敘述，下列何者正確？",
+    "options": [
+      "改造結構創造價值",
+      "增加步驟改善流程",
+      "精簡人力降低成本",
+      "以病人需求為核心"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-037-5081",
+    "question": "護理長在年度預算中編列電動床維修費用，屬於下列何種預算？",
+    "options": [
+      "績效預算",
+      "固定預算",
+      "日落預算",
+      "零基預算"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-038-266a",
+    "question": "有關柏拉圖（Pareto）的 80/20 法則，下列敘述何者正確？",
+    "options": [
+      "把握關鍵多數，就可獲得重要少數",
+      "投入的時間越多，獲得的成果越大",
+      "日常事務中，緊急且重要只占少數",
+      "掌握 80%時間，能解決 20%的問題"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-039-111d",
+    "question": "護理部主任重視護理作業標準化及適當分工，以使護理師的服務量增加及品質提升，是應用下列何種管理理論？",
+    "options": [
+      "行為科學學派",
+      "管理程序學派",
+      "層次結構模式理論",
+      "科學管理理論"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-040-cee1",
+    "question": "甲病房 50 床，占床率 75%，護理師有 20 人，每人 1 年可休假 14 天、公假 10 天參加教育訓練、國定例假日 122 天，請問甲病房每位病人每天平均可獲得多少護理時數？",
+    "options": [
+      "2.56 小時",
+      "2.35 小時",
+      "2.04小時",
+      "1.96 小時"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-041-09d0",
+    "question": "某護理長負責護理部的品質管理作業，同時負責醫品部的根本原因分析專案業務，此為下列何種組織型態？",
+    "options": [
+      "直線型組織",
+      "扁平式組織",
+      "幕僚型組織",
+      "矩陣式組織"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-042-4dff",
+    "question": "下列那一項疾病不是藉由空氣傳染？",
+    "options": [
+      "腦膜炎",
+      "肺結核",
+      "水痘",
+      "流行性感冒"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-043-5bc3",
+    "question": "有關技術混合照護模式，下列敘述何者最適當？",
+    "options": [
+      "醫師和護理師合作的團隊照護模式",
+      "由不同進階層級護理師合作搭配上班",
+      "護理師和護理佐理員合作提供照護",
+      "由護理師分別提供不同技術之照護模式"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-044-46d9",
+    "question": "某護理長認為護理人員天性喜歡工作、願意學習且具有潛力，故使用激勵方式引導護理人員發揮才能。請問是採用下列那一種管理理論？",
+    "options": [
+      "麥克葛雷格（Douglas McGregor）的 X 理論",
+      "麥克葛雷格（Douglas McGregor）的 Y 理論",
+      "大內（William Ouchi）的 Z 理論",
+      "費堯（Henri Fayol）的管理程序理論"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-045-c50d",
+    "question": "病人因水腫氣喘至急診求助，經檢傷分類後至內科急診區域等候。護理師幫該病人抽\n血後，等候 50 分鐘才取得抽血報告。家屬因不耐久候、情緒失控，大吵大鬧。約 \n10 分鐘後醫師來看病人並解說病情。家屬抱怨等了 2 個小時，非常生氣，不聽醫療\n人員的說明。醫師見狀「冷處理」，家屬情緒更加激動。根據上述情境，醫師為了等\n待抽血結果才能進行後續醫療處置，但病人家屬是希望醫師趕快緩解病人氣喘及水腫\n的問題。依據 Daft & Marcic（2001）之分類，此為下列何種原因所產生的衝突？",
+    "options": [
+      "急診人力不足",
+      "雙方個性價值觀不同",
+      "雙方目標不一致",
+      "雙方權力與地位不同"
+    ],
+    "answer": 2,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-046-bdc8",
+    "question": "承上題，醫師看到家屬正在氣頭上，於是以「冷處理」應對，並希望收集更多資料後再做進一步反應。依據 Thomas（1976）的衝突處理行為，醫師的應對是屬於下列何種行為？",
+    "options": [
+      "逃避",
+      "順從",
+      "競爭",
+      "妥協"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-047-0bc6",
+    "question": "有關平衡計分卡的敘述，下列何者錯誤？",
+    "options": [
+      "績效評核指標之管理工具",
+      "包含品質構面、顧客構面、內部流程、學習與成長等 4 項構面",
+      "以機構願景與策略訂定可衡量指標",
+      "可作為與員工間溝通的工具"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-048-ecb6",
+    "question": "規劃改善活動時擬定之計畫目標，依據評值的標準，下列何者是屬於效果（效能）目標？",
+    "options": [
+      "病人壓瘡發生率降低至閾值 0.005%",
+      "契約人員聘用經費使用執行率 75%",
+      "新進人員在職教育系統建置落後率 26%",
+      "新進人員三個月內完成職前教育率 50%"
+    ],
+    "answer": 0,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-049-3981",
+    "question": "根據 Donabedian（1966）醫療服務品質保證的概念架構，下列何者是「結構」層面的考核？①護理師的資格與素養 ②住院病人的泌尿道感染率 ③護理師的人力配置 ④護理技術執行的正確性",
+    "options": [
+      "①②",
+      "①③",
+      "②③",
+      "③④"
+    ],
+    "answer": 1,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BN-113-050-90a6",
+    "question": "年底時，護理師知道護理長正在進行年度考績評核，此時期刻意表現優於平常，這是屬於下列何者？",
+    "options": [
+      "光圈效應",
+      "向日葵效應",
+      "中央偏誤",
+      "霍桑效應"
+    ],
+    "answer": 3,
+    "explanation": "",
+    "category": "基本護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
   }
 ]
