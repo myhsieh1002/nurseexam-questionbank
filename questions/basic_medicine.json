@@ -1,0 +1,3170 @@
+[
+  {
+    "id": "BM-110-001-56c2",
+    "question": "在凝血反應(hemostasis)中，活化第十三凝血因子(clotting factor XIII)的化學物質為？",
+    "options": [
+      "凝血酶(thrombin)",
+      "第九凝血因子",
+      "第十凝血因子",
+      "第十一凝血因子"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-001-6f51",
+    "question": "下列何種疾病表現的水腫與血液滲透壓（osmotic pressure）下降的關聯性最低？",
+    "options": [
+      "慢性廣泛性肝病（chronic diffuse liver disease）",
+      "蛋白質性營養不良（protein malnutrition）",
+      "右心衰竭（right heart failure）",
+      "腎病症候群（nephrotic syndrome）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-002-5511",
+    "question": "有一人測得其收縮壓為130 mmHg，舒張壓為90 mmHg，則其平均動脈壓(MAP)約為\n_____mmHg？",
+    "options": [
+      "87",
+      "110",
+      "103",
+      "143"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-002-7f0d",
+    "question": "台灣常見的細菌性食物中毒中，汙染源存在於海鮮貝類者為？",
+    "options": [
+      "金黃色葡萄球菌",
+      "大腸桿菌",
+      "臘腸桿菌",
+      "腸炎弧菌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-003-40fd",
+    "question": "下列何者是cardiac cycle中，心室充血(ventricular filling)時期左側心臟的壓力變化排列\n(由高到低) ？",
+    "options": [
+      "左心室>主動脈>左心房",
+      "主動脈>左心房>左心室",
+      "左心房>主動脈>左心室",
+      "主動脈>左心室>左心房"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-003-6add",
+    "question": "臺灣每年夏天常有登革熱的區域流行，對於登革熱病毒（dengue virus）的特性，下列\n敘述何者錯誤？",
+    "options": [
+      "屬於小RNA病毒（picornavirus）",
+      "是一具套膜，單股（single stranded）RNA病毒",
+      "斑蚊為主要傳染媒介",
+      "患者會有發燒、發冷、頭痛、背痛等類似感冒之症狀"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-004-4f50",
+    "question": "一位接受骨髓移植的病患，在術後數週後，皮膚出現皮疹，此皮膚症狀與下列何者最\n為相關？",
+    "options": [
+      "皮膚上皮發生嗜酸性細胞媒介損傷",
+      "皮膚上皮發生肥胖細胞媒介損傷",
+      "皮膚上皮發生T細胞媒介損傷",
+      "皮膚上皮發生B細胞媒介損傷"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-004-e0fc",
+    "question": "正常女性嗜中性顆粒球(neutrophils)占所有白血球比例約？",
+    "options": [
+      "50-70%",
+      "20-40%",
+      "0.1-0.3%",
+      "1-4%"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-005-a6c7",
+    "question": "在皮膚修復過程中，進行機化（organization）時，可見下列何者大量增生？",
+    "options": [
+      "軟骨",
+      "微血管",
+      "骨小梁",
+      "橫紋肌肉束"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-005-b03c",
+    "question": "在innate immunity中，何者兼具專業的吞噬病菌及抗原呈現的能力？",
+    "options": [
+      "neutrophil",
+      "monocyte",
+      "dendritic cell",
+      "natural killer cell"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-006-6ed9",
+    "question": "下列何者是惡性軟組織腫瘤？",
+    "options": [
+      "纖維瘤（fibroma）",
+      "脂肪瘤（lipoma）",
+      "胚胎型橫紋肌肉瘤（embryonal rhabdomyosarcoma）",
+      "不典型平滑肌瘤（atypical leiomyoma）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-006-b6c0",
+    "question": "下列何種傳染病最有可能侵犯主動脈之血管滋養管（vasa vasorum）導致動脈瘤之產\n生？",
+    "options": [
+      "梅毒",
+      "結核",
+      "麻風",
+      "白喉"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-007-5a7a",
+    "question": "下列何種殺菌機制只發生在嗜中性球，巨噬細胞無此機制？",
+    "options": [
+      "酸化環境",
+      "有毒的氧的衍生物",
+      "defensing",
+      "nitric oxide"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-007-dba4",
+    "question": "胃腸道之原位癌（carcinoma in situ）是表示癌細胞尚未穿過下列何者？",
+    "options": [
+      "基膜（basement membrane）",
+      "漿膜層（serosa）",
+      "肌肉層（muscularis propria）",
+      "黏膜下層（submucosa）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-008-7837",
+    "question": "Trazodone除具有抑制血清素回收的作用，並可以有拮抗5-HT2受體的功能，故臨床上除了治療憂鬱症外，尚具有何種功效？",
+    "options": [
+      "降低血壓",
+      "促使釋乳激素（prolactin）的釋放",
+      "降低焦慮與鎮靜作用",
+      "減緩胃腸蠕動"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-008-786e",
+    "question": "腫瘤可以很多形式逃離免疫的追捕，下列何者為非？",
+    "options": [
+      "腫瘤細胞MHC class I的表現量不佳",
+      "腫瘤細胞被APC吞噬，分解後失去抗原性",
+      "腫瘤細胞會釋放TNF- α直接抑制T cell",
+      "腫瘤細胞會分泌collagen形成防護牆"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-009-7ede",
+    "question": "三環抗憂鬱藥（tricyclic antidepressants）常見之副作用，如視力模糊、口乾、便祕等，主要是因為阻斷何種受體（receptor）所致？",
+    "options": [
+      "alpha-交感神經受體",
+      "beta-交感神經受體",
+      "毒蕈鹼受體（muscarinic receptor）",
+      "菸鹼受體（nicotinic receptor）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-009-8df7",
+    "question": "下列何者主要參與寄生蟲感染時的毒殺反應？",
+    "options": [
+      "自然殺手細胞",
+      "嗜中性球",
+      "嗜酸性球",
+      "嗜鹼性球"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-010-a2af",
+    "question": "使用典型（typical）抗精神病藥物chlorpromazine，容易發生致死性血液方面的副作用為何？",
+    "options": [
+      "血小板數量急遽減少",
+      "造血功能受到抑制",
+      "顆粒性白血球數目減少",
+      "淋巴球數目增加"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-010-d8a3",
+    "question": "關於恙蟲病，何者有誤？",
+    "options": [
+      "盛行於亞洲及大洋洲節過後病例數開始增加",
+      "台灣地區多於中秋",
+      "mite為其致病原的reservoir and vector",
+      "在台灣約有50-80%患者可在叮咬處發現潰瘍性焦痂"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-011-0079",
+    "question": "若某人血漿鈉離子濃度與血漿滲透濃度都下降，但尿液滲透濃度卻上升，可能是下列何者所導致？",
+    "options": [
+      "脫水",
+      "水中毒",
+      "糖尿病",
+      "抗利尿激素(ADH)分泌過多"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-011-49e1",
+    "question": "下列何種藥物會顯著的提升血液中抗凝血因子Ⅲ（antithrombin Ⅲ）的抗凝血活性？",
+    "options": [
+      "ticlopidine",
+      "warfarin",
+      "heparin",
+      "aminocaproic acid"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-012-5cdc",
+    "question": "下列何者是人體微動脈(arterioles)的主要神經支配？",
+    "options": [
+      "副交感神經",
+      "交感神經",
+      "體神經",
+      "腦神經"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-012-7166",
+    "question": "幽門螺旋桿菌在胃內菌落化（colonization）的決定因子為何？",
+    "options": [
+      "馬尿酸水解酶",
+      "尿素酶",
+      "氧化酶",
+      "觸酶"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-013-5b69",
+    "question": "一位58歲的女性出現雷諾氏現象（Raynaud's phenomenon）及食道運動功能障礙，血\n清學檢查抗核抗體試驗呈陽性反應，此婦人最有可能罹患下列何種病？",
+    "options": [
+      "系統性紅斑性狼瘡（SLE）",
+      "斯耶格雷症候群",
+      "格雷夫氏症（Graves disease）",
+      "局限性硬皮病（limited systemic sclerosis）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-013-bc7b",
+    "question": "下列對於胰臟消化酵素的敘述，何者正確？",
+    "options": [
+      "主要由胰臟管道細胞製造",
+      "可以將各種雙醣分解成單醣",
+      "僅參與蛋白質和醣類的消化",
+      "胰蛋白酶由小腸刷狀緣酵素活化"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-014-b2cd",
+    "question": "下列何者非補體系統的功能？",
+    "options": [
+      "毒殺病毒",
+      "活化免疫細胞",
+      "促進清除免疫複合體",
+      "標定細菌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-014-cbaf",
+    "question": "下列刺激胃腸蠕動的藥物中，何者的作用機轉為拮抗多巴胺D2受體？",
+    "options": [
+      "bethanechol",
+      "neostigmine",
+      "erythromycin",
+      "domperidone"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-015-5785",
+    "question": "下列何種狀況與紅色梗塞關聯性最小？",
+    "options": [
+      "卵巢扭轉導致靜脈阻塞",
+      "肺臟出血性梗塞",
+      "血液重新流入先前發生阻塞和壞死的組織",
+      "脾臟發生缺血性凝固性壞死"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-015-99bd",
+    "question": "關於黴漿菌的敘述，下列何者錯誤？",
+    "options": [
+      "菌落呈荷包蛋狀",
+      "可人工培養",
+      "不具細胞壁",
+      "主要在冬季造成呼吸道感染"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-016-264a",
+    "question": "下列何者為治療鴉片類藥物成癮的取代性藥物？",
+    "options": [
+      "Naloxone",
+      "Fentanyl",
+      "Codeine",
+      "Methadone"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-016-8873",
+    "question": "Clopidogrel透過下列何種機轉來降低血小板活性？",
+    "options": [
+      "阻斷血小板表面的凝血酶（thrombin）受體",
+      "阻斷血小板表面的ADP受體",
+      "阻斷血小板表面的Ⅱb/Ⅲa醣蛋白複合體（GPⅡb/Ⅲa）",
+      "阻斷血小板表面的膠原蛋白（collagen）受體"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-017-110a",
+    "question": "下列何種支氣管擴張劑，其作用機轉為抑制細胞內之磷酸二酯酶（PDE），使cAMP增加？",
+    "options": [
+      "cromolyn sodium",
+      "theophylline",
+      "salbutamol",
+      "ipratropium"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-017-e045",
+    "question": "有關Chlamydia trachomatis砂眼披衣菌,何者有誤？",
+    "options": [
+      "細胞壁不具有胜肽聚醣層peptidoglycan layer",
+      "主要感染上皮細胞",
+      "在淋巴結形成肉芽腫",
+      "在美國較常見的是眼睛的感染"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-018-026a",
+    "question": "食糜由胃進入小腸時，小腸產生的主要運動方式為何？",
+    "options": [
+      "團塊運動（mass movement）",
+      "腸袋攪動（haustral churning）",
+      "分節運動（segmentation movement）",
+      "排空掃蕩運動（migrating myoelectrical complex）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-018-ae2b",
+    "question": "心電圖中的P波代表？",
+    "options": [
+      "心房去極化",
+      "心房再極化",
+      "心室去極化",
+      "心室再極化"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-019-3d14",
+    "question": "下列何種擬交感神經作用劑（sympathomimetics）具散瞳的作用，可以用於眼底檢查？",
+    "options": [
+      "Phenylephrine",
+      "Clonidine",
+      "Albuterol",
+      "Fenoldopam"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-019-f454",
+    "question": "下列有關骨骼肌、心肌與平滑肌的敘述，何者正確？",
+    "options": [
+      "三種肌纖維均為單核細胞",
+      "平滑肌細胞的肌漿網（sarcoplasmic reticulum）最發達",
+      "骨骼肌細胞具有橫小管（transverse tubule）構造",
+      "心肌細胞收縮所需的鈣離子全部來自細胞外液"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-020-0f20",
+    "question": "下列抗血小板凝集藥物中，何者之作用機制為抑制磷酸雙酯酶（phosphodiesterase）？",
+    "options": [
+      "aspirin",
+      "ticlopidine",
+      "clopidogrel",
+      "dipyridamole"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-020-8002",
+    "question": "下列何者為治療甲狀腺風暴（thyroid storm）之首選藥物？",
+    "options": [
+      "Prazosin",
+      "Prostaglandin",
+      "Ritodrine",
+      "Propranolol"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-021-0f66",
+    "question": "性聯無伽瑪球蛋白血症（X-linked agammaglobulinemia）發病的主要原因，下列何者正確？",
+    "options": [
+      "前趨B細胞（pre-B cell）不能分化成B細胞",
+      "胸腺發育不良（thymic hypoplasia）",
+      "腺嘌呤去胺酶（adenine deaminase; ADA）基因突變",
+      "第二級MHC（主要組織相容性抗原複合體）分子缺乏"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-021-27e6",
+    "question": "在骨骼肌的興奮－收縮聯結（excitation-contraction coupling）機轉當中，可引發橫小管\n（T小管）去極化的步驟為何？",
+    "options": [
+      "肌動蛋白（actin）與肌凝蛋白（myosin）接合",
+      "鈣離子與旋轉素C（troponin C）結合",
+      "肌漿網鈣離子通道打開",
+      "細胞膜產生動作電位"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-022-6241",
+    "question": "下列有關新型抗凝血藥物argatroban的敘述，何者正確？",
+    "options": [
+      "經由注射方式給藥",
+      "主要抑制第十凝血因子",
+      "血漿中必須有antithrombin III存在才有抗凝血活性",
+      "不經肝臟代謝直接由腎臟排除"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-022-9169",
+    "question": "主要產生紅血球生成素(erythropoietin)的器官為？",
+    "options": [
+      "肝臟",
+      "心臟",
+      "肺臟",
+      "腎臟"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-023-4f60",
+    "question": "隱睪症（cryptorchidism）可能會造成不孕的原因為何？",
+    "options": [
+      "腹腔內溫度較高，使得精子的發育受到影響",
+      "腹腔內溫度較高，使得精囊不能合成足夠的精液",
+      "前列腺過度肥大，使得精液的分泌過多",
+      "尿道球腺發育不良，使得精液的分泌過少"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-023-97f0",
+    "question": "下列哪一種藥物最適合用於預防及治療變異性心絞痛（variant angina）？",
+    "options": [
+      "Amyl nitrite",
+      "Atenolol",
+      "Nicardipine",
+      "Metoprolol"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-024-5791",
+    "question": "當大腸出現燒杯狀潰瘍時，最可能是下列何種微生物感染的特徵？",
+    "options": [
+      "念珠菌（Candida）",
+      "巨細胞病毒（Cytomegalovirus）",
+      "結核桿菌（Mycobacterium bacilli）",
+      "阿米巴原蟲（Entamoeba histolytica）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-024-9059",
+    "question": "出生後，骨骼肌（skeletal muscle）受損傷或死亡，下列哪一種細胞可進行修補？",
+    "options": [
+      "肌母細胞（myoblast）",
+      "纖維芽母細胞（fibroblast）",
+      "衛星細胞（satellite cell）",
+      "賽氏細胞（Sertoli cell）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-025-b4ee",
+    "question": "下列哪一種細胞不參與過敏性氣喘？",
+    "options": [
+      "TH2淋巴球（lymphocyte）",
+      "紅血球（red blood cell）",
+      "肥大細胞（mast cell）",
+      "嗜中性（neutrophil）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-025-ec27",
+    "question": "使心搏量(stroke volume)上升的原因，不包括下列何者？",
+    "options": [
+      "血液中腎上腺素(epinephrine)濃度上升",
+      "交感神經刺激上升",
+      "心肌收縮力增加",
+      "舒張末期體積(EDV)減少"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-026-7ab0",
+    "question": "下列何者酸鹼平衡出問題的病人，可能出現血中Pco2及[HCO3-]皆上升的情形？",
+    "options": [
+      "未代償的respiratory alkalosis",
+      "未代償的respiratory acidosis",
+      "已代償的metabolic acidosis",
+      "已代償的metabolic alkalosis"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-026-eef2",
+    "question": "下列何種肝炎病毒，主要經由飲食傳染？",
+    "options": [
+      "A型肝炎病毒",
+      "B型肝炎病毒",
+      "C型肝炎病毒",
+      "D型肝炎病毒"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-027-94ca",
+    "question": "下列關於利尿劑的敘述，何者錯誤？",
+    "options": [
+      "Acetazolamide 會產生代謝性酸中毒",
+      "Triamterene 會產生代謝性酸中毒",
+      "Spironolactone 會產生低血鉀現象",
+      "Furosemide 可能會產生低血鉀現象"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-027-b50d",
+    "question": "使用下列藥物，何者最不會造成胃腸潰瘍的傷害？",
+    "options": [
+      "Ibuprofen",
+      "Acetaminophen",
+      "Diclofenac",
+      "Aspirin"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-028-1c73",
+    "question": "狂牛病是何種病原感染所引起？",
+    "options": [
+      "普利子蛋白（prion）",
+      "病毒（virus）",
+      "原蟲（protozoa）",
+      "披衣菌（chlamydiae）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-028-4946",
+    "question": "下列鴉片類藥物，何者成癮性最低？",
+    "options": [
+      "Codeine",
+      "Morphine",
+      "Fentanyl",
+      "Pethidine"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-029-4f98",
+    "question": "每天服用一次低劑量的阿斯匹林（aspirin），可抑制體內何種物質的生合成，降低動脈血栓發生的機率？",
+    "options": [
+      "Prostaglandin",
+      "Thromboxane A2",
+      "Leukotrienes",
+      "Prostacyclin"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-029-e4e3",
+    "question": "下列何種疾病最不常以肉芽腫性發炎來呈現？",
+    "options": [
+      "結核病",
+      "麻風",
+      "類肉瘤病",
+      "B型肝炎"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-030-b139",
+    "question": "最常造成黴菌性腦膜炎的是？",
+    "options": [
+      "Penicillium citrinum",
+      "Candida albicans白色念珠菌",
+      "Cryptococcus neoformans新型隱球菌",
+      "Blastomyces dermatitidis皮炎芽生黴菌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-030-c723",
+    "question": "岡氏複合體（Ghon complex）是哪一類結核病的病理表現？",
+    "options": [
+      "原發性結核病",
+      "繼發性結核病",
+      "結核性腸炎",
+      "粟粒狀結核病"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-031-49f4",
+    "question": "下列急救用降血壓藥，何者的藥效作用持續時間最短？",
+    "options": [
+      "Labetalol",
+      "Nitroprusside",
+      "Nicardipine",
+      "Fenoldopam"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-032-3a87",
+    "question": "重症肌無力（myasthenia gravis）的主要病變是發生在何處？",
+    "options": [
+      "骨骼肌",
+      "運動神經元",
+      "大腦基底核處",
+      "神經肌肉接合"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-033-6fed",
+    "question": "斯耶格雷症候群（Sjogren syndrome）的病理學變化，下列何者在唾液腺有大量浸潤？",
+    "options": [
+      "嗜中性白血球",
+      "嗜酸性白血球",
+      "淋巴球",
+      "組織球"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-034-cce5",
+    "question": "下列有關抗高血壓藥物的敘述，何者錯誤？",
+    "options": [
+      "長期服用Minoxidil的副作用為多毛症",
+      "Captopril禁止用於孕婦降血壓",
+      "氣喘病人可以使用Propranolol來治療高血壓",
+      "可以使用Clonidine診斷嗜鉻性細胞瘤引起的高血壓"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-035-32e8",
+    "question": "有關misoprostol之敘述，下列何者錯誤？",
+    "options": [
+      "為人工合成的prostaglandin E1之同類物",
+      "臨床上常與mifepristone（RU-486）併用",
+      "直接作用於子宮肌肉",
+      "無法抑制胃酸的分泌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-036-823e",
+    "question": "下列有關梅毒（syphilis）之敘述，何者錯誤？",
+    "options": [
+      "梅毒為一性交傳染疾病",
+      "梅毒由梅毒螺旋菌感染形成，可分為三期",
+      "硬性下疳（chancre）為第二期梅毒出現之症狀，表現於外生殖器官上",
+      "第三期梅毒主要造成心臟血管及神經病變"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-037-7f2f",
+    "question": "一般懷孕過程中，下列何者可抑制催乳素（prolactin）的乳汁生成作用？",
+    "options": [
+      "催產素（oxytocin）",
+      "雌性素（estrogen）",
+      "促性腺激素釋放素（GnRH）",
+      "人類絨毛膜促性腺激素（hCG）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-038-a223",
+    "question": "婦女經期使用的衛生棉條不潔時，會引起毒性休克症候群，是下列何種細菌產生之毒\n素所引起的？",
+    "options": [
+      "腦膜炎雙球菌（Neisseriae meningitidis）",
+      "A族性鏈球菌（group A Streptococcus）",
+      "金黃色葡萄球菌(Staphylococcus aureus)",
+      "淋病雙球菌（Neisseriae gonorrhoeae）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-039-5af0",
+    "question": "下列何種激素的作用必須經由第二傳訊者（second messenger）才可以達成？",
+    "options": [
+      "醛固酮",
+      "睪固酮",
+      "甲狀腺素",
+      "腎上腺素"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-040-86a2",
+    "question": "鏈球菌感染後腎小球腎炎（post-streptococcal glomerulonephritis）是屬於哪一型過敏反\n應（hypersensitivity reaction）？",
+    "options": [
+      "第一型",
+      "第二型",
+      "第三型",
+      "第四型"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-041-6b75",
+    "question": "一位中年男性於月前發生腦梗塞後，醫師在後續電腦斷層掃描檢查時，在皮質部發\n現一個囊狀的區域，這個變化最可能造成原因是腦組織發生：",
+    "options": [
+      "凝固樣壞死",
+      "脂肪壞死",
+      "液化壞死",
+      "類纖維蛋白樣壞死"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-042-cc7d",
+    "question": "下列何種因素最可能延緩傷口的癒合？",
+    "options": [
+      "縫合傷口",
+      "維持傷口清潔",
+      "使用抗生素",
+      "使用類固醇藥物"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-043-8ec2",
+    "question": "下列血管病理變化何者最不容易造成血管內血栓形成（thrombosis）？",
+    "options": [
+      "肌肉層增生（hyperplasia）",
+      "動脈瘤（aneurysm）",
+      "粥狀動脈硬化（atherosclerosis）",
+      "血管炎（vasculitis）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-044-b04a",
+    "question": "下列何種變化最可能發生在凋亡（apoptosis）的細胞？",
+    "options": [
+      "脂肪變性（fatty change）",
+      "褐脂質堆積（lipofuscin deposition）",
+      "細胞皺縮（cell shrinkage）",
+      "細胞腫脹（cell swelling）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-045-d368",
+    "question": "下列何者最不容易造成全身性血栓性栓塞（systemic thromboembolism）之栓子（embolus）？",
+    "options": [
+      "左心室壁的血栓（mural thrombus）",
+      "肺動脈瓣的鈣化變性",
+      "變大的左心房內的血塊",
+      "二尖瓣的感染性心內膜炎（infective endocarditis）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-046-ac20",
+    "question": "下列感染症的致病機轉與細菌產生的外毒素有關，何者除外？",
+    "options": [
+      "白喉性心肌炎",
+      "霍亂弧菌引發嚴重下痢",
+      "破傷風桿菌引發的骨骼肌痙攣",
+      "大腸桿菌引發的敗血性休克"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-047-3ee2",
+    "question": "肺動脈栓塞導致死亡，是屬於哪類的休克？",
+    "options": [
+      "低血容性休克",
+      "心因性休克",
+      "敗血性休克",
+      "過敏性休克"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-048-1921",
+    "question": "下列何者最可能引起敗血性休克（septic shock）？",
+    "options": [
+      "Epstein-Barr病毒",
+      "大腸桿菌",
+      "白色念珠菌",
+      "放射線菌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-049-8c22",
+    "question": "下列何者不是促進糖質新生（gluconeogenesis）的激素？",
+    "options": [
+      "升糖素（glucagon）",
+      "胰島素（insulin）",
+      "生長激素（growth hormone）",
+      "糖皮質固醇（glucocorticoid）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-110-050-4cae",
+    "question": "庫欣氏症（Cushing's syndrome）患者傷口不易癒合的主要原因是與下列何種作用有關？",
+    "options": [
+      "刺激脂肪堆積",
+      "增加葡萄糖利用率",
+      "抑制發炎反應",
+      "刺激蛋白質合成"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-001-0de4",
+    "question": "下列何者會造成低熱症(hypothermia)？",
+    "options": [
+      "中暑(heat stroke)",
+      "中熱衰竭(heat exhaustion)",
+      "熱痙攣(heat ceamps)",
+      "凍瘡(frostbite)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-002-0942",
+    "question": "凍瘡(frostbite)是因血管過度收縮及血液呈高凝固狀態而造成之何種壞死？",
+    "options": [
+      "凝固性壞死(coagulation necrosis)",
+      "液化性壞死(liquefactive nectosis, colliquative necrosis)",
+      "缺血性壞死(avascular necrosis)",
+      "乾酪性壞死(caseous necrosis)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-003-2d34",
+    "question": "全身性炎症反應綜合症(Systemic inflammatory response syndrome, SIRS)在成人的診斷標準，心率需\n大於每分鐘多少次?",
+    "options": [
+      "90",
+      "100",
+      "110",
+      "120"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-004-18ca",
+    "question": "下列何種病因造成的上皮化生(metaplasia)是由鱗狀上皮轉化為柱狀上皮？",
+    "options": [
+      "抽煙、慢性發炎之於支氣管上皮",
+      "慢性發炎之於子宮內頸",
+      "慢性發炎之於膀胱內膜",
+      "胃黏膜化生：胃酸之於食道上皮"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-005-52c4",
+    "question": "食道的良性腫瘤何者最常見？",
+    "options": [
+      "脂肪瘤(lipoma)",
+      "纖維脂肪瘤(fibrolipoma)",
+      "平滑肌瘤(leiomyoma)",
+      "乳頭狀瘤(papilloma)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-006-758a",
+    "question": "在組織病理切片下，骨小樑組織呈中文字的形態( Chinese script writting)，可見於下列何者？",
+    "options": [
+      "骨軟骨瘤(osteochondroma)",
+      "結核性骨髓炎(tuberculous osteomyelitis)",
+      "骨肉瘤(osteosarcoma)",
+      "纖維性發育不全( fibrous dysplasia)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-007-ade5",
+    "question": "X光像呈現毛玻璃外觀(ground glass appearance)，可見於下列何者？",
+    "options": [
+      "骨質疏鬆症(osteoporosis)",
+      "纖維性發育不全( fibrous dysplasia)",
+      "骨肉瘤(osteosarcoma)",
+      "結核性骨髓炎(tuberculous osteomyelitis)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-008-3e9b",
+    "question": "下列抗體的部位，何者是與抗原決定部位(epitope)結合的位置?",
+    "options": [
+      "Variable region",
+      "Constant region",
+      "Hind region",
+      "Carbohydrate chain"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-009-598f",
+    "question": "有關病原啟動免疫反應過程，下列何者正確？",
+    "options": [
+      "微生物本身會影響啟動的免疫特性，例如細胞外的黴菌常常啟動自然殺手細胞進行攻擊",
+      "抗體的製造主要是為了攻擊躲藏在細胞內的",
+      "先天性免疫在感染的防禦過程中是站在第一線，反應最快的免疫反應",
+      "T淋巴細胞直接與病原接觸，並撲殺之"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-010-a4ad",
+    "question": "下列有關過敏反應，下列何正確？",
+    "options": [
+      "第一型與IgE有關，接觸過敏原後，T細胞迅速釋出發炎物質引起過敏反應",
+      "第一型過敏反應包括氣喘、異位性皮膚炎、過敏性鼻炎，以及乳膠引起之接觸性皮膚炎等",
+      "第四型過敏反應發生過程中，IgG 扮演關鍵角色",
+      "可用於過敏的治療藥物，包括類固醇、抗組織胺，及免疫調節之生物製劑等"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-011-d033",
+    "question": "下列何者並非後天性免疫(adaptive immunity)的功能？",
+    "options": [
+      "毒殺型T 淋巴細胞(cytotoxic T lymphocyte) 以穿孔素(perforin)及granzymes 攻擊標的細胞(target cell)",
+      "抗體透過中和反應(neutralization)、調理作用(opsonization)，以及補體活化 (complement activation)來對抗微生物",
+      "輔助型T細胞(helper Tlymphocyte)分泌細胞激素，刺激巨噬細胞以增加細胞內毒殺被吞噬之微生物的活性",
+      "自然殺手細胞辨識無MHC class I之標的細胞並予以毒殺"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-012-bab0",
+    "question": "細菌培養于blood agar 綿羊血培養基上時，菌落四周紅血球被破壞造成一透明無色之環形，此現象被稱為？",
+    "options": [
+      "α -溶血",
+      "β -溶血",
+      "γ -溶血",
+      "δ -溶血"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-013-bb05",
+    "question": "下列何種細菌為革蘭氏陽性球菌，並有噬肉菌（flesh-eating bacteria）之稱？",
+    "options": [
+      "氣性壞疽梭狀芽胞桿菌（Clostridium perfringens）",
+      "A群鏈球菌（group A Streptococcus）",
+      "肺炎雙球菌（Streptococcus pneumoniae）",
+      "綠膿桿菌（Pseudomonas aeruginosa）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-014-9d3b",
+    "question": "下列何種病毒會引起胎兒先天性感染（congenital infection）而產生先天性缺陷？",
+    "options": [
+      "measles virus",
+      "mumps virus",
+      "rubella virus",
+      "Japanese encephalitis virus"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-015-2863",
+    "question": "抗流感病毒藥品的主要作用機制為何？",
+    "options": [
+      "基質蛋白抑制劑\t核衣殼蛋白抑制劑",
+      "常跪者易傷及膝蓋骨下囊",
+      "血球凝集素抑制劑",
+      "神經胺酸酶抑制劑"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-016-aaa4",
+    "question": "下列何者不符合新興傳染病的定義？",
+    "options": [
+      "新出現在人類身上的傳染病",
+      "傳染病的發生率有快速增加的趨勢",
+      "過去已知且被控制，而再度有流行趨勢的傳染病",
+      "在地理分布上有擴張情形的傳染病"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-017-556c",
+    "question": "SCID是非常嚴重的先天型免疫缺陷，下列敘述何者為非？",
+    "options": [
+      "XSCID是cytokine signaling的失誤",
+      "全球第一例成功的基因治療是治療SCID中的ADA deficiency",
+      "最常見的SCID是XSCID，也稱為 bubble boy disease",
+      "SCID的病人無法應付病菌的感染，甚至連B型肝炎這類的活菌減毒性疫苗也會造成感染"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-019-3619",
+    "question": "卡氏肺囊蟲肺炎pneumocystosis的致病原是Pneumocystis jiroveci, 何者有誤？",
+    "options": [
+      "愛滋病患八成以上的肺炎是由此菌造成",
+      "血液是主要的感染途徑",
+      "感染的指標是間質性肺炎伴隨有plasma cells浸潤",
+      "此菌細胞無ergosterol成分"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-020-3e60",
+    "question": "請問下列關於結核分枝桿菌的敘述何者錯誤 請問下列關於結核分枝桿菌 (Mycobacterium tuberculosis) 的敘述，何者錯誤？",
+    "options": [
+      "細胞壁具有Mycolic acid",
+      "生長緩慢具抗酸性",
+      "部分臨床菌株具有嚴重的抗藥性",
+      "染色體中的 GC content約為20-30%"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-021-a6b3",
+    "question": "用以診斷幽門桿菌（Helicobacter pylori）感染的非侵犯性（non-invasive）方法，所偵測的是該菌何\n種產物？",
+    "options": [
+      "catalase",
+      "urease",
+      "oxidase",
+      "mucinase"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-022-9735",
+    "question": "下列引起腸胃炎的大腸桿菌中何者可破壞小腸上皮絨毛造成AE lesions的形成？",
+    "options": [
+      "ETEC",
+      "EPEC",
+      "EAEC",
+      "EIEC"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-023-52d2",
+    "question": "關於黴漿菌(mycoplasmas)，下列何者為非？",
+    "options": [
+      "無細胞壁結構",
+      "主要以P1 adhesin protein 結合入侵口腔黏膜細胞，造成感染",
+      "只會在人類致病",
+      "致病無季節性"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-024-9b5d",
+    "question": "Human papillomavirus會引起下列何種癌症？",
+    "options": [
+      "胃癌",
+      "鼻咽癌",
+      "卵巢癌",
+      "子宮頸癌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-025-0809",
+    "question": "下列關於嗜肺性退伍軍人菌（Legionella pneumophila）的敘述，何者錯誤？",
+    "options": [
+      "具有鞭毛可游泳，廣泛分布於有水的環境中",
+      "經常引起肺部感染",
+      "無法在溫度高於42℃的水中生長",
+      "可在肺泡巨噬細胞內大量增生"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-027-f295",
+    "question": "關於萊姆病的敘述，下列何者錯誤？",
+    "options": [
+      "由螺旋體感染引起的疾病",
+      "屬於蟲媒病",
+      "患者皮膚會出現遊走性紅斑",
+      "不需要治療可自行痊癒"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-028-f300",
+    "question": "下列計算藥物劑量的公式，何者是依據體重調整劑量？",
+    "options": [
+      "Cowling rule",
+      "Young's rule",
+      "Clark's rule",
+      "Fried rule"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-029-ca7a",
+    "question": "下列交感神經作用劑何者可以治療膀胱過動症？",
+    "options": [
+      "Ritodrine",
+      "Mirabegron",
+      "Phenylephrine",
+      "Clonidine"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-030-5e4a",
+    "question": "下列何種治療青光眼的藥物是經由抑制交感神經β受體(adrenergic β receptor)降低眼壓？",
+    "options": [
+      "Timolol",
+      "Apraclonidine",
+      "Pilocarpine",
+      "Dorzolamide"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-031-a58f",
+    "question": "下列何種降血壓藥是作用在dopamine D1 receptor，可治療高血壓急症或是術後高血壓？",
+    "options": [
+      "Prazosin",
+      "Propranolol",
+      "Fenoldopam",
+      "Clonidine"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-032-53c6",
+    "question": "病人因為嗜鉻性細胞瘤導致高血壓，最適宜使用下列何藥物來降血壓？",
+    "options": [
+      "Clonidine",
+      "Carvedilol",
+      "Prazosin",
+      "Phenoxybenzamine"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-033-9870",
+    "question": "小黃皮膚過敏出現蕁麻疹，應優先選擇下列何種藥物治療？",
+    "options": [
+      "非類固醇抗發炎藥物",
+      "類固醇",
+      "H1抗組織胺",
+      "H2抗組織胺"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-034-5f2b",
+    "question": "長期服用Aspirin最不容易發生下列何種副作用？",
+    "options": [
+      "腎毒性",
+      "出血",
+      "胃潰瘍",
+      "耳毒性"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-035-5777",
+    "question": "下列何者是Benzodiazepine藥物中毒時的專屬解毒劑？",
+    "options": [
+      "Flumazenil",
+      "Femepizole",
+      "Flurazepam",
+      "Flunitrazepam"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-036-89d7",
+    "question": "下列有關嗎啡的作用，何者錯誤？",
+    "options": [
+      "抑制咳嗽",
+      "促進腸道蠕動",
+      "止痛",
+      "呼吸抑制"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-037-4990",
+    "question": "下列何者不屬於吸入性麻醉?",
+    "options": [
+      "Isoflurane",
+      "Propofol",
+      "Sevoflurane",
+      "Halothane"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-038-8090",
+    "question": "下列Barbiturates，何者除了鎮靜安眠作用，還可以抗癲癇？",
+    "options": [
+      "Thiopental",
+      "Secobarbital",
+      "Pentobarbital",
+      "Phenobarbital"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-039-3117",
+    "question": "下列何者是手術後脹氣、便秘及尿滯留的首選藥？",
+    "options": [
+      "Mineral oil",
+      "Lubiprostone",
+      "Diphenoxylate",
+      "Bethanechol"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-040-b8d8",
+    "question": "下列降血壓藥物中，何者主要不是作用於血管平滑肌上？",
+    "options": [
+      "chlorothiazide",
+      "minoxidil",
+      "verapamil",
+      "prazosin"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-041-9faa",
+    "question": "Omalizumab治療過敏性氣喘(allergic asthma)的作用機制為何？",
+    "options": [
+      "結合腫瘤壞死因子TNF-α",
+      "結合免疫球蛋白IgE",
+      "結合淋巴激素IL-1",
+      "結合免疫球蛋白IgG"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-042-a196",
+    "question": "下列利尿劑，何者為醛固酮(aldosterone)拮抗劑，長期使用會引發男性女乳症(gynecomastia)？",
+    "options": [
+      "Spironolactone",
+      "Chlorthalidone",
+      "Furosemide",
+      "Acetazolamide"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-043-8752",
+    "question": "下列利尿劑何者可以治療青光眼？",
+    "options": [
+      "Chlorothiazide",
+      "Furosemide",
+      "Dorzolamide",
+      "Triamterene"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-045-03a6",
+    "question": "患有甲狀腺疾病之心律不整患者，應該避免使用下列何種抗心律不整藥物？",
+    "options": [
+      "Amiodarone",
+      "Mexiletine",
+      "Lidocaine",
+      "Verapamil"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-046-6aea",
+    "question": "下列口服抗凝血劑，何者是直接凝血酶抑制劑？",
+    "options": [
+      "Rivaroxaban",
+      "Warfarin",
+      "Dabigatran",
+      "Apixaban"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-047-0d89",
+    "question": "下列藥物何者不會抑制腎上腺皮質賀爾蒙的生合成？",
+    "options": [
+      "Ketoconazole",
+      "Metyrapone",
+      "Aminoglutethimide",
+      "Spironolactone"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-048-5dd3",
+    "question": "下列何種化療性抗癌藥的肺毒性最強？",
+    "options": [
+      "Cisplatin",
+      "Bleomycin",
+      "Topotecan",
+      "Doxorubicin"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-049-8cfb",
+    "question": "主動脈瓣打開和關閉的時間點分別為：",
+    "options": [
+      "甲和乙",
+      "乙和丙",
+      "丙和丁",
+      "丁和甲"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-112-050-a2aa",
+    "question": "請選出心臟最大前負荷（preload）之時間點：",
+    "options": [
+      "甲",
+      "乙",
+      "丙",
+      "丁"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-001-da89",
+    "question": "下列哪一種肌組織具有分叉的肌纖維，纖維間以間盤（intercalated disc）相隔？",
+    "options": [
+      "肌梭（muscle spindle）",
+      "骨骼肌（skeletal muscle）",
+      "平滑肌（smooth muscle）",
+      "心肌（cardiac muscle）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-002-f494",
+    "question": "下視丘的神經荷爾蒙對腦下垂體前葉荷爾蒙的分泌調控是藉由下列哪一種路徑？",
+    "options": [
+      "門脈循環",
+      "體循環",
+      "神經突觸",
+      "傳導腦室循環"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-003-3fd7",
+    "question": "下列對糖皮質素（glucocorticoid）的敘述，何者正確？",
+    "options": [
+      "降低血漿中的葡萄糖與胺基酸濃度",
+      "促進肝臟合成蛋白質，增加血漿中的游離脂肪酸濃度",
+      "促進肝臟內脂肪堆積與蛋白質分解",
+      "有抗升糖素（glucagon）的作用，促進糖質新生作用"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-004-1b17",
+    "question": "血管受損破裂時所導致的血管收縮，主要與血小板釋放何種物質有關？",
+    "options": [
+      "一氧化氮(NO)",
+      "肝素（heparin）",
+      "血清胺（serotonin）",
+      "腎上腺素（epinephrine）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-005-5e55",
+    "question": "下列有關心臟或肺臟的構造，何者正確？",
+    "options": [
+      "左肺有三葉，右肺有兩葉",
+      "肺泡是氣體交換之處",
+      "左心之房室瓣為三尖瓣，右心之房室瓣為二尖瓣",
+      "左心室進入主動脈的半月瓣為兩片"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-006-600e",
+    "question": "下列何者為近腎絲球器（juxta-glomerular apparatus）偵測體液中鈉離子濃度變化的構造？",
+    "options": [
+      "緻密斑（macula densa）",
+      "松果體（pineal body",
+      "脈絡叢（choroid plexus）",
+      "逆流放大器（counter-current amplifier）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-007-eef2",
+    "question": "子宮肌肉層（myometrium）收縮能力可被何種類固醇抑制？",
+    "options": [
+      "動情素（estrogen）",
+      "助孕素（progesterone）",
+      "黃體促素（LH）",
+      "濾泡促素（FSH）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-008-b613",
+    "question": "細胞膜上之何者可能具有主動運輸（active transport）的功能？",
+    "options": [
+      "磷脂（phospholipid）",
+      "膽固醇（cholesterol）",
+      "脂肪酸基（fatty acid radical）",
+      "蛋白質（protein）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-009-6976",
+    "question": "下列有關細胞膜上鈉鉀幫浦（Na＋－K＋ pump）的敘述，何者錯誤？",
+    "options": [
+      "鈉鉀幫浦每次可主動地由細胞內送出兩個鈉離子，同時送回三個鉀離子",
+      "本身是一種腺核　三磷酸（ATP）水解",
+      "造成膜電位約5～20毫伏特的電位差",
+      "具有維持正常細胞體積的作用"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-010-7374",
+    "question": "男性與女性骨盆的比較，下列何者是女性骨盆的特徵？",
+    "options": [
+      "薦椎較長且窄",
+      "坐骨棘較向內彎",
+      "薦岬較向前突",
+      "恥骨弓較大"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-011-cb6f",
+    "question": "血漿（piasma）內，不包含下列何種成分？",
+    "options": [
+      "白蛋白（albumin）",
+      "球蛋白（globulin）",
+      "纖維蛋白原（fibrinogen）",
+      "白血球（WBC）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-012-0e03",
+    "question": "血球的生命週期，下列何者最長？",
+    "options": [
+      "紅血球",
+      "血小板",
+      "嗜中性球",
+      "嗜鹼性球"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-013-3642",
+    "question": "臨床上輸血之前除檢查血型之外，尚需做下列何種檢查以確保輸血之安全？",
+    "options": [
+      "紅血球計數",
+      "白血球分類",
+      "交叉配合試驗",
+      "血球沉降試驗"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-014-81ec",
+    "question": "下列何者直接提供威氏環（circle of Willis）的動脈血？",
+    "options": [
+      "頸內動脈",
+      "頸外動脈",
+      "椎動脈",
+      "大腦前動脈"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-015-6d7c",
+    "question": "關於膝關節之敘述，錯誤的是：",
+    "options": [
+      "內側半月板和脛骨側韌帶連接",
+      "常跪者易傷及膝蓋骨下囊",
+      "膝蓋彎屈時前十字韌帶被拉緊",
+      "膝蓋受外側擊時較易傷及脛骨側韌帶"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-016-c3d5",
+    "question": "甲狀腺之濾泡細胞可分泌：",
+    "options": [
+      "甲狀腺素（thyroxine）",
+      "降鈣素（calcitonin）",
+      "體制素（somatostatin）",
+      "抗黑素激素（melatonin）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-017-e36a",
+    "question": "胎兒心臟的卵圓孔，連通的是哪兩個腔室？",
+    "options": [
+      "左、右心房",
+      "左、右心室",
+      "左心房與左心室",
+      "右心房與右心室"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-018-65b4",
+    "question": "下列何者屬於腹膜後器官（retroperitoneal organ）？",
+    "options": [
+      "空腸（jejunum）",
+      "橫結腸（transverse colon）",
+      "十二指腸（duodenum）",
+      "乙狀結腸（sigmoid colon）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-019-1f30",
+    "question": "下列逆流機轉的構造中，可將管腔內Na＋與Cl－主動運送至腎髓質的是：",
+    "options": [
+      "亨氏環下降枝",
+      "亨氏環上升枝粗段",
+      "亨氏環上升枝細段",
+      "直行血管"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-020-b325",
+    "question": "受精作用通常發生於何處？",
+    "options": [
+      "子宮頸",
+      "陰道",
+      "輸卵管",
+      "卵巢"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-021-4ef6",
+    "question": "氣性壞疽（gas gangrene）是併發於下列哪一種病況的壞死？",
+    "options": [
+      "麴菌（Aspergillus）感染",
+      "梭菌（Clostridium）",
+      "肺氣腫（pulmonary emphysema）",
+      "糖尿病（diabetes mellitus）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-022-4a42",
+    "question": "燙傷引起的水泡屬於何種發炎？",
+    "options": [
+      "化膿性",
+      "漿液性",
+      "纖維蛋白",
+      "肉芽性"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-023-fe97",
+    "question": "下列愛滋病之危險群中，何者罹患率最高？",
+    "options": [
+      "高危險母親之性伴侶及兒童",
+      "輸血",
+      "血友病",
+      "同性戀或雙性戀男性"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-024-ac0d",
+    "question": "中央腺泡肺氣腫（centriacinar emphysema）之病變部位在：",
+    "options": [
+      "末端細支氣管（terminal bronchioles）",
+      "呼吸性細支氣管（respiratory bronchioles）",
+      "肺泡管（alveolar ducts）",
+      "肺泡（alveoli）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-025-9aa6",
+    "question": "消化性潰瘍與下列何種感染最有關？",
+    "options": [
+      "鏈球菌",
+      "葡萄球菌",
+      "結核桿菌",
+      "幽門桿菌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-026-ee1e",
+    "question": "戒指細胞是哪一種胃癌的特徵？",
+    "options": [
+      "腺癌",
+      "淋巴癌",
+      "平滑肌肉瘤",
+      "纖維肉瘤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-027-96eb",
+    "question": "下列何種癌症與皰疹病毒有關？",
+    "options": [
+      "子宮頸癌",
+      "鼻咽癌",
+      "肝癌",
+      "卡波西氏肉瘤（Kaposi’s sarcoma）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-028-98a5",
+    "question": "下列何種染色方法，最常用於證明組織切片中有類澱粉（amyloid）存在？",
+    "options": [
+      "蘇木紫及伊紅（hematoxylin & eosin）",
+      "剛果紅（Congo red）",
+      "鍍銀（silver）",
+      "抗酸（acid fast）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-029-39b7",
+    "question": "科學家發現40％的視網膜母細胞瘤（retinoblastoma）為家族性的。更進一步發現這是因為\n第13對染色體上有某基因的佚失（deletion），這個基因最可能為？",
+    "options": [
+      "致癌基因（oncogene）",
+      "腫瘤抑制基因（tumor suppressor gene）",
+      "凋亡基因（apoptotic gene）",
+      "DNA修補基因（DNA repair gene）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-030-12f3",
+    "question": "下列何種類型的泌尿道結石最常見？",
+    "options": [
+      "尿酸",
+      "胱胺酸",
+      "磷酸銨鎂",
+      "草酸鈣"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-031-9f2f",
+    "question": "Tubocurarine的支氣管收縮副作用，是因促使下列何種自泌素釋放？",
+    "options": [
+      "Histamine",
+      "Prostaglandin E2",
+      "Serotonin",
+      "Bradykinin"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-032-ddd6",
+    "question": "生物製劑之蛋白質藥物 Etanercept 可治療風濕性關節炎（Rheumatoid arthritis），此藥物之\n藥理作用為何？",
+    "options": [
+      "結合淋巴激素 IL-2",
+      "結合腫瘤壞死因子 TNF-α",
+      "結合干擾素 IFN-α",
+      "結合前列腺素 PGs"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-033-55ff",
+    "question": "在治療過敏性氣喘（allergic asthma）的藥物中，生物製劑之抗體藥物 omalizumab 其主要\n作用為何？",
+    "options": [
+      "結合免疫球蛋白IgE",
+      "結合免疫球蛋白IgG",
+      "結合淋巴激素IL-2",
+      "結合腫瘤壞死因子TNF-α"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-034-cc63",
+    "question": "下列何種藥物最適合用於腎上腺功能不足（adrenocorticoid insufficiency）的治療？",
+    "options": [
+      "fludrocortisone",
+      "misoprostol",
+      "mifepristone",
+      "dexamethasone"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-035-bdd6",
+    "question": "下列何者因同時服用neostigmine而增強其神經肌肉之阻斷作用？",
+    "options": [
+      "succinylcholine",
+      "d-tubocurarine",
+      "pancuronium",
+      "trimethaphan"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-036-db43",
+    "question": "下列何種氣管放鬆劑，用於新生兒易造成危險？",
+    "options": [
+      "theophylline",
+      "epinephrine",
+      "terbutaline",
+      "atropine"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-037-3fe3",
+    "question": "下列何種藥物可能增加bradykinin而誘發乾咳?",
+    "options": [
+      "ACEIs",
+      "ARBs",
+      "NSAIDs",
+      "NTG"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-038-e331",
+    "question": "下列藥物何者是屬於治療氣喘之用藥？",
+    "options": [
+      "terbutaline",
+      "cimetidine",
+      "dextromethorphan",
+      "propranolol"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-039-4f5e",
+    "question": "下列何種前列腺素藥物可用來治療NSAIDs引起之消化性潰瘍？",
+    "options": [
+      "misoprostol",
+      "latanoprost",
+      "dinoprostone",
+      "prostacyclin"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-041-63cb",
+    "question": "下列何症可用抗生素治療？",
+    "options": [
+      "肉毒症（botulism）",
+      "破傷風（tetanus）",
+      "鏈球菌肺炎（streptococcal pneumonia）",
+      "脊髓灰白質炎（poliomyelitis）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-042-0c33",
+    "question": "花柳性淋巴肉芽腫（Lymphogranuloma venereum）是很常見的性病，此病是由什麼菌所引起？",
+    "options": [
+      "螺旋菌（Spirochetes）",
+      "立克次氏菌（Rickettsia）",
+      "披衣菌（Chlamydia）",
+      "黴漿菌（Mycoplasma）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-043-050d",
+    "question": "某登山客在野外被蝨子（lice）叮咬後，發生突發性頭痛、畏寒、虛脫、發燒和全身疼痛的現象。其致病的最可能病原是哪一種立克次體菌？",
+    "options": [
+      "地方性斑疹傷寒",
+      "流行性斑疹傷寒",
+      "叢林斑疹傷寒",
+      "斑疹熱"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-044-ce88",
+    "question": "有關免疫反應的產生，下列敘述何者不正確？",
+    "options": [
+      "免疫反應的產生與否主要受到主要組織相容抗原（MHC）基因的影響",
+      "有些會有對某些抗原產生抗體，而有些不會，是由於遺傳基因的影響",
+      "有些自體免疫疾病與主要組織相容抗體（MHC）基因型有關",
+      "免疫反應的產生完全靠巨噬細胞"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-045-8079",
+    "question": "下列抗生素的抗菌機制為抑制細菌細胞壁合成的抗生素？",
+    "options": [
+      "萬古黴素（vancomycin）",
+      "四環黴素（tetracycline）",
+      "氯黴素（chloramphenicol）",
+      "紅黴素（erythromycin）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-046-8be4",
+    "question": "有關綠膿桿菌（Pseudomonas aeruginosa），下列敘述何者錯誤？",
+    "options": [
+      "為醫院內常見造成伺機感染症的致病原",
+      "廣泛散布於潮溼環境中",
+      "對大多數的抗生素呈抗藥性",
+      "常感染燒傷處，但不會造成全身性（systemic）感染"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-047-4848",
+    "question": "有關不動桿菌（Acinetobacter baumannii）的敘述，下列何者正確？",
+    "options": [
+      "可引起免疫力差者之肺炎、尿道炎或敗血症",
+      "很少出現於環境中",
+      "為機會性致病菌，很少造成院內感染",
+      "並不具有抗藥性，臨床上容易治療"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-048-0b11",
+    "question": "自皮膚侵入的病原菌，在下列何者最先誘發免疫反應？",
+    "options": [
+      "骨髓",
+      "脾臟",
+      "淋巴結",
+      "黏膜淋巴組織"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-049-9445",
+    "question": "立克次體（Rickettsia）最初被歸納為病毒的原因為：",
+    "options": [
+      "可以感染大腸桿菌",
+      "不含RNA",
+      "對抗生素不具感受性",
+      "體積小"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "BM-113-050-5aeb",
+    "question": "關於自然殺手細胞（natural killer cells）的敘述，何者正確？",
+    "options": [
+      "與T細胞同樣表現CD3",
+      "又叫大顆粒淋巴球（large granular lymphocytes）",
+      "可認識目標細胞（target cell）之第二型主要組織相容性抗原再將其毒殺",
+      "細胞表面表現CD8"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "基礎醫學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  }
+]
