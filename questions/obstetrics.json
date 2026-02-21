@@ -1538,7 +1538,7 @@
       "胎兒呼吸運動",
       "頭臀徑"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1556,7 +1556,7 @@
       "足月時安排剖腹生產以減少胎兒敗血症風險",
       "立刻安排更進一步的羊膜穿刺術檢查，以了解胎兒目前的健康狀況"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1574,7 +1574,7 @@
       "胎兒瀕臨死亡",
       "無法判斷"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1592,7 +1592,7 @@
       "心輸出量增加30～50%，以供應子宮、胎盤需要血流",
       "血漿中白蛋白降低，使得水分易滯留在血管間隙形成水腫"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1610,7 +1610,7 @@
       "磷可參與早期的細胞分裂過程",
       "鈣質提供胎兒骨骼和牙齒的生長發育"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1628,7 +1628,7 @@
       "提供氧氣",
       "採平躺增加子宮血流"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1646,7 +1646,7 @@
       "當子宮收縮時，陰道口膨出可見胎頭，大小呈卵圓形",
       "當宮縮間歇時，胎頭出現於陰道口且不會縮回陰道內"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1664,7 +1664,7 @@
       "在新生兒及產婦狀況穩定下，協助親子立即肌膚接觸",
       "產後於恢復室觀察，每15分鐘監測產婦的血壓及出血量"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1682,7 +1682,7 @@
       "枕頦徑（OM）",
       "頦下前囟徑（SMB）"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1700,7 +1700,7 @@
       "給與ritodrine點滴注射，促進子宮收縮",
       "評估羊水量"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1718,7 +1718,7 @@
       "白天減少水分攝取，減輕膀胱壓力",
       "使用托腹帶減輕腹壓，儘量不憋尿"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1736,7 +1736,7 @@
       "尊重其文化以及飲食的選擇",
       "提供更多的飲食禁忌訊息"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1754,7 +1754,7 @@
       "懷孕 16 週婦女，罹患慢性高血壓",
       "懷孕 18 週婦女，母血唐氏症篩檢危險比值為 1/720"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1772,7 +1772,7 @@
       "維生素 B12",
       "維生素 K"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1790,7 +1790,7 @@
       "宮縮時偶肚子變硬，但強度沒有變化",
       "陣痛一定伴隨破水發生"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1808,7 +1808,7 @@
       "鼠蹊部疼痛緩解",
       "分娩大約在 2 週內發生"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1826,7 +1826,7 @@
       "胎兒雙頂徑（BPD）接近坐骨結節，但尚未到達",
       "胎兒先露部位膨出於母體的會陰部"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1844,7 +1844,7 @@
       "評估分析可能原因",
       "經常更換姿勢，以利胎兒轉位下降"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1862,7 +1862,7 @@
       "進行穿刺於 L3或 L4腰椎間",
       "藥物注入後密切監測生命徵象"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1880,7 +1880,7 @@
       "給與足夠水分 2,500～3,000 c.c./天",
       "下一胎可嘗試剖腹產後陰道生產(VBAC)"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1898,7 +1898,7 @@
       "告知觀察到嬰兒有飢餓訊號時就餵母乳，不限餵奶時間或頻率",
       "鼓勵親自以乳房哺餵新生兒，若有脹奶時進行手擠奶"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1916,7 +1916,7 @@
       "評估子宮底位置及張力",
       "每 15 分鐘評估下肢感覺恢復情形"
     ],
-    "answer": -1,
+    "answer": 0,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1934,7 +1934,7 @@
       "請準爸爸持續陪伴以避免產婦失控",
       "讓準爸爸暫時休息，改由其他家人照顧產婦"
     ],
-    "answer": -1,
+    "answer": 2,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1952,7 +1952,7 @@
       "麻醉後採左側臥，避免低血壓",
       "待產婦血壓為 86/50 mmHg，需給予 naloxone 解毒"
     ],
-    "answer": -1,
+    "answer": 3,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
@@ -1970,7 +1970,7 @@
       "宮縮開始，加速最高至 162 bpm，宮縮結束後回到 124 bpm",
       "產檯上用力期間，逐漸減慢到最低至 110 bpm，宮縮結束後回到 138 bpm"
     ],
-    "answer": -1,
+    "answer": 1,
     "explanation": "",
     "category": "產科護理學",
     "subcategory": "",
