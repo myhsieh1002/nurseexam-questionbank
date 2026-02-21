@@ -1,6 +1,6 @@
 {
-  "version": "2.0",
-  "lastUpdated": "2026-02-21",
+  "version": "2.1",
+  "lastUpdated": "2026-02-22",
   "totalQuestions": 2989,
   "files": [
     {
@@ -12,11 +12,6 @@
       "name": "med_surg.json",
       "checksum": "60759026944bec34",
       "count": 2154
-    },
-    {
-      "name": "ob_peds.json",
-      "checksum": "765f1a19e2ad2060",
-      "count": 190
     },
     {
       "name": "psychiatric.json",
@@ -32,6 +27,16 @@
       "name": "basic_medicine.json",
       "checksum": "1ab231227a8693a4",
       "count": 176
+    },
+    {
+      "name": "obstetrics.json",
+      "checksum": "7fb55df9fa847f7d",
+      "count": 110
+    },
+    {
+      "name": "pediatrics.json",
+      "checksum": "a4ef2c3f71f5975c",
+      "count": 80
     }
   ],
   "minAppVersion": "1.0.0"
