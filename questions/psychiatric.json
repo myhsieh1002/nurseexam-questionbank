@@ -1,117 +1,2252 @@
 [
   {
-    "id": "NUR-PS-001",
-    "question": "思覺失調症（Schizophrenia）病人出現「思考被插入」的症狀，屬於下列何種精神病理現象？",
+    "id": "PS-110-001-3c86",
+    "question": "某主治醫師拿了臨床試驗用藥給護理師，告知給某病人使用，此時護理師提醒醫師應\n向病人解釋相關資訊並請病人填寫臨床試驗同意書，對病人而言此護理師的功能為何?",
     "options": [
-      "A. 妄想（Delusion）",
-      "B. 幻覺（Hallucination）",
-      "C. 思考障礙（Thought Disorder）",
-      "D. 情感平淡（Flat Affect）"
+      "教育者",
+      "個案管理者",
+      "諮商者",
+      "代言者"
     ],
-    "answer": 2,
-    "explanation": "「思考被插入」（Thought Insertion）是指病人認為某些想法是被外力植入自己腦中的，屬於思考障礙（Thought Disorder）中思考內容異常的範疇，也常被歸類為Schneider一級症狀。此與妄想不同，妄想是錯誤的堅定信念；幻覺是感官的錯誤知覺；情感平淡則屬於負性症狀。",
+    "answer": -1,
+    "explanation": "",
     "category": "精神科護理學",
-    "subcategory": "思覺失調",
-    "difficulty": 2,
-    "tags": [
-      "思覺失調症",
-      "思考障礙",
-      "Schneider症狀",
-      "精神病理學"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
-  },
-  {
-    "id": "NUR-PS-002",
-    "question": "躁鬱症（Bipolar Disorder）病人處於躁期時，下列何種護理措施最為適當？",
-    "options": [
-      "A. 安排團體活動以消耗其過多精力",
-      "B. 提供安靜、低刺激的環境",
-      "C. 鼓勵病人詳細描述其偉大計畫",
-      "D. 與病人辯論其不切實際的想法"
-    ],
-    "answer": 1,
-    "explanation": "躁期病人常表現活動量增加、話多、注意力分散、睡眠需求減少及誇大等症狀。護理重點為提供安靜、低刺激的環境以減少外在刺激，避免加重躁動。不宜安排過多團體活動（可能增加刺激），不應鼓勵描述誇大想法或與之辯論（會激怒病人且無治療效果）。同時需注意營養及水分攝取。",
-    "category": "精神科護理學",
-    "subcategory": "情感障礙",
-    "difficulty": 2,
-    "tags": [
-      "躁鬱症",
-      "躁期護理",
-      "情感性疾患",
-      "治療性環境"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
-  },
-  {
-    "id": "NUR-PS-003",
-    "question": "思覺失調症病人長期服用傳統型抗精神病藥物（如Haloperidol），出現不自主的舌頭及口唇反覆運動，最可能是下列何種副作用？",
-    "options": [
-      "A. 急性肌張力不全（Acute Dystonia）",
-      "B. 靜坐不能（Akathisia）",
-      "C. 遲發性運動障礙（Tardive Dyskinesia）",
-      "D. 類巴金森氏症（Pseudoparkinsonism）"
-    ],
-    "answer": 2,
-    "explanation": "遲發性運動障礙（Tardive Dyskinesia, TD）是長期使用傳統型抗精神病藥物的嚴重副作用，通常在服藥數月至數年後出現，表現為不自主的口舌臉部重複動作（如咀嚼、吐舌、舔唇等）。此副作用可能不可逆，需早期辨識。急性肌張力不全通常在用藥初期出現；靜坐不能是無法安坐的焦躁感；類巴金森氏症表現為震顫、僵直與動作遲緩。",
-    "category": "精神科護理學",
-    "subcategory": "思覺失調",
-    "difficulty": 3,
-    "tags": [
-      "遲發性運動障礙",
-      "抗精神病藥物",
-      "藥物副作用",
-      "Haloperidol"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
-  },
-  {
-    "id": "NUR-PS-004",
-    "question": "重度憂鬱症病人開始服用抗憂鬱藥物後，護理人員應特別注意在何時期自殺風險最高？",
-    "options": [
-      "A. 服藥當天",
-      "B. 服藥後1~2週體力開始恢復但情緒尚未改善時",
-      "C. 服藥後6個月穩定期",
-      "D. 停藥後2個月"
-    ],
-    "answer": 1,
-    "explanation": "抗憂鬱藥物通常需要2~4週才能充分發揮療效。在服藥初期1~2週，病人的體力與動機可能先恢復，但情緒（如無望感、自殺意念）尚未改善，此時病人有能力去執行自殺行為，因此自殺風險最高。護理人員在此關鍵期應加強自殺防範措施，密切觀察病人行為變化。",
-    "category": "精神科護理學",
-    "subcategory": "情感障礙",
-    "difficulty": 2,
-    "tags": [
-      "憂鬱症",
-      "自殺防範",
-      "抗憂鬱藥物",
-      "護理評估"
-    ],
-    "source": "模擬題",
-    "version": "1.0"
-  },
-  {
-    "id": "NUR-PS-005",
-    "question": "護理人員與思覺失調症病人建立治療性人際關係時，下列何種溝通方式最為適當？",
-    "options": [
-      "A. 以簡短、明確的語句進行溝通",
-      "B. 使用大量隱喻和比喻來解釋事情",
-      "C. 順著病人的妄想內容附和以建立信任",
-      "D. 避免眼神接觸以減少病人的焦慮"
-    ],
-    "answer": 0,
-    "explanation": "與思覺失調症病人溝通時，應使用簡短、明確、具體的語句，因為病人可能有思考障礙、注意力不集中等問題。應避免使用隱喻或抽象語言（病人可能會字面解釋）。不可附和妄想內容（會強化妄想），但也不直接否定。適度的眼神接觸是建立治療性關係的重要元素，不應完全避免。",
-    "category": "精神科護理學",
-    "subcategory": "思覺失調",
+    "subcategory": "",
     "difficulty": 1,
-    "tags": [
-      "治療性溝通",
-      "思覺失調症",
-      "人際關係",
-      "護病關係"
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-001-ba59",
+    "question": "王先生，因罹患思覺失調症（schizophrenia）而被家人帶來住院，護理師予進行精神護\n理評估，下列陳述何項正確？①問病人：有志者事竟成之含義為何？屬抽象能力評估 ②問病人：今天一天中發生的事情？屬近期記憶評估 ③問病人：男人與女人有何不同\n？屬判斷力評估 ④問病人：臺灣過年時大家都會作些什麼事？屬一般常識評估",
+    "options": [
+      "①②③",
+      "①②④",
+      "①③④",
+      "②③④"
     ],
-    "source": "模擬題",
-    "version": "1.0"
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-002-8b6e",
+    "question": "陳小姐，25 歲，因有小兒麻痺症而從小依賴母親，一年前因離婚而返回娘家依靠母親，之後常出現對母親吼叫行為，就陳小姐目前所呈現的情感描述，下列何者為宜？",
+    "options": [
+      "浮動焦慮",
+      "激動不安",
+      "情感矛盾",
+      "害怕恐慌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-002-d256",
+    "question": "照顧一位重鬱症病人，整日臥床不吃不喝呈現類似呆僵的狀態，護理人員根據歐倫的自\n我照顧理論，最適合扮演以下何種角色？",
+    "options": [
+      "支持者",
+      "教導者",
+      "直接照顧者",
+      "諮詢者"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-003-b176",
+    "question": "母親懷孕前三個月，期間感染病毒性疾病，造成胎兒畸形甚至智能不足，請問係屬於下列何種因素？",
+    "options": [
+      "precipitating factor促發因素",
+      "predisposing factor前置因素",
+      "perpetuating factor續存因素",
+      "genetic factor遺傳因素"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-003-d935",
+    "question": "有關精神病人居家照護服務，下列何者正確？",
+    "options": [
+      "居家訪視的服務依家屬需求而定",
+      "居家照護的評估內容，需是整體性的範圍",
+      "居家照護的服務，受限人力與物力，採取間接服務為主",
+      "服務對象不包含無病識感且拒絕服藥的病人"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-004-d332",
+    "question": "李小姐已住院一個月和護理師會談提到：「一直以來只相信自己，也獨力把自己照顧得很好。」護理師回應表示：「你認為自己把自己照顧得很好，最近半年出現多次割腕的狀況是發生什麼狀況？」 此回應是屬於何種治療性溝通技巧？",
+    "options": [
+      "提出懷疑（voicing doubt）",
+      "鼓勵比較（encouraging comparison）",
+      "面質（confrontation）",
+      "鼓勵評價（encouraging evaluation）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-005-2761",
+    "question": "王太太得知罹患乳癌致身體心像紊亂而自殺，請問係屬於下列何種類型的自殺？",
+    "options": [
+      "自暴自棄型",
+      "自我中心型",
+      "利他型",
+      "社會解離型"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-005-4ab8",
+    "question": "郭先生住院時向護理師表示：「這飯菜已被敵營的人員下藥，我不能吃！」，此時護理師最適當的回應為何？",
+    "options": [
+      "「你多慮了！這飯菜不會有毒的。」",
+      "「你很擔心這飯菜有毒而不敢吃？」",
+      "「你若擔心就暫時不吃這餐好嗎？」",
+      "「為什麼？你有聽到誰說飯菜有毒？」"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-006-33ef",
+    "question": "反社會人格者，難以與人相處；係因為他們從來學不會下列何者?",
+    "options": [
+      "信任別人",
+      "依賴別人",
+      "和別人有社交的溝通",
+      "設身處地為別人著想"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-006-c9ea",
+    "question": "病患表示：「我先生雖然會打我，但是他事後都會道歉，所以我很難說他不好而離開他。」\n下列護理師的回應何者最適當？",
+    "options": [
+      "你的心裡很矛盾",
+      "你真是太傻了",
+      "你應該要離開他",
+      "離開他的條件是什麼呢"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-007-3dec",
+    "question": "有關機神衛生聯繫照會護理之敘述，何項不正確？",
+    "options": [
+      "其工作範疇僅限於綜合醫院",
+      "擴展專業之角色",
+      "照會的過程與一般護理過程相似",
+      "照會與被照會雙方維持平行的關係"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-007-e18f",
+    "question": "人類學家賀爾（Edward T. Hall）的研究指出，人的距離反映彼此的親疏。下列距離的排\n列何者正確？",
+    "options": [
+      "親密距離＜個人距離＜公眾距離＜社會距離",
+      "個人距離＜親密距離＜公眾距離＜社會距離",
+      "親密距離＜個人距離＜社會距離＜公眾距離",
+      "個人距離＜親密距離＜社會距離＜公眾距離"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-008-1025",
+    "question": "書寫團體治療記錄時，需包括哪些資料？①團體成員座次表 ②團體成員的症狀表現 ③\n團體成員出席狀況(包括遲到、中途離席、缺席) ④團體常模",
+    "options": [
+      "①②③",
+      "①③④",
+      "①②④",
+      "②③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-008-43a9",
+    "question": "強制住院須經下列何者鑑定？",
+    "options": [
+      "直轄市、縣市主管機構指定一位專科醫師鑑定",
+      "直轄市、縣市主管機關指定兩位以上專科醫師鑑定",
+      "直轄市、縣市主管機構指定一位緊急醫療醫師鑑定",
+      "該縣市之任一醫師鑑定即可強制住院"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-009-6fca",
+    "question": "患有躁症的劉先生打電話向警察局報案，表示自己被監禁、不自由，要警察來救自己，\n此時護理師 最適宜的處理措施為何？",
+    "options": [
+      "與劉先生會談，並傾聽其住院的不舒服",
+      "立即把劉先生的電話掛掉",
+      "限制劉先生三天不能打電話",
+      "劉先生出現不恰當行為，所以予以隔離"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-009-c7b8",
+    "question": "一位憂鬱症病人目前正在服用選擇性血清素回收抑制劑藥物 paroxetine（Prozac），而\n同時也服用抗精神病藥物 clozapine （Clozaril），二種藥物合用可能產生何種交互作用？",
+    "options": [
+      "循環功能減弱",
+      "增加痙攣的危險性",
+      "出現骨髓抑制加成效果",
+      "增加中樞神經系統抑制"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-010-7c70",
+    "question": "依據精神衛生法及施行細則，下列敘述何者正確?",
+    "options": [
+      "若精神病患傷人，法官判定其屬心神喪失之狀態，則受害者無法求償",
+      "安養機構應協助罹患精神疾病之住民就醫，否則將被科以罰金",
+      "家屬需負擔病患強制住院期間之精神醫療費用",
+      "學校可禁止招收曾罹患精神疾病之學生入學就讀"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-010-d8cb",
+    "question": "患有憂鬱症的小華：「我不想繼續參加這個活動。」護理師：「活動不好玩嗎？」小華：「雖然有時活動很有趣，但我常覺得融入不了別人的話題。」護理師：「不能融入別人的話題讓你感到不舒服嗎？」上述情境中，護理師使用的治療性溝通技巧為何？",
+    "options": [
+      "給予建議（offering advice）",
+      "讚許（giving approval）",
+      "反映（reflection）",
+      "面質（confrontation）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-011-3396",
+    "question": "徐小姐因有嚴重的幻聽干擾而住入精神科急性病房，一個月後徐小姐的幻聽仍未減輕，\n於是其父親向院方要求，讓徐小姐請假兩小時至廟中收驚，以下何者是較適宜的處置？",
+    "options": [
+      "告知其父親：「若要去收驚，就必須辦理出院！」",
+      "告知其父親：「這是正常的病程，不需擔心！」",
+      "若評估徐小姐無立即傷害性，則可答應其父親的要求",
+      "依醫療團隊討論的治療方針回應之"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-011-b83e",
+    "question": "精神病人服用下列何種藥物後，最有可能產生顆粒性白血球缺乏症？",
+    "options": [
+      "clozapine",
+      "haloperidol",
+      "risperidone",
+      "ziprasidone"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-012-4268",
+    "question": "依據中華民國「精神衛生法」所稱「社區精神復健」的敘述，不包括下列何者？",
+    "options": [
+      "協助病患逐步適應社會生活",
+      "於社區中提供病患有關工作能力之復健治療",
+      "於醫院中提供病患有關社交技巧與工作能力之復健治療",
+      "提供病患有關日常生活處理能力之復健治療"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-012-ce1e",
+    "question": "林女士有強烈自殺企圖，醫囑做電氣痙攣治療（ECT），下列治療後的護理措施中\n何者較適合？",
+    "options": [
+      "需密切監測林女士正腎上腺素變化，直到情緒穩定為止",
+      "密切觀察林女士思考變化，以防突發攻擊行為",
+      "林女士清醒後，需禁食 4 小時以避免吞嚥因難",
+      "當林女士出現短期記憶力喪失現象時，應予解釋"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-013-2b54",
+    "question": "下列何種患者最適合使用系統減敏感法來治療？",
+    "options": [
+      "思考障礙患者",
+      "情感障礙患者",
+      "知覺障礙患者",
+      "焦慮"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-013-f50c",
+    "question": "李先生罹患思覺失調症多年，因服藥遵從性不佳致經常發病住院治療，護理師評估後與\n醫師討論，醫囑開立 Risperidone（Risperiodone consta）25 mg 肌肉注射，下列何項正\n確？①藥物性質為油性 ②推藥速度宜快速 ③注射後不可按摩 ④限臀部深層肌肉注射",
+    "options": [
+      "①②③",
+      "①②④",
+      "①③④",
+      "②③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-014-287c",
+    "question": "當病人出現『重度焦慮』時，下列護理措施何者最佳？",
+    "options": [
+      "增加環境的刺激，以轉注意力",
+      "即刻了解並探索焦慮的原因",
+      "冷靜地陪伴病人並給予適當的保證",
+      "立刻通知值班醫師處裡"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-014-296f",
+    "question": "一位雙相情緒障礙症精神病人，其腎功能不佳，下列何種藥物較不適合使用？",
+    "options": [
+      "Quetiapine（Seroquel）",
+      "Carbamazepine（Tegretol）",
+      "Valproic Acid（Depakine）",
+      "Lithium Carbonate（Lithonate）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-015-6f57",
+    "question": "思覺失調症（昔稱精神分裂症）病人以被害妄想顯示對他人的敵意，最可能是反應下列\n何種心理防衛機轉？",
+    "options": [
+      "扺消",
+      "隔離",
+      "壓抑",
+      "投射"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-015-a060",
+    "question": "下列有關椎體外徑症候群（extrapyramidal syndrome, EPS）的敘述，何者正確？",
+    "options": [
+      "斜頸、牙關緊閉等現象，最易出現在長期用藥後",
+      "坐立不安、來回走動等現象，最易出現在用藥初期幾天內",
+      "類巴金森氏症（Pseudo-Parkinsonism）最容易出現在用藥 3 個月內",
+      "不斷眨眼、鼓嘴咀嚼等現象，最易出現在用藥 3 個月內"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-016-0d03",
+    "question": "孫太太患精神分裂症多年，在會談時護理人員問：「您貴姓？」答：「敝姓孫。」再問：「大名呢？」 答：「敝姓孫。」這種持續而不適當地重複現象為下列何種症狀？",
+    "options": [
+      "音韻聯接（clang association）",
+      "答非所問（irrelevance）",
+      "新語症（neologism）",
+      "延續症（perseveration）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-016-c976",
+    "question": "評價衛生教育計畫對目標群體是否能產生認知信念行為的影響是屬於哪一類型的評價？",
+    "options": [
+      "形成評價（formative evaluation）",
+      "總結評價（summative evaluation）",
+      "衝擊評價（impact evaluation）",
+      "過程評價（process evaluation）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-017-2ebd",
+    "question": "Ajzen 和 Fishbein 的理性行為理論認為人們是否會採行某項行為的立即決定因素為下列何者？",
+    "options": [
+      "行為意圖（Behavioral intention）",
+      "對行為的態度（Attitudes toward the behavior）",
+      "主觀規範（Subjective norm）",
+      "人際影響（Interpersonal influences）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-017-9679",
+    "question": "孤獨、情緒冷酷、過份敏感、多疑是下列何種人格違常症的特徵？",
+    "options": [
+      "妄想型人格違常症",
+      "類精神分裂型人格違常症",
+      "歇斯底里型人格違常症",
+      "反社會型人格違常症"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-018-68ba",
+    "question": "運用跨理論模式（Transtheoretical Model）瞭解糖尿病患從事規律運動的現況時，下列敘述 何者正確？",
+    "options": [
+      "在過去六個月內已開始從事規律運動的糖尿病患是處於準備期",
+      "已規律運動超過六個月以上的糖尿病患是處於行動期",
+      "目前沒有運動，但有打算要在六個月內開始運動的糖尿病患是處於沉思期（contemplation）",
+      "目前有運動但不規律的糖尿病患是處於沉思前期（precontemplation）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-018-b651",
+    "question": "王先生住院以來每天早上吃飯前會走到病房大門口，將書、水果和衛生紙放在地上，有\n外面的人進來時便朝向他人進行跪拜。上述描述最符合下列何種症狀？",
+    "options": [
+      "回音性動作（Echopraxia）",
+      "拒絕現象（Negativism）",
+      "作態行為（Mannerism）",
+      "靜坐不能（Akathisia）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-019-8530",
+    "question": "4個月大的安安接受發展篩檢評估時，下列何者為其不尋常的反應？",
+    "options": [
+      "聽到聲音會驚嚇、變安靜或睜大眼睛",
+      "仰躺時雙手會在胸前互相靠近",
+      "身體仰躺時雙手手掌均能自然地張開，不再一直緊握",
+      "即使跟他玩，他也很少發出聲音"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-019-d9de",
+    "question": "林小姐準備大學學測，因擔心學測結果未達媽媽的期待，常感焦慮不安。學測當日第一節考試時發現自己的手無力而無法握筆寫字，此為下列何種防衛機轉所致？",
+    "options": [
+      "轉化作用（conversion）",
+      "內射作用（introjection）",
+      "解離作用（dissociation）",
+      "象徵作用（symbolization）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-020-5480",
+    "question": "有關精神疾病的臨床表徵，下列敘述何者正確？",
+    "options": [
+      "病人規則地重複某些固定型態的無意義動作或言語，稱之為作態動作",
+      "不語症的動作行為障礙，最常見於重鬱症的病人",
+      "難以自我控制地重複某些動作或行為，稱之為強迫行為",
+      "重複他人的話，甚至模仿別人說話，稱之為阻抗行為"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-020-7997",
+    "question": "世界衛生組織對國家結核病已被控制的認定標準中，下列何者為是？",
+    "options": [
+      "死亡率每十萬人口3人以上",
+      "罹病率120/10萬人以下",
+      "50歲以上罹病率＜1%",
+      "完治率＞85%"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-021-6eb3",
+    "question": "下列何者並非躁症發作(manic episode)時之典型症狀表現？",
+    "options": [
+      "異常持續地高昂、誇大或易怒的情緒(elevated, expansive or irritable mood)",
+      "比平時話量變多或不能克制地講個不停(hypertalkive or pressure of speech)",
+      "睡眠需求減少(decreased need for sleep)",
+      "強迫性思考(obsessive thought)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-021-cec1",
+    "question": "依據跨理論模式，適合使用強化助人的人際關係策略的是在哪一個改變的階段？",
+    "options": [
+      "意圖期",
+      "準備期",
+      "行動期",
+      "維持期"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-022-3e14",
+    "question": "護理人員對張先生之精神症狀評估，下列何項正確？",
+    "options": [
+      "誇大妄想",
+      "被害妄想",
+      "關係妄想",
+      "控制妄想"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-022-9e3b",
+    "question": "在登革熱的病媒調查中，社區衛生護理人員共調查社區中200戶住宅，發現 有白線斑\n蚊幼蟲孳生的容器有30個，則其白線斑蚊的布氏指數為多少？等級為何？",
+    "options": [
+      "布氏指數30，等級4",
+      "布氏指數20，等級4",
+      "布氏指數15，等級3",
+      "布氏指數66，等級6"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-023-8473",
+    "question": "評估精神病患心智活動時，下列何種症狀屬於思考『過程』之障礙？",
+    "options": [
+      "自殺意念suicidal idea",
+      "強迫思考obsession",
+      "語無倫次incoherence",
+      "缺乏現實感feelings of unreality"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-023-f768",
+    "question": "下列資料為某市2019年的出生、死亡、遷入、遷出資料。出生率 11‰、死亡率4.3‰、\n遷入率3.8‰、遷出率8.5‰，下列何者是錯誤的？",
+    "options": [
+      "人口自然增加率大於6‰",
+      "人口成長值為3.5‰",
+      "人口社會增加率為負成長",
+      "人口呈正成長"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-024-afdd",
+    "question": "蔣先生，76 歲，診斷為失智症。護理師欲檢查蔣先生定向感、注意力、記憶力、語言\n、口語理解及行動能力時，應使用下列何檢測工具？",
+    "options": [
+      "阿茲海默症病人生活功能分期量表（Functional Assessment Staging of Alzheimer）",
+      "老人憂鬱症量表（Geriatric Depression Scale, GDS）",
+      "貝克憂鬱症量表（Back Depression Inventory）",
+      "簡短智能評估量表（Mini Mental Status Examination）"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-110-025-60fb",
+    "question": "健康政策的參與主要是落實社區衛生護理人員的哪一角色？",
+    "options": [
+      "管理者(manager)",
+      "領導者(leader)",
+      "顧問(counselor)",
+      "代言人(advocator)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "110年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-001-ae9d",
+    "question": "有關「偏差行為是奠基於早期發展衝突未妥善解決」，是以下哪一項模式的看法？",
+    "options": [
+      "精神分析模式(Psychoanalytical Model)",
+      "人際關係模式(Interpersonal Model)",
+      "行為模式(Behavioral Model)",
+      "醫療模式(Medical Model)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-002-b5d8",
+    "question": "以下何者是思覺失調症的生物化學研究結果發現？",
+    "options": [
+      "中樞神經傳遞物質GABA（γ-aminobutyric acid）活性過低",
+      "中樞神經傳遞物質多巴胺（dopamine）活性過高",
+      "中樞神經傳遞物質血清素（serotonin）活性過低",
+      "中樞神經傳遞物質NMDA接受器（N-methyl-D-aspartate receptor）功能增加"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-003-5309",
+    "question": "張小姐因為陳姓實習男護生與自己兒子的年齡相仿，因而對陳姓護生的言行舉止多所苛責。有關張小組的行為，下列敘述何者最適切?",
+    "options": [
+      "情感反轉移(counter-transference)",
+      "情感轉移(transference)",
+      "試探行為(testing behavior)",
+      "阻抗行為(resistance)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-004-b412",
+    "question": "有關思考障礙（disturbance of thinking）的敘述，下列何者最為適切？",
+    "options": [
+      "是指思考型態(thinking pattern)及思考內容(thought content)出現障礙",
+      "是經由感覺器官(sensory organ)得知環境所存在事物之過程出現障礙",
+      "是把接受到的訊息存於腦中，然後再換回意識層面的功能出現障礎",
+      "是個人在判斷、統合、及運用過去所學於新環境中的能力出現障礙"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-005-3029",
+    "question": "楊小姐，診斷為思覺失調症，BMI=30，有被害妄想，對護理師有敵意，今日早晨護理師在查房時發現病人床旁有大量零食。以下何項護理措施最為適切？",
+    "options": [
+      "趁楊小姐不在病室時，快速將她的零食收回護理站",
+      "鼓勵楊小姐把零食分送給其他病友",
+      "和楊小姐討論，理解存放零食的原因",
+      "先暫停醫院伙食，待零食食用完畢再協助訂餐"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-006-56da",
+    "question": "依據DSM-5診斷標準，有關妄想症（Delusional Disorder）診斷及臨床表徵，下列敘述何者最為適切？",
+    "options": [
+      "第一次發作的年齡通常在青春期晚期至30歲中間",
+      "病人常使用合理化作用的防衛機轉處理內心衝突",
+      "同時出現聽幻覺和胡言亂語是典型的發病症狀",
+      "在妄想沒有被討論時，病人的行為明顯符合常態"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-007-4d42",
+    "question": "趙先生，診斷為思覺失調症，在精神科慢性病房住院，有表情淡漠，多躺於床上，少與人互動；常自笑自語，尚不影響他人；衣著髒亂，有惡臭等情形。以下何項是趙先生最優先的護理問題？",
+    "options": [
+      "人際互動問題",
+      "正性症狀困擾",
+      "感覺知覺變異",
+      "自我照顧問題"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-008-07e1",
+    "question": "蔡小姐因急性精神症狀入院治療，表示聽到有人不斷指責她對家庭不負責任，因而經常搥打自己的頭部。護理師觀察到蔡小姐在病房獨來獨往，白天躺床，拒絕參加病室活動，有時不洗澡。以下何項是對蔡小姐最優先的護理目標？",
+    "options": [
+      "提供安全環境",
+      "協助自我照顧",
+      "鼓勵與他人互動",
+      "鼓勵表達幻聽"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-009-c4c9",
+    "question": "林小姐，診斷為強迫症（Obsessive-Compulsive Disorder），出現重複洗手，洗到雙手紅腫。以下何項護理措施最為適切？",
+    "options": [
+      "看到林小姐洗手時立即予以制止",
+      "告訴林小姐洗手導致紅腫的後果",
+      "在林小姐旁邊計算她洗手的次數",
+      "讓林小姐戴上手套洗手以免受傷"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-010-5a28",
+    "question": "陳先生，因焦慮住院治療，有哭泣、踱步、不斷搓手、言談困難，以及過分專注於事件的瑣碎細節等情形。以下護理措施何者最為適切？",
+    "options": [
+      "陳先生的行為反應屬於中度焦慮",
+      "提供安靜環境，降低過多的刺激",
+      "鼓勵陳先生接受並與焦慮和平共處",
+      "引導陳先生參加團體活動以轉移焦慮"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-011-d783",
+    "question": "陳先生，因長期使用酒精入住急性病房，有關酒精戒斷症狀的描述，下列何者最適切？",
+    "options": [
+      "交感神經戒斷症狀約在停酒後6-12小時出現",
+      "忽然停酒會增加GABA活性，使多巴胺分泌降低",
+      "因正腎上腺素活性降低，導致鎂離子濃度增加",
+      "酒精性幻覺(alcohol hallucination)以嗅幻覺最為常見"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-012-4b67",
+    "question": "王先生，88歲，經醫師診斷為失智症。有關提供家屬的護理措施，下列何者最適切？",
+    "options": [
+      "盡量由不同的家人輪流照顧，增加感官刺激",
+      "安排規律性日間活動，維持適當休息與睡眠",
+      "經常變更房間內擺設，強化對地點之定向感",
+      "盡量使用開放式問句，以表達關心和興趣"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-013-ff84",
+    "question": "有關老年期精神疾病的敘述，下列何者最適切？",
+    "options": [
+      "老年憂鬱症症狀以妄想和幻覺為主",
+      "失智症的病程多為漸進變化與發作",
+      "老年焦慮症症狀以記憶力障礙為主",
+      "帕金森氏症是因多巴胺過多所造成"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-014-698b",
+    "question": "有關精神科居家治療的敘述，下列何者最適切？",
+    "options": [
+      "居家治療的收案條件是由家屬決定",
+      "年老、獨居的精神病人不符合條件",
+      "服務內容包括身體檢查及健康評估",
+      "精神科專科診所不得辦理居家治療"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-015-f462",
+    "question": "有關中度焦慮症病人的護理措施，下列敘述何者最適切？",
+    "options": [
+      "以開放性問句協助病人確認行為與感受的關聯性",
+      "以安全為優先考量，安排病人進入保護室隔離",
+      "不宜讓病人自行做決定，避免促發病人更為焦慮",
+      "安排強度活動量訓練，轉移病人對焦慮的注意力"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-016-c9c9",
+    "question": "依據民國109年修訂之精神衛生法第19條規定，經專科醫師診斷或鑑定屬嚴重病人者，應置保護人一人。考量嚴重病人利益，得由哪些人互推一人擔任？①父母  ②配偶  ③法定代理人 ④監護人  ⑤同居人  ⑥里長   ⑦醫療人員",
+    "options": [
+      "① ③ ⑤ ⑥",
+      "① ② ④ ⑦",
+      "① ② ③ ④",
+      "① ③ ④ ⑤"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-017-0503",
+    "question": "當病人出現激躁不安，對他人口出穢言，並且頻用力搥打桌椅時，下列何項護理措施最為適切？",
+    "options": [
+      "呼叫支援系統，顯示足夠人力",
+      "站在病人正對面，制止暴力行為",
+      "請圍觀病友安撫病人的失控行為",
+      "致電請家屬即刻來院陪伴病人"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-018-596d",
+    "question": "有關日間型精神復健機構之治療目標，下列敘述何者最為適切？",
+    "options": [
+      "早期診斷、轉介及處置",
+      "增強競爭性工作的技能",
+      "強化社區中的生活能力",
+      "協助日常起居及陪伴"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-019-7ff6",
+    "question": "依據精神衛生法中的針對嚴重精神病人之「強制住院」、「強制社區治療」之規定，下列敘述何者正確？\n① 嚴重病人傷害他人或自己或有傷害之虞，且經專科醫師診斷有全日住院必要，方能啟動強制住院之鑑定流程；\n② 強制住院不得超過30日，若有延長必要經審查許可，每次得延長60日；\n③ 依法強制社區治療期間不得超過6個月，若需延長，經審查許可每次以一年為限；\n④ 強制社區治療得以不告知嚴重病人之方式為之，必要時並得洽請警察或消防機關協助執行。",
+    "options": [
+      "①②③",
+      "①②④",
+      "①③④",
+      "②③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-020-1e67",
+    "question": "服用鋰鹽治療病人，需定期檢查鋰鹽血中濃度，以下敘述何者較不正確？",
+    "options": [
+      "血中濃度檢查為監測個案有無鋰鹽中毒的風險。",
+      "血中濃度檢查亦可了解個案有無私藏藥物的行為。",
+      "為評估個案目前服用劑量是否達到治療濃度，作為藥物調整的依據。",
+      "血中鋰鹽濃度的檢查可作為個案疾病診斷的參考。"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-021-a897",
+    "question": "精神科病房重視環境對病人的影響，關於治療性環境的敘述，下列敘述何者正確? \n①嚴重病人雖然注意力不集中，但參與病房會議時，仍具有表達意見參與決定的權利。\n② 為顧及病房環境的公平性，病人的行為治療的規則應該具有一致性，不會因病患病情而有個別性。\n③ 精神科工作團隊人員需有自我覺察、自我省思的能力。\n④ 病房佈置應盡量溫馨，在安全允許下可讓病人放置自己的物品。",
+    "options": [
+      "①②③",
+      "②③④",
+      "①②④",
+      "①③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-022-7e57",
+    "question": "黃小姐診斷為思覺失調症，罹病10年長期受幻聽干擾，導致多次於家中縱火，服藥不規則。此次因縱火遭強制住院治療，全身20%燒燙傷，住院後懊惱聽從幻聽指示將房間燒掉，護理師此時的照護措施，下列何者正確。\n① 同理並接受病人感受 \n② 評估幻聽對病人生活干擾的程度 \n③ 與個案討論規律服藥持續治療之重要性 \n④ 不與黃小姐爭辯幻聽的內容",
+    "options": [
+      "①②③",
+      "①②④",
+      "①③④",
+      "②③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-023-c16d",
+    "question": "陳小姐21歲，近一個月來，打扮清涼、化濃妝、情緒高昂、話多、整日忙碌活動量大、睡眠需求少，經精神科門診醫生診斷為雙相情緒障礙症（bipolar disorder）急性躁症期，故住院治療。下列何者為較恰當的護理措施。\n① 留意個案進食及飲水量，提供容易入口且方便的飲食，以防熱量攝取不足。\n② 提醒並協助病人刷牙、洗臉、洗澡等自我照顧清潔，必要時予以協助。\n③ 安排參加病房內之團體競賽活動，協助消耗體力。\n④ 留意個案與異性病友之互動，預防不恰當性行為之意外發生。",
+    "options": [
+      "①②③",
+      "①②④",
+      "①③④",
+      "②③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-024-3cd0",
+    "question": "某精神科復健病房，由護理師帶領會心團體，成員A跟大家說：「我媽媽去逝了! 她最疼我…她走了我很難過…」隨即低頭啜泣，其他成員亦紛紛表達親人去世的悲傷。根據耶隆(Yalom)團體治療理論，此團體之治療因子含括? ①共通性(universality) ② 利他(altruism) ③ 情緒宣洩(catharsis) ④ 人際學習(interpersonal learning)",
+    "options": [
+      "①②",
+      "①③",
+      "②③",
+      "③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-111-025-d803",
+    "question": "陳小姐，診斷為思覺失調症(schizophrenia)，入院第二天在病房大廳跪拜，興奮表示：「我看到玉皇大帝降臨，祂全身金光閃耀，賜我法力，護士小姐你有看到嗎?」。請問下列護理措施何者為宜? ① 鼓勵個案描述對幻覺的感受與想法 ② 指出世界不可能會有玉皇大帝，這是幻覺 ③引導個案轉移注意力，勿回應其問話 ④ 建議個案可詢問其他病友，是否也看到玉皇大帝。",
+    "options": [
+      "①②",
+      "①④",
+      "②③",
+      "③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "111年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-001-0ac0",
+    "question": "黃先生，52歲，近日與案兄發生爭執，暴力攻擊，家人報警，警消單位帶入強制住院。進病房後，頻頻要求出院，需求未獲滿足，於某日趁護理人員開門進入護理站過程，闖入，拿起滅火器預攻擊護理人員，以下相關措施，下列何者正確？",
+    "options": [
+      "護理師表示: 黃先生，你再吵，我就把你綁起來",
+      "護理師先依醫囑給予黃先生藥物注射，再協助控制躁動情緒",
+      "護理師應先評估黃先生的反應，保持適當安全距離，告知醫師，備妥人力",
+      "護理師應立即滿足黃先生的需求，讓他出院，以緩解情緒"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-001-60e9",
+    "question": "有關第一代抗精神病藥物副作用之敘述何者為非？",
+    "options": [
+      "抗精神病劑作用愈強的藥物其錐體外徑症候群副作用愈大",
+      "抗精神病劑作用愈強藥物，其抗膽鹼作用和鎮靜作用愈小",
+      "錐體外徑症候群副作用的強度Haldol＞Wintermine",
+      "抗精神病藥物鎮靜作用的強度Haldol＞Wintermine"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-002-9251",
+    "question": "抗精神病藥物clozapine與選擇性血清素再吸收抑制劑 (SSRIs) 合併使用時，臨床上可能的藥物交互作用為何？",
+    "options": [
+      "循環功能減弱，呼吸抑制",
+      "骨髓抑制加成效果",
+      "增加痙攣的危險",
+      "中樞神經系統抑制加成作用"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-002-ceef",
+    "question": "有關自殺之描述，下列敘述何者正確？",
+    "options": [
+      "不自殺契約是防範自傷／自殺的護理常規，病人入院皆要同意簽署",
+      "依據統計，女性自殺身亡比率高於男性",
+      "作態性自殺（suicide gestures）：有明顯傷害自己的動機及意念，並出現不同程度的自傷作為手段，以達其真正目標",
+      "自殺意念（suicide ideation）：無自傷或自殺的想法，也無具體的自殺計畫"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-003-79ea",
+    "question": "有關電氣痙攣療法 (electroconvulsive therapy ; ECT)護理照護之敘述，下列何者正確？",
+    "options": [
+      "目前最常見的適應症為焦慮症",
+      "電流通過腦部引發痙攣，會先出現陣發性痙攣，再出現強直性痙攣",
+      "病人接受ECT治療者，並不需要事先洗頭，因為油垢有利於電傳導",
+      "病人接受ECT治療前，應確認病人排空膀胱與除去活動假牙"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-003-ef8b",
+    "question": "下列治療策略何者最適切？",
+    "options": [
+      "直接進行行為治療，不需要談論焦慮情境與感受，以免越想越陷入情緒困擾",
+      "與醫療團隊共同討論，訂立合宜的行為目標與治療，取得林小姐同意之後，共同執行",
+      "提醒林小姐不要刷牙、洗澡與洗手，以免身體健康受到影響",
+      "考量林小姐無法自控行為，故當強迫症狀一出現時，立即約束隔離，以降低焦慮"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-004-2272",
+    "question": "下列何種個案較適合採用「認知行為治療」，以協助其成長？",
+    "options": [
+      "思考脫離現實躁症個案",
+      "器質性精神病個案",
+      "70歲的失智症個案",
+      "30歲的慮病症個案"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-004-c6fe",
+    "question": "有關環境治療的功能與原則，下列何者正確？",
+    "options": [
+      "為減輕林小姐症狀的干擾，不宜讓她參與環境中的決策，例如生活討論會",
+      "安排結構性的活動，減少林小姐的不安與焦慮",
+      "邀請林小姐盡快參與人際互動，轉移注意力",
+      "阻斷林小姐的強迫行為，並進行面質與挑戰，解決強迫問題"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-005-8f99",
+    "question": "下列何者屬於心理分析治療的策略？",
+    "options": [
+      "探索病人早期人格發展中所出現的心理情結",
+      "增強其行為的改變",
+      "強調人是自主的，可自由創造具有價值意義的生存方式",
+      "個人的邏輯推理錯誤或不合理想法，常造成焦慮或適應不良"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-006-bc8a",
+    "question": "下列有關思考障礙 (disturbance of thinking) 之敘述，何者為非？",
+    "options": [
+      "包含思考型態 (thinking pattern) 及思考內容 (thought content)",
+      "意念飛躍 (flight of idea) 及思考中斷(thought blocking) 屬思考型態障礙",
+      "被害妄想 (delusion of persecution) 屬思考內容障礙",
+      "思維廣播 (thought broadcasting) 屬思考型態障礙"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-007-af7c",
+    "question": "吳先生，入院後第二天，心跳過快、定向感障礙、痙攣、意識混亂，聲稱於病室內看到蟲子。此\n時最可能出現的是下列何者？",
+    "options": [
+      "震顫性譫妄",
+      "酒精的戒斷症狀",
+      "酒精性失憶症",
+      "酒精引發的中毒症狀"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-007-cb3c",
+    "question": "個案出現意識昏迷，高燒、肌肉僵硬，血清肌酸酐磷酸酶(CPK)上升等徵象，稱為何種副作用？",
+    "options": [
+      "錐體外徑症候群 (Extrapyramidal Syndrome ; EPS)",
+      "抗精神病藥物惡性症候群 (Neuroleptic Malignant Syndrome ; NMS)",
+      "抗膽鹼副作用 (anticholinergic effect)",
+      "急性肌肉緊張異常 (acute dystonic)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-008-0fee",
+    "question": "將電流藉由通過頭部特定之金屬線圈，使其產生磁場並發出磁性脈衝，以影響腦部活動重複地在左前額葉皮層進行磁波刺激，治療難治型憂鬱症之患者，此療法稱之為？",
+    "options": [
+      "重覆經顱磁刺激（rTMS, Repetitive Transcranial Magnetic Stimulation）",
+      "電痙攣治療(Electro –Convulsive Therapy, ECT)",
+      "迷走神經刺激療法(Vagus Nerve Stimulation)",
+      "光線療法(Phtotherapy)"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-008-8a2e",
+    "question": "蔡曉強為13歲就讀國中男性，國小低年級診斷為ADHD，至國小3~4年級開始，開始出現偷竊行為，故意捉弄同學，反抗班上規矩與老師起衝突。國小5~6級開始，偷家人的錢買菸抽，孩子表示目前約1天抽一包，升上國中後，情緒問題明顯，衝動控制差，在學校常與同學和師長起衝突，尤其是當不合規定被糾正時，常出現強烈情緒反應，進而有自殘自傷之行為(割腕，跳樓)或暴力攻擊老師同學。孩子表示同學皆不喜歡他，自覺在學校人緣差，感到情緒低落，焦慮，不願在教室內上課，無法控制作出自殘之行為。近日因上述症狀加劇，收治入院，接受治療。有關蔡曉強的行為，護理師應如何向其母親說明較恰當？",
+    "options": [
+      "建議家長直接告訴孩子，自己無力管教，再有此行為只好送他去警察局",
+      "同理案母的感受，安撫情緒，並提供相關的醫療照護協助",
+      "孩子目前諸多問題應該是疏於管教與關心，故應需學習適當的管教方法",
+      "口頭約定孩子當出現自殘行為，會給予四肢約束"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 3,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-009-3475",
+    "question": "之前許先生處於憂鬱期時，對護理師說自己很糟糕，大家都瞧不起他，工作能力差，沒有人願意錄用他，整日臥床，不願意參加活動，下列護理措施何者最適合？",
+    "options": [
+      "應用善意溝通，傾聽同理他的感受",
+      "鼓勵他盡量要正向思考，不要想太多",
+      "以半強迫方式鼓勵參加職能治療，表示若沒有參加活動將無法順利出院",
+      "告訴他，沒事沒事，出院之後，一定會有工作，不用擔心"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-009-db00",
+    "question": "以下對於邊緣型人格障礙（Borderline personality disorder，BPD）的敘述何者為非?",
+    "options": [
+      "不穩定且緊張的人際關係，交替擺盪過度理 想化及貶抑價值兩個極端間",
+      "與壓力相關暫時性妄想意念或嚴重解離症狀",
+      "反覆出現自 殺行為、威脅或自傷行為",
+      "無法遵循社會規範要求、不斷出現違法行為"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-010-4173",
+    "question": "許先生處於躁期時，最不可能出現下列哪個症狀？",
+    "options": [
+      "睡眠需求減少",
+      "活動量減少",
+      "話量多，滔滔不絕",
+      "目標導向的行為增加"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-010-f06a",
+    "question": "有關長期照顧2.0的失智照護政策，下列何者不正確？",
+    "options": [
+      "團體家屋是專屬於失智症個案的照顧模式",
+      "服務對象為50歲以上的失智者",
+      "失智症共同照護中心可提供失智症患者個案管理",
+      "發現疑似失智症個案應轉介至瑞智學堂確立診斷"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-011-8fdf",
+    "question": "許先生最近常四處送人泡麵零食飲料，表示也要分享給實習護生，護生的處理方式，下列何者正確？",
+    "options": [
+      "告知如果收下，會被實習老師扣分",
+      "說明醫院規定不能接受病人的餽贈",
+      "與病人共同討論贈送物品的適度性",
+      "趁四下無人之際，收下藏好"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-011-d62f",
+    "question": "近年來社區衛生護理推廣去機構化運動，以下對於此運動之敘述何者有誤？",
+    "options": [
+      "成功的去機構化運動可預防不適當的住院醫療過程",
+      "成功的去機構化運動可緩解因精神病院不良的環境及精神病人長期住院產生社會功能退化現象所衍生的問題",
+      "去機構化僅以精神病人為主要推廣對象",
+      "衛生署的「加強積極治療與復建」、「減少消極收容與養護」衛生白皮書，亦呼應國內的精神醫療政策「去機構化」之政策思潮"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-012-fced",
+    "question": "護理師向許先生衛教規則服藥的重要性，許先生表示：「吃藥讓我覺得非常不舒服，出院之後我也不會持續吃藥」，下列何項護理師的回答較為合適？",
+    "options": [
+      "可是你住院期間都有吃藥，既然不舒服，怎麼還願意吃藥?",
+      "醫生是為了你好，你如果拒絕吃藥，就沒辦法出院",
+      "這我無法處理，等醫師查房的時候，請你自己告訴他",
+      "可不可以請您再仔細描述是怎麼樣的不舒服？"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-013-b6c3",
+    "question": "許先生提到之前曾經與異性交往，多次失戀的經驗。下列有關護理師之回應何種適當？",
+    "options": [
+      "「我也曾經失戀過，後來成功調適，你可以到我的IG了解我的心路歷程。」",
+      "「失敗為成功之母，多幾次被拒絕的經驗之後，相信未來就有機會成功，加油!」",
+      "「這是她們的眼光太差，不懂欣賞您。」",
+      "「當您被拒絕之後，有什麼感受？」"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-013-efe9",
+    "question": "有關學校中良好教室物理環境的基本標準，下列何者正確：①飲水機濾心應每半年更換一次 ②教室窗戶應占教室建坪面積1/5以上 ③教室內噪音的容許程度為70分貝 ④每100位女學生應有5個便器設備？",
+    "options": [
+      "①②",
+      "②③",
+      "③④",
+      "①④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-014-4033",
+    "question": "多多近來常因為身體不適到健康中心，今天早上因為手掌有擦傷到健康中心擦藥，校護在擦藥過程中發現他的手臂及身上多處出現不明的傷口與瘀青，校護須如何處理較適宜：1連絡家長送醫 2告知導師連絡社會局 3進行身體評估，處理身上傷口 4傾聽小星敘述身體不適與受傷的經過？",
+    "options": [
+      "①②",
+      "③④",
+      "①③",
+      "②④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-014-cd78",
+    "question": "由佩普洛（Peplau）所提出來的人際關係模式（interpersonal model）應用於臨床照護，下列敘述何者正確？",
+    "options": [
+      "護理人員教導病人規則服藥的方法",
+      "強調護理人員使用社交性的溝通技巧和病人建立關係",
+      "為求客觀性，護理師應壓抑自己的情緒，以避免造成情感反轉移",
+      "護理人員和病人發展信任和接納、真誠的治療性人際關係"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-015-1301",
+    "question": "下列何者不屬於職業病？",
+    "options": [
+      "切割玻璃工人慢性支氣管炎",
+      "新進員工體檢發現高血壓",
+      "長時間操作大型機具者罹患腕隧道症候群",
+      "資深護理人員椎間盤突出"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-015-b48f",
+    "question": "陳先生，坐火車往花蓮途中，突然發生火車出軌意外撞山，車箱多節受損變形，諸多乘客受傷死亡，之後持續出現睡不著、惡夢連連、感覺還聽到撞車時的剎車聲，多人驚聲尖叫，也不敢出門搭乘火車，上述症狀持續1個月以上，下列何項為最可能的問題？",
+    "options": [
+      "轉化症",
+      "創傷後壓力症候群",
+      "憂鬱症",
+      "強迫症"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-016-81dc",
+    "question": "請問甲護理師採用何種護理模式？",
+    "options": [
+      "監護室護理",
+      "生理層面照護模式",
+      "描述性護理",
+      "肌體性護理"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-016-d47a",
+    "question": "協助清潔鍋爐的大雄因鍋爐爆炸導致右手臂2-3度燙傷，尚無生命危險，下列何項不是職業健康護理師的角色職責？",
+    "options": [
+      "給予大雄傷處緊急包紮後，盡速送醫",
+      "協助受傷的大雄未來身體盡可能恢復最大功能",
+      "如未來確認大雄已無法再適應原有工作，應協助申請退職",
+      "重新至工作現場檢視作業場所的安全性"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-017-08ac",
+    "question": "健康高中學生參加畢業旅行返家後，爆發集體感染流感。有關流感的敘述，下列何者錯誤？",
+    "options": [
+      "流感多流行於夏季天氣炎熱時",
+      "流感病毒的潛伏期平均約2天",
+      "為上呼吸道感染的疾病",
+      "多由A型及B型流感病毒造成人季節性流行"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-017-664a",
+    "question": "由於病人症狀雖然趨於穩定，局部功能退化，妳認為提供何種服務項目較適切？",
+    "options": [
+      "急性住院治療",
+      "社區復健治療",
+      "慢性住院治療",
+      "養護服務"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-018-0985",
+    "question": "入院當天，主護護理師先向陳先生及家人說明：病房環境有門禁、違禁物品檢查及會客時間限制，請問主要目的為何？",
+    "options": [
+      "知情同意原則",
+      "公平/正義原則",
+      "利他性原則",
+      "不傷害原則"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-018-b642",
+    "question": "對於傳染病防治，下列何者不正確？",
+    "options": [
+      "水痘屬於第四類傳染病故須於24 小時內通報",
+      "傳染病防治著重於初段預防，故登革熱防治消滅病媒蚊，屬於第一段第二級預防",
+      "對於直接接觸傳染途徑管制方法，最好就是減少出入公共場所及戴口罩、打噴嚏掩口鼻",
+      "強宿主免疫力方法，除了加強衛生教育外，預防接種最直接有效"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-019-2673",
+    "question": "為控制COVID-19疫情，WHO積極宣導以戴口罩並勤洗手來預防疫情的散播，是應用以下何項遏止傳染病流行的原則？",
+    "options": [
+      "撲滅病原體",
+      "控制傳染原",
+      "增強人體的抵抗",
+      "控制傳染途徑"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-019-bb09",
+    "question": "依照精神衛生法於111年12月修法後，緊急安置的時間為何？",
+    "options": [
+      "兩日",
+      "七日",
+      "十四日",
+      "不超過三十日"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-020-4f42",
+    "question": "下列何項重金屬污染與疾病的關係有誤？",
+    "options": [
+      "鎘米─痛痛病",
+      "砷中毒─烏腳病",
+      "汞中毒─水俁病",
+      "鉛中毒─嬰兒變性血紅素血症"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-020-c522",
+    "question": "依據精神衛生法第 45 條，嚴重精神病人於急性期治療穩定出院，返家後仍無病識感且拒絕服藥、精神症狀仍相當不穩定、病人表達不要再回到醫院治療，且也拒絕接受社區強制治療；請問下列說明何者正確？",
+    "options": [
+      "經主管機構指定之專科醫師診斷與評估有無接受社區強制治療的必要性，若必要仍須強制之",
+      "能否強制社區治療之決定，應送達嚴重病人及其家屬",
+      "一般可先安排強制社區治療後，再送相關診斷證明資料",
+      "依法強制社區治療的期間不得超過 3個月"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-021-2ed9",
+    "question": "根據上述病史，請問造成王先生產生上述症狀的誘發因素(predisposing factor)？",
+    "options": [
+      "來自一個社會地位差的家庭",
+      "五星期前未能獲得升遷",
+      "投資股票",
+      "謹慎小心、保守、凡事要求完美"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-021-8bb5",
+    "question": "水質的檢測中，何項指標可以用來了解飲用水是否受到排泄物汙染？",
+    "options": [
+      "色度與濁度",
+      "餘氯值",
+      "浮游生物",
+      "大腸桿菌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-022-50cd",
+    "question": "承上題，下列何者是造成王先生產生上述症狀的前置因素(precipitating factor)？",
+    "options": [
+      "五星期前未能獲得升遷",
+      "婚姻生活不美滿",
+      "酗酒、自殺的家族史",
+      "兄弟姊妹間聯繫少，且不互相扶持"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-022-594a",
+    "question": "胖胖在吃完日式溫泉蛋之後開始嘔吐及下痢，伴隨發燒及腹部絞痛，此可能因食用未煮熟的雞蛋\n而導致何種細菌造成的食物中毒？",
+    "options": [
+      "金黃色葡萄球菌",
+      "沙門氏桿菌",
+      "霍亂弧菌",
+      "肉毒桿菌"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-112-025-33da",
+    "question": "有關社區衛生護理特性之敘述，下列敘述何者正確？ ①強調以人口群體為焦點 ②服務時間短 ③主要工作目標為疾病照護 ④強調團隊合作",
+    "options": [
+      "①②",
+      "②③",
+      "①④",
+      "③④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "112年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-001-ce22",
+    "question": "有關精神衛生聯繫照會護理之敘述，何項不正確？",
+    "options": [
+      "其工作範疇僅限於綜合醫院",
+      "擴展專業之角色",
+      "照會的過程與一般護理過程相似",
+      "照會與被照會雙方維持平行的關係"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-004-8a59",
+    "question": "依據精神衛生法第 45 條，嚴重精神病人於急性病房出院返家後，仍無病識感且拒絕服\n藥、精神症狀仍相當不穩定、病人表示不要再回到醫院去治療，且也拒絕接受社區強制治療；下列說明何者正確？",
+    "options": [
+      "依法強制社區治療的期間不得超過 3個月",
+      "經主管機構指定之專科醫師診斷與評估有無接受社區強制治療的必要性，若必要仍須強制之",
+      "一般可先安排強制社區治療後，再送相關診斷證明資料",
+      "強制社區治療的項目不含藥物之血液或尿液濃度檢驗"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-005-3cc4",
+    "question": "「強制社區治療」的工作項目中，下列何者正確？①藥物治療 ②藥物之依賴性評估 \n③藥物之血液檢驗 ④藥物之尿液濃度檢驗 ⑤酒精篩檢 ⑥放射性藥物檢驗",
+    "options": [
+      "①②③④",
+      "②③④⑤",
+      "①③④⑤",
+      "②③④⑥"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-006-16a1",
+    "question": "一位憂鬱症病人目前正在服用選擇性血清素回收抑制劑藥物 paroxetine (Prozac)，而同時也服用抗精神病藥物 clozapine (Clozaril)，二種藥物合用可能產生何種交互作用？",
+    "options": [
+      "循環功能減弱",
+      "增加痙攣危險性",
+      "出現骨髓抑制加成效果",
+      "增加中樞神經系統抑制"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-010-fb75",
+    "question": "關於善意溝通的步驟，以下何者較適切？①感受 ②觀察 ③請求 ④需要",
+    "options": [
+      "②①④③",
+      "①②③④",
+      "②④①③",
+      "①③②④"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-011-8565",
+    "question": "住院第一週，護理師安排定期會談。江先生說：「我一切都很好！沒什麼好談的。」\n請問護理師應如何回應較適當？",
+    "options": [
+      "你不想會談，是因為害怕面對問題？還是…",
+      "我不勉強你，你想談的時候隨時可以到護理站找我",
+      "我現在有一小時的時間陪伴你，我們可談任何事情",
+      "你可將所遭遇的問題或困難提出，我們一起討論如何處理"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-012-5636",
+    "question": "江先生不理會醫護人員或病友，不願走出房間，大部分的時間均在床上發呆或哭泣，食慾差。此時首要的護理重點為何？",
+    "options": [
+      "鼓勵參加病房團體活動",
+      "訂立工作契約，使病人共同負起防範自殺的責任",
+      "定時探視並鼓勵表達想法與感受",
+      "密切觀察與防範自殺"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-013-3260",
+    "question": "住院第四週，江先生能主動參與病房活動，與兩位室友互動良好，喜歡與他們談人生的議題。自訴近日將要出院，將手錶及戒指送給室友並給護理師親戚的電話，告知若有事情需處理可聯絡他們。此時護理師應如何處理較適當？",
+    "options": [
+      "協助病人計畫未來",
+      "安排會談，探討自殺的問題",
+      "鼓勵病人回顧與評值治療過程",
+      "進行出院準備護理並轉介居家照護"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-015-008f",
+    "question": "下列有關妄想（delusion）的敘述，何者最正確？",
+    "options": [
+      "病人表示病友對她笑就是對方愛上自己，雖然對方澄清絕無此意，病人仍堅持己見，是一種忌妒（jealousy）妄想",
+      "病人表示自己是內政部部長，入院後一直在交誼廳發表有關改善治安的意見，是一種誇大（grandeur）妄想",
+      "病人表示病友們在走廊哼歌，就是互傳訊息，想要聯手排擠他，是一種控制（control）妄想",
+      "病人表示病友是受到黑道指使，要來殺害他的，事實卻非如此，是一種虛無"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 2,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-024-93ee",
+    "question": "危機依壓力事件性質分類，有關成熟危機之敘述何者正確？①成熟上的危機是種內生性\n且可預期的危機 ②依據傑克遜的心理社會發展理論，各階段任務未達成可演變為危機 \n③成熟危機包括不可預期的事件，如失業、喪子或火災等 ④當個體經歷身、心、社會的\n巨大改變，潛在的危機就會發生。",
+    "options": [
+      "①②",
+      "①④",
+      "②③④",
+      "①②③"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
+  },
+  {
+    "id": "PS-113-025-2ff4",
+    "question": "有關災難中期護理評估項目，下列敘述何者較適切？",
+    "options": [
+      "災難應變知識與技能的準備",
+      "工作及生活場域資源與風險的確認",
+      "個人/社區健康需求的評估",
+      "環境復原的評估"
+    ],
+    "answer": -1,
+    "explanation": "",
+    "category": "精神科護理學",
+    "subcategory": "",
+    "difficulty": 1,
+    "tags": [],
+    "source": "113年護理師國考模擬",
+    "version": "2.0"
   }
 ]
